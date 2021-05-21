@@ -5,7 +5,7 @@
   "author": "FUJITAKA Tsuyoshi",
   "cover": "https://i.imgur.com/BnGW4E4.png",
   "chapters": {
-    "1": {
+    "01": {
       "title": "Die",
       "volume": "1",
       "groups": {
@@ -13,7 +13,7 @@
       },
       "last_updated": "1530504000"
     },
-    "2": {
+    "02": {
       "title": "Because your boobs were soft?",
       "volume": "1",
       "groups": {
@@ -21,7 +21,7 @@
       },
       "last_updated": "1530763200"
     },
-    "3": {
+    "03": {
       "title": "Why are most of the jerks Japanese!",
       "volume": "1",
       "groups": {
@@ -29,7 +29,7 @@
       },
       "last_updated": "1531108800"
     },
-    "4": {
+    "04": {
       "title": "The other world doesn't stand a chance against the strongest guardian spirit!",
       "volume": "1",
       "groups": {
@@ -37,7 +37,7 @@
       },
       "last_updated": "1531368000"
     },
-    "5": {
+    "05": {
       "title": "The likes of Oda Nobunaga and Sanyuutei Enchou",
       "volume": "1",
       "groups": {
@@ -45,7 +45,7 @@
       },
       "last_updated": "1532836800"
     },
-    "6": {
+    "06": {
       "title": "The eyeball's besides the point",
       "volume": "2",
       "groups": {
@@ -53,7 +53,7 @@
       },
       "last_updated": "1538193600"
     },
-    "7": {
+    "07": {
       "title": "Magnificent as always, Master!",
       "volume": "2",
       "groups": {
@@ -61,7 +61,7 @@
       },
       "last_updated": "1540872000"
     },
-    "8": {
+    "08": {
       "title": "Aren't support classes way too versatile in this world?!",
       "volume": "2",
       "groups": {
@@ -69,7 +69,7 @@
       },
       "last_updated": "1543726800"
     },
-    "9": {
+    "09": {
       "title": "What do you mean you killed ice?!",
       "volume": "2",
       "groups": {
@@ -84,6 +84,150 @@
         "delle": "/proxy/api/imgur/chapter/09cOxL2/"
       },
       "last_updated": "1548565200"
+    },
+    "11": {
+      "title": "Let's look like Allies of Justice for just a little more!",
+      "volume": "3",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1554868800"
+    },
+    "12": {
+      "title": "I decide what death is",
+      "volume": "3",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1557979200"
+    },
+    "13": {
+      "title": "What is Mokomoko-san's trump card?",
+      "volume": "3",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter/gPEeOMI/"
+      },
+      "last_updated": "1561867200"
+    },
+    "14": {
+      "title": "AΩ",
+      "volume": "3",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1562299200"
+    },
+    "15": {
+      "title": "Maybe this happens often in parallel worlds",
+      "volume": "3",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1572494400"
+    },
+    "16": {
+      "title": "Even if you say you're a celebrity travelling incognito...",
+      "volume": "4",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1572753600"
+    },
+    "17": {
+      "title": "Won't it solve everything if I just kill him",
+      "volume": "4",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1573102800"
+    },
+    "18": {
+      "title": "Star crystals are...?",
+      "volume": "4",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1580706000"
+    },
+    "19": {
+      "title": "The daughter of a warrior family",
+      "volume": "4",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1582434000"
+    },
+    "20": {
+      "title": "Saito Rikuto and Hayanose Aoi",
+      "volume": "4",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1582952400"
+    },
+    "21": {
+      "title": "A cruel world that only rewards effort",
+      "volume": "5",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1594699200"
+    },
+    "22": {
+      "title": "Would you mind if we just pass through real quick?!",
+      "volume": "5",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1594785600"
+    },
+    "23": {
+      "title": "Silence in the tower",
+      "volume": "5",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter/gPEeOMI/"
+      },
+      "last_updated": "1598846400"
+    },
+    "24": {
+      "title": "Ultra Rare",
+      "volume": "5",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1601611200"
+    },
+    "25": {
+      "title": "Resurrection Time",
+      "volume": "5",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1604552400"
+    },
+    "26": {
+      "title": "Hero Killing Sight",
+      "volume": "",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1609477200"
+    },
+    "27": {
+      "title": "Origin Blood",
+      "volume": "",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1613710800"
+    },
+    "28": {
+      "title": "A Sage's Troubles",
+      "volume": "",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1618027200"
     },
     "29": {
       "title": "The Hidden Lord",
