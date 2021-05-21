@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/BnGW4E4.png",
   "chapters": {
     "1": {
-      "title": "Instant Death",
+      "title": "Die",
       "volume": "1",
       "groups": {
         "delle": "/proxy/api/imgur/chapter/2c4CNL2/"
@@ -38,12 +38,52 @@
       "last_updated": "1531368000"
     },
     "5": {
-      "title": "",
+      "title": "The likes of Oda Nobunaga and Sanyuutei Enchou",
       "volume": "1",
       "groups": {
         "delle": "/proxy/api/imgur/chapter/gBOC3UI/"
       },
       "last_updated": "1532836800"
+    },
+    "6": {
+      "title": "The eyeball's besides the point",
+      "volume": "2",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter/bPRRrCT/"
+      },
+      "last_updated": "1538193600"
+    },
+    "7": {
+      "title": "Magnificent as always, Master!",
+      "volume": "2",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter/TrgR7bX/"
+      },
+      "last_updated": "1540872000"
+    },
+    "8": {
+      "title": "Aren't support classes way too versatile in this world?!",
+      "volume": "2",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter/ZcI6b9z/"
+      },
+      "last_updated": "1543726800"
+    },
+    "9": {
+      "title": "What do you mean you killed ice?!",
+      "volume": "2",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter/NByduVC/"
+      },
+      "last_updated": "1546059600"
+    },
+    "10": {
+      "title": "Life is harsh",
+      "volume": "2",
+      "groups": {
+        "delle": "/proxy/api/imgur/chapter/09cOxL2/"
+      },
+      "last_updated": "1548565200"
     },
     "29": {
       "title": "The Hidden Lord",
