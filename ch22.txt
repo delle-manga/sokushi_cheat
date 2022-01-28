@@ -1,0 +1,256 @@
+p1:
+ title:Would you mind if we pass through real quick?!
+ 
+p2:
+ b1:Trial Tower Third Floor
+ b2:Die
+ b3:In the end, none of them ever listen.
+ b4:They always understimate us and attack recklessly...
+ b5:I guess they put alot of faith in that 'status' thing...
+ b6:If they just used their brains for a moment, they would realize that we've survived somehow.
+ b7:Hmm, it's true that the unimaginitve always end up dying.
+ b8:Also... I may be overly self-conscious, but...
+ 
+p3:
+ b1:Aren't they always focusing on me?
+ b2:It's like their second statement is always something like 'leave the girl'...
+ b3:Yeah, you're right.
+ b4:I don't know if I want to know the answer, but... for me, uhm...
+ b5:why do they feel like attacking me so much?
+ b6:Well, it might just be that the people are going crazy and acting out of instinct, but...
+ b7:Yeah, it's because your attractive. And cute.
+ b8:And you've got a good figure.
+ b9:I can understand the feelings of a guy who wants to assault you.
+ b10:Wha?!
+ 
+p4:
+ b1:Ah, don't worry. I won't attack you.
+ b2:Asaka-san told me that forcing it was no good.
+ b3:Then if I agree to it?!
+ b4:I don't think you need to 'attack' if you have approval, but...
+ b5:In that case, there are no factors to hesitate over?
+ b6:It feels like I've been accidentally pinned down several times though!
+ text:Like that time in Hanabusa!
+ b7:It's an irresistible force.
+ b8:If it happens by accident, then the situation is one to enjoy.
+ b9:so positive?!
+ b10:This is the first time I've seen someone so positive about lucky situations.
+ b11:Are you impressed?!
+ 
+p5:
+ b1:I'm also impressed in my descendant trying to start a Rom-Com story in a situation like this.
+ b2:You've become suprisingly bold.
+ b3:a-anyways, let's keep going!!
+ b4:The second floor's stairs are just ahead!
+ b5:trial tower second floor
+ b6:What? This door...
+ b7:This is the biggest difference so far...
+ b8:Well, I'm just going to break it anyways though.
+ 
+p6:
+ b1:W-what's this...?
+ b2:an arena...?!
+ 
+p7:
+ b1:There's a fight between actual swordsmen!!
+ b2:It's a nice change of pace from all the colorful people who've attacked us so far...
+ b3:I remember seeing the three people over there on the roof.
+ b4:Shiro
+ b5:Do you understand me? That attack is no big deal.
+ b6:There's no need to be scared.
+ b7:Maybe I can do it too, Masaki-sama? 
+ 
+p8:
+ b1:well then, here I gooo!!
+ restore bubble 2
+ b3:You little!
+ b4:My clothes keep getting smaller and smaller!
+ 
+p9:
+ b1:Haiyaaa
+ 
+p10:
+ b1:eh...? she just swung it down so lazily?!
+ b2:Also, despite her clothes getting cut off, she's completely intact.
+ b3:The other person seems quite skillful though...
+ b4:The uninjured one has a round tail, maybe they're a bunny person.
+ b5:I don't care about that right now?!
+ b6:Hey, don't stare so intently!
+ b7:Even if they were naked, they'd still be a bunny person...
+ b8:No no, without the ears and tail, she'd just be a beautiful girl, right?!
+ b9:Even if she's a beautiful girl, the extra parts cause me to lose interest.
+ b10:Why are you so committed to this?!
+ b11:Anyways
+ b12:What do you intend to do now?
+ b13:We don't really care about the fight, so we should just quickly leave this room.
+ b14:Hm? This room's exit...
+ 
+p11:
+ b1:Maybe it's behind that group over there?
+ b2:There's probably no way we can get past without killing them though, right?
+ b3:Why would we kill them if they are just in the way.
+ b4:I think we should just wait a little.
+ b5:But
+ b6:It doesn't look like it's going to end any time soon...
+ b7:eh?
+ 
+p12:
+ b1:Kyaan!
+ b2:That hurts y'know!
+ b3:tch...
+ b4:What is this! This sucks!
+ b5:Hey! This sword is too heavy!
+
+p13:
+ b1:Kyaaa!
+ b2:Hiee... That looked painful...
+ b3:The bunny person looks fine though...
+ b4:The woman in the mantle is precisely aiming for all the vital points.
+ b5:She's very skillful, but it's still not effective...
+ b6:Heyy! You've been attacking wierd places for a while now!
+ 
+p14:
+ b1:Damn...
+ b2:Shouldn't you start getting serious?
+ b3:Is there any point in maintaining that disguise any longer?
+ b4:If my lie has been found out...
+ b5:Then I might as well give up on hiding it.
+ 
+p15:
+ b1:Heh... So this is the real you.
+ b2:You're a half-devil.
+ b3:Now that you've seen this form...
+ b4:I must finish this before it becomes a hinderance!
+ 
+p16:
+ b1:Haaaa!
+ b2:Kyaaa
+ 
+p17:
+ b1:Kyaaaa
+ b2:It hurts! Masaki-sama!! It huuuurts!
+ b3:You'll be fine if you put your arm back on.
+ b4:You really are hopelessly weak though with a sword, Shiro...
+ b5:Fight without a sword this time.
+ b6:Okaaay
+ b7:Well then...
+ 
+p18:
+ b1:Kuh...
+ 
+p19:
+ b1:Shiro can move much faster without a sword, Masaki-sama!
+ b2:That bunnygirl suddenly got alot faster...
+ b3:It seems like the cloaked woman can withstand the attacks though.
+ b4:The attacks seem to be just as effective as they were earlier...
+ b5:In other words, it's unlikely this will be settled soon?
+ b6:That's annoying...
+ b7:In a situation like this...
+ 
+p20:
+ b1:It might be good idea to try discussion.
+ b2:I don't have any memory of discussion working so far?!
+ b3:Excuse me!
+ b4:Would you mind if we pass through real quick?!
+ 
+p21:
+ b1:Takatou-kun, read the mood!
+ b2:Now is not the right time!!
+ b3:There was a battle to the death going on!!
+ b4:What's this? How did you guys get in this room...
+ b5:Ah! I get it.
+ b6:You probably broke through the wall without passing through the door I made.
+ text:I didn't consider that the tower's walls could be so weak.
+ b7:He somehow completely convinced himself...
+ b8:Well, it's fine, but...
+ b9:You're fighting eachother, right?
+ b10:WE don't want to bother either side, so won't you let us pass?
+ b11:...No.
+ b12:How about you guys keep us company.
+ 
+p22:
+ b1:My disciples haven't accumulated 100 points yet.
+ b2:If I was alone, I would have defeated this tower in an instant.
+ b3:We are here as training for these girls.
+ b4:Additionally, we're able to attain points by ambushing anyone who comes here...
+ b5:Well then, fighting us would be useless.
+ b6:We only have six points between the two of us.
+ b7:It's useless to not fight!
+ b8:His concern is opposite to us.
+ b9:Are you serious?! You're lying.
+ b10:WE ended up getting caught up in this trial.
+ b11:We're not interested in becoming knights of the holy king, nor do we care about collecting points.
+ b12:So, there's no reason not to let us pass, right?
+ b13:That's...
+ 
+p23:
+ b1:Oh, so it's as simple as walking down the stairs, is it?
+ b2:Sure, you might be able to knock down the doors or wall using brute strength, or even go through the floor for that matter.
+ b3:However, this is a game where you're meant to collect points.
+ b4:I'm just enjoying it according to the rules. And, I won't allow you to act illogically either.
+ b5:And you?
+ b6:M-me?!
+ b7:I don't care what you guys do.
+ b8:I'm here gathering points, so I have no reason to fight you.
+ b9:A 3vs3 would be good for training.
+ b10:If you can defeat these three, then I'll let you pass through.
+ b11:Or would you rather me to take you in as disciples as well?
+ 
+p24:
+ b1:The bunny over there is Shiro.
+ b2:The taller one is Geralda.
+ b3:And the small one is Ema.
+ b4:I'm starting to seriously doubt Takatou-kun's negotiation skills!!
+ b5:Maybe, but I think he's just the type of guy who doesn't listen either way.
+ b6:Couldn't you tell that the instant you looked at him?!
+ b7:This is a disaster for you guys too...
+ b8:If the other two are as powerful or even better than the rabbit, there's almost no chance at victory.
+ text:haahaha
+ b9:Yes, indeed! After all, Shiro is the weakest!
+ b10:Although she's sturdy, her fighting is amateur at best.
+ 
+p25:
+ b1:Ema's a swordsman and Geralda specializes in magic.
+ b2:He's so confident that he's telling us their abilties...
+ b3:Ah, how about we keep the half-devil and Japanese girls as well?
+ b4:It doesn't matter what state they're in as long as they're alive.
+ b5:Then, do you want us to only kill the boy?
+ text:I might want him for personal use.
+ b6:The good looking ones must always die.
+ b7:Understood.
+ b8:T-takatou-kun.
+ b9:Yeah
+ b10:In this tower, when faced with killing intent, Takatou-kun does only one thing...
+ 
+p26:
+ b1:Die
+ b2:If Takatou-kun uses his power to protect me...
+ b3:Then it's the same as if I do it myself...
+ 
+p27:
+ b1:What?! This is the first time I've seen this, but get ready...
+ b2:It might be some special battle style or something...?
+ b3:We defeated the three people.
+ b4:You promised to let us pass, right?
+ 
+p28:
+ b1:Let's go ahead, Dannoura-san.
+ b2:Okay.
+ b3:eh?
+ b4:eh?
+ b5:It doesn't seem like the door is trapped, but...
+ b6:Let me open it just in case.
+ sfx:kick
+ 
+p29:n/a
+
+p30:
+ b1:Liar
+ 
+ 
+note1:thanks for reading ch22, ch 23's raw should release 8/27
+note2:the Japanese for the tall girl was Ge-Ra-Ru-Da, the WN named the tall girl Gelaruda, I went with Geralda
+note3:the end of manga chapter 22 corresponds with the beginning of WN volume 2 chapter 15
+note5:The japanese used to describe hald-devil girl is '半魔'. the second character can mean 'demon' or 'devil', but i went with devil because 
+	it's the same character used to describe the Devil person. Also, the WN uses half-devil.
+note6:i tried to make the font fit better in the bubbles, tell me if its too small or whatnot

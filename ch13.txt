@@ -1,0 +1,286 @@
+p1:
+ b1:you said red dress... that must be lain-sama!~
+ b2:Damn it! I don't even get why!!
+ b3:Well then, i guess this is that lain's attack
+ b4:I don't get what they're thinking though... is it because they tested by ability earlier?
+ b5:Takatou-kun, are you able to do something about this?!
+ b6:I don't know... Efficiency aside, I feel like its supposed to be a countermeasure against me
+ b7:They're crashing down with no target and there's no killing intent.
+ b8:On top of that, they die on collision.
+ b9:Even though you say that, my city...!!
+ b10:Please!! Can you do something?!
+ 
+p2:
+ b1:All these women look the same though.
+ b2:How many of this lain are there?
+ b3:She probably split herself.
+ b4:Lain-sama’s hyper-regerative ability makes it so she can easily duplicate herself.
+ b5:I get it now.
+ b6:is there a way of doing it then...?
+ b7:I could fight back if they were aiming at me, but they're not.
+ b8:Ryouta-san, have any ideas?
+ b9:Ah!
+ b10:You could do something if you're aimed at?!
+ b11:All citizens. Please evacuate immediately.
+ b12:Please use public shelters throughout the city.
+ 
+p3:
+ title:What is Mokomoko-san's trump card?
+
+p4:
+ b1:A few minutes ago
+ b2:L...lain-sama!
+ b3:What exactly are... those...?!
+ b4:What? They are duplicates of me... How about we call them Lain B.
+ b5:My regenerative ability is to the extent that I can revive instantly if I'm burned to nothingness.
+ b6:If I put that to use, then duplicating myself isn't any trouble.
+ b7:Okay but... What in the world is it for?
+ b8:That's right. I would like to hear that as well.
+ b9:Lain B...sama?
+ 
+p5:
+ b1:Rain B is a duplicate of me, except that all of the memories of "a certain person" are omitted.
+ b2:I configured them that way.
+ b3:In other words, it means that "I can't have killing intent" towards that person.
+ b4:It takes into account the possibility of being counterattacked just by thinking of killing.
+ b5:Hmm
+ b6:I don't quite get the meaning but... I'll do as /i/myself commands.
+ b7:I'm sure I have a reason for doing this.
+ b8:So, wait in the sky and assault the city on my signal.
+ 
+p6:
+ b1:Lain B-sama will launch itself at the city... instead of using magic?
+ b2:Yeah. Magic isn't my strong point.
+ b3:Beyond that, it'll be very powerful as is with that much speed and power.
+ b4:...When I made the townspeople attack earlier, blood and meat fragments still reached him.
+ b5:On the other hand, attacks with intent were dodged regardless of visibility or distance
+ b6:In the case
+ b7:this attack is a success...
+ b8:Defeating him will also cause the destruction of the entire city.
+ 
+p7:
+ b1:L...Lain-sama...
+ b2:Euphemia, your information is helpful as well.
+ b3:I made it so the Rain B corpses will disappear after they die to prevent tracing the source.
+ b4:As such, he shouldn't be able to trace killing intent or the signal to start the attack.
+ b5:Lain B's! Do you see the aggressor Kuriyama over there?
+ b6:If something unusual happens to his appearance, begin the assault.
+ b7:The goal is to destroy Hanabusa city!
+ 
+p8:
+ b1:Confirmation but...
+ b2:Are you expecting something unusual to happen?
+ b3:That's right.
+ b4:Will Kurayami head towards the attack...
+ b5:or will Kurayami /b/die this time?
+ 
+p9:
+ b1:My class is /b/Mayor.
+ b2:I will skip the details, but look over here. This is a real-time bird's eye view of the city.
+ b3:oh?! wow!
+ b4:If I display only the damage information...
+ b5:It seems that there is a pattern to the attacks.
+text:damage
+ b6:They don't attack in the same place twice and they don't continuously attack nearby areas.
+ b7:People tend to have unconscious regularities when they try to do something in random.
+ b8: Then, the next attack point can be narrowed down to some extent.
+
+p10:
+ b1:Okay. Then I'll head that way.
+ b2:Thank you! At least let me help you get there.
+ b3:Takatou-kun! I'm going too!
+ b4:Dannoura-san too?
+ b5:Me too!
+ b6:I think it'd be safer if you hid with Ryouta-san though...
+ b7:The probablity of success increases since I can see them though, right?
+ b8:I have one "trump card" as well, youngster!
+ b9:Okay then... This spot should be a good waiting point.
+ b10:Let's hurry. The next attack might be soon!
+ b11:I'll teleport you guys!
+
+p11:
+ b1:We're here! The next point.
+ b2:Speaking of which, what is Mokomoko-san's trump card?
+ b3:Ah! It's them...
+ b4:It's coming!
+ b5:There, Takatou-kun!
+
+p12:
+ b1:Die
+ b2:mokomoko-san!
+ b3:Now!
+
+p13:n/a
+
+p14:
+ b1:Hiieee
+ b2:This is!
+ b3:Did you see it! This is my "trump card"!
+
+p15:
+ b1:I got this from that time with the aggressor robot!
+ b2:It seems to be some sort of artificial muscle that can be minipulated.
+ b3:I usually wear it under my clothes as a bulletproof vest but...
+ b4:It's able to transform into a shelter with Mokomoko-san's spiritual power.
+ b5:In addition to being able to change its shape freely...
+ b6:It's just as strong as the aggressor.
+ b7:Now then... It's good that we defeated this one but...
+ b8:its just one of the duplicates, right? Aren't there other ones?
+ b9:Hmmm
+ b10:Is the next attack really coming? I'd like to see how it looks but...
+
+p16:
+ b1:I think that we're fine.
+ b2:There was a response.
+ b3:The Lain B-sama's!
+ b4:are falling...?!
+ b5:hmm... It seems Takatou Yogiri killed the Lain B's.
+ b6:It seems that him killing one of them resulted in death for all those of the same template.
+
+p17:
+ b1:Individuals that are out of sync with the main unit are set to disappear soon.
+ b2:There's no need to worry about the corpses of the Lain B's, Euphemia.
+ b3:As I thought, we should not have involved ourselves with him!!
+ b4:Is that so? I still live though.
+ b5:In other words, it would be fine if I just make duplicates each with slightly different configurations next time.
+ b6:That way, if one dies, it won't affect the rest.
+ b7:It seems that the response to killing intent is also slightly different depending on the situation
+ b8:Perhaps that is the key to defeating him
+ b9:How boring.
+ b10:Well then...
+ b11:It seems that Takatou Yogiri isn't able to kill an Original Blood (me) after all...
+
+p18:
+ b1:Now then... The suppression of Kurayami is finished.
+ b2:I'll head back then...
+sfx:*frozen*
+ b3:...Lain-sama? Is there somethign wrong?
+ b4:This...
+ b5:My /b/main body...isn't reacting?
+ b6:This situation... is only possible if my main body is /b/dead...
+text1:
+ A link with the main body 
+ can not be detected.
+ <ERROR CODE 404>
+ Waiting in power saving mode.
+ Reconnecting in 5 seconds.
+text2:Retrying (1)
+ b7:...main body?
+ b8:What are you talking about, lain-sama?
+ b9:Euphemia...
+
+p19:
+ b1:I'm normally connected and synchronized with my main body which is in a different location.
+ b2:That is... the truth of the regenerative power and "immortality" of the sage Lain.
+ b3:As long as the main body (original) exists, it can produce as many copies as possible.
+ b4:However...
+ b5:Takatou yogiri... was able to reach and kill the main body through the incomplete Lain B's?
+ b6:Where the hell is the logic in that...
+ b7:L... Lain-sama?!
+ b8:It's too irrational... a power with strength to the point of it being stupid...
+ b9:But, that's exactly why.
+ 
+p20:
+ b1:That's exactly why it will save that child.
+text:
+The link with the main body has been 
+locked due to the number of failed attempts.
+This duplicate body will disappear after 5 seconds.
+ b2:...Lain-sama?
+ b3:LAIN-SAMA...!!
+
+p21:
+ b1:Primeval Forest
+ b2:Ryouka! It went that way!
+ b3:Leave it to me!
+
+p22:
+text:*clapping*
+ b1:Well done!
+ b2:It should be about time for today's level-up.
+sfx:sheathe
+
+p23:
+ b1:Sage Candidate (Yogiri's Classmates) Temporary Camp Site
+ b2:Fuuah, I'm tired!
+ b3:We'll meet up at 8 AM tomorrow!
+text:goodnight
+ b4:Okaay!
+ b5:I hear something from inside my private tent.
+ b6:An intruder...?!
+ b7:Who's here?!
+ b8:OH!
+ b9:Hello! Ryouka! (in english)
+
+p24:
+T/N: Carol's text uses katakana to imply she is pausing after each word
+ b1:Carol S. Lain...
+ b2:Can you not enter without permission?
+ b3:That's?
+ b4:That phone... I lost that last night...
+ b5:As I thought, it belongs to ryouka!
+ b6:I came to return it!
+ b7:...Thanks
+ b8:Where did it fall?
+ b9:Actually, I just took it secretly!
+ b10:...eh?
+ b11:I came to return it since it seems the battery has almost run out!
+ b12:...Can you stop speaking so haltingly? It's annoying.
+ b13:really? I'll stop then.
+ b14:...What's your aim?
+sfx*stare*
+
+p25:
+ b1:I wanted to see the surveillance tool on your smartphone, however...
+ b2:I think it's impossible to figure out the code before the battery runs out!
+ b3:...If you just used it normally, you would not notice the existance of the app.
+ b4:Who are you?
+ b5:I'm an American ninja!
+ b6:...The same as you, no?
+ b7:...My class is "Samurai".
+ b8:That's in this world, right?
+ b9:I'm talking about our original world.
+ b10:well... it doesn't matter who you are.
+ b11:If we can't go back to our original world, it's all the same.
+ b12:Anyways, can you show me the tool? There's no need to keep it confidential anymore.
+
+p26:
+ b1:Since you're also observing Takatou-kun, shouldn't you have something similar?
+ b2:We always had a dedicated satellite in order to monitor Takatou-kun, but...
+ b3:It's not much help in this world though... Japan has a much longer history with occult-related technology anyways.
+ b4:Here, this is it.
+ b5:As I thought, he's alive~
+ b6:Wait a minute...!
+ b7:Takatou-kun's seal is...! The first gate is open...?!
+ b8:Since he sealed himself, it's likely he's able to undo it himself.
+ b9:Yup... thanks for the info.
+ b10:Well, cya.
+ b11:Carol... What are you intending to do?
+
+p27:
+ b1:Nothing at the moment?
+ b2:Won't we meet him eventually if we just proceed as is?
+ b3:Are...you not scared?
+ b4:/i/Scared? Perhaphs Japan's way of thinking is different.
+ b5:Do you think of Takatou-kun as a monster or something?
+ b6:Is there any other way?
+ b7:"Killing someone just by thinking of it"...
+ b8:Even in his sealed state, I wasn't able to have peace of mind...
+ b9:Hmm. How about this...
+
+p28:
+ b1:Why don't you think about it very simply?
+ b2:"A being that controls the death of all living things."
+ b3:What is that called?
+ b4:no way...
+ b5:We are shaken when we know that it exists in reality.
+ b6:As a result, there's no choice but to abandon your previous beliefs.
+ b7:...Well, something like that.
+ b8:Goodnight, Ryouka.
+
+note:
+First off, thanks for reading chapter 13. The raws for chapter 14 should release 7/3.
+Second, a bit of explanation on Carol and Ryoko's conversation. Ryoko works for Japan and Carol works for America. Carol says that Japan is more technologically advanced in terms of the occult because Yogiri lives there.
+Third, Ryouta's mayor powers include the ability to teleport anywhere in the city.
+Also, I spent more time on the positioning and sizing of text, please do give feedback (this didnt cause delay in release, im just lazy).
+Lastly, the end of manga chapter 13 corresponds to the end of webnovel chapter 38. However, the second half of chapter 37 is not shown in the manga (yet), so you might want to read from that part.

@@ -1,0 +1,271 @@
+p1:
+ right:Manga volume 2 releases March 12!
+ Manga: Nanto Hanamaru
+ Original: Tsuyoshi Fujitaka, Chisato Naruse
+ title:Life's harsh
+
+p2:
+ b1:...eh?!
+ b2:What's this?! If you look closely...
+ b3:A doll...?!
+ b4:Why is something like this attacking me?!
+ b5:Wha...
+ b6:GYAA!!
+ b7:How many are there?!
+
+p3:
+ b1:It seems time has come when our Dannoura Bow can be useful!
+ b2:I thought you were joking earlier though. Why did my family even invent anti-air techniques?!
+ b3:Ufufu~
+ b4:Although I did believe I would be able to settle this myself...
+ b5:I see.
+ b6:I thought you were desperately being honest, but really you were just stalling.
+ b7:Another one of his guards is attacking?!
+ b8:It is probably the owner of these dolls.
+
+p4:
+ b1:Some sort of puppet master?
+ b2:It seems like they're not so strong individually, but...
+ b3:So we must kill the main body that is hiding somewhere.
+ b4:Where's the main body...?!
+ b5:Takatou-kun, can your ability find where it is?
+ b6:You can see murderous intent, right?
+ b7:Ah... yeah.
+ b8:That shouldn't be too hard.
+ b9:Let's head to the emergency stairs.
+
+p5:
+ b1:Who said you could!!
+ b2:We were told to get that woman but...
+ b3:It wasn't said that she had to be 'unharmed'!!
+ 
+p6:
+ b1:Let's go, Dannoura-san.
+ b2:wha...
+sfx:clunk clunk
+ b3:Hey!
+ b4:What just happened?!
+ b5:Morulun! Jennifer! Jacky!
+ b6:No...no! Move! Come on, hey!
+
+p7:
+ b1:That girl!
+ b2:She's a guard...Cheslea!
+ b3:She was the puppeteer?
+ b4:Eeek?!
+ b5:Stop! Please, stop!
+ b6:No more killing! I'm sorry, I'm sorry!
+ b7:Takatou-kun, is it just me or do we look like the bad guys here...?
+ b8:Even if you say that, all I did was protect us.
+ b9:I will do anything Onii-chan says!
+ b10:Please forgive me! I'm sorrrry!!
+sfx:crying
+
+p8:
+ b1:Riza died.
+ b2:eh...?!
+ b3:No way... Captain Riza was defeated by those two?!
+ b4:I don't know all the details, but it looks that way.
+ b5:Chelsea seems to have lost her will to fight and is giving them info.
+ b6:Well, not like I ordered her to keep things secret.
+ b7:Knowing that there's no weakness to the ability of a "Dominator" will probably only cause them to despair.
+ b8:According to Riza and Chelsea's memory...
+ b9:Apparently, it seems that it came from Takatou Yogiri's hand.
+ b10:I don't know his class name or skill though...
+
+p9:
+ b1:He's saying, "I can kill my opponent just by thinking it"
+ b2:What do you thing, Euphemia?
+ b3:It's a very hard to believe story... It seems there are three possibilities.
+ b4:One possibility is that their gifts are of superior class.
+ b5:It's hard to believe that Riza and Chelsea happened to be their subordinate classes.
+ b6:Another possibility is an extremely large difference in levels.
+ b7:If this is the case, then it's possible to invalidate one's magic or give enough damage to cause immediate death, but...
+ b8:But my subordinates are supposed to receive a fraction of my level's power, do they not?
+ b9:I'm over level ten thousand, right?
+
+p10:
+ b1:Other than a sage,
+ b2:It seems difficult to realistically believe someone can overwhelm my lord, who is the "Dominator", in terms of level difference.
+ b3:hmmm?
+ b4:Well then, what's the third? Just a bluff or something?
+ b5:No... Lord, Riza and Erika have already been defeated.
+ b6:Third is... it's possible that they possess an "unknown power" outside the system of sage and sword saint gifts.
+ b7:An unknown power?
+ b8:Well, that's not much of an answer.
+
+p11:
+ b1:But it's likelihood is the highest..
+ b2:So what? You think I feel threatened?
+ b3:There's definitely a hidden device, an unusual skill, or something.
+ b4:We'll just do a little observation and find out the trick.
+ b5:I could also use magic to just quickly blow away the city though...
+ b6:There's a sage's barrier around the city, so the probability of success is pretty low...
+ b7:Oh yeah...
+ b8:Dannoura-san would get caught up in it as well.
+ b9:The other strong subordinates are scattered around raising my level.
+ b10:We can't attack him right now.
+ b11:Guess I'll start by ordering everyone that seems useful to gather right outside the city...
+
+p12:
+ b1:GYAAAAAAA?!
+ b2:can't you make your scream sound a little cuter?
+ b3:Oh, a cockroa??
+ b4:Don't say it!!
+ b5:If I hear that word right now, I won't be able to think of anything else, so stop!
+
+p13:
+ b1:The insects are everywhere, but only the path is unnaturally left open...
+ b2:It seems like they are just being controlled.
+ b3:eh?! Does that mean this i?s also the work of Tachibana-kun?!
+ b4:It at least doesn't look like insects in their normal state.
+ b5:The insects' gaze make it feel like they are just providing surveillance or something.
+ b6:Besides, I can see something a bit like a malicious network.
+ b7:It might be the command system of a skill of Tachibana's "Dominator".
+ b8:To be clear, I can trace the origin if they have "killing intent", but...
+ b9:You said "killing intent"
+ b10:Georges might be super disgusting, but surely they can't kill someone...
+ b11:You're calling them George?
+
+p14:
+ b1:With this many of them I could see it happening.
+ b2:For example, they could crawl into your mouth and suffocate you by blocking your windpipe.
+ b3:Yu...
+ b4:Yuuki Tachibana...!!!
+ b5:You've really done it now...!!!
+ b6:It seems like she imagined it happening.
+sfx:Intent to kill tachibana
+
+p15:
+ b1:Kill them! Takatou-kun!
+ b2:Now is the time to use your power for good!
+ b3:Don't you think that the corpses will drop from the walls and spill all over the stairs?
+ b4:Completely forget what I said!!
+ b5:Anyways, he can put insects under his control as well...
+ b6:Since it seems unlimited, won't the number of his slaves keep increasing.
+ b7:That's concerning... If you leave him alone, won't all the creatures of the world turn into enemies?
+ b8:Either way, let's get out of here for now.
+ b9:Tachibana-kun is waiting outside town for us, right? Should we just meet him there?
+ b10:If things go the way I'm thinking then that won't be necessary.
+ 
+p16:
+ b1:I think I'll kill Yuuki Tachibana.
+ b2:...hmm
+ b3:He's surrounded so he can't use his power.
+ b4:Let's see how long they can last being chased constantly.
+ 
+p17:
+ b1:Lord... There is no need to go head to head with a power we don't understand.
+ b2:In your case, Lord, further contact with them would be easily avoidable.
+ b3:Are you telling me to sneak around hiding from someone?
+ b4:Is that really the behaviour of a "ruler"?
+ b5:...Lord is always full of confidence.
+ b6:While there were some ups and downs in his life, everything always turned out the way he wanted...
+ b7:Although it can be said that it is just hopeful...
+
+p18:
+ b1:The power of the "Dominator" can certainly do anything.
+ b2:However,
+ b3:Just this one time, I have a bad feeling...
+ b4:Miserably running away is the only option of one who makes an enemy of the "Dominator".
+ b5:Slaves! Drive Yogiri Takatou out of town!
+ b6:And Kill him!
+
+p19:
+sfx:movement
+ b1:T... takatou-kun, something's up with the insects...!
+ b2:There was some faint malice...
+ b3:Different from "killing intent"...
+ b4:H... Hiieeee
+sfx hissing
+
+p20:
+ b1:UGYAAAAA
+ b2:They're attacking!!
+ b3:This killing intent is all...
+
+p21:
+ b4:connected!
+ b5:Yuuki Tachibana!!
+ b6:Die.
+
+p22: n/a
+
+p23:
+sfx:scatter
+ b1:Wait...
+ b2:The Georges are still alive though?!
+ b3:Don't tell me it misfired after all this time!?
+text:NOOO!!
+text:The Georges are alive!!
+ b4:I can't guarantee that misfires aren't possible, but...
+ b5:Up until now it's never happened, okay?
+ b6:If everything went right, then Tachibana just died.
+ b7:...What?!
+
+p24:
+ b1:Tachibana tried killing me with the bugs, so I killed him first...
+ b2:Are you telling me that power works even if you have no clue where your target actually is!?
+ b3:Because Tachibana is the "Dominator", I was able to trace his origin.
+ b4:I mean, if he can reach me...
+ b5:it's only logical that I can reach him as well.
+ b6:Life's harsh, whenever you try to harm someone, you risk being harmed yourself.
+ b7:Isn't life exceptionally soft on you alone though!?
+ b8:I don't think so?
+ b9:life wasn't particularly easy back in Japan.
+
+p25:
+ b1:The killing intent of the insects just disappeared as well.
+ b2:That confirms that I killed Tachibana.
+ b3:Ahh, more importantly than that, these guys are starting to move again!!
+ b4:Looks like they're free from the mind control now that Tachibana has died.
+ b5:It looks like they're moving pretty naturally now.
+ b6:No no no! That's terrible!
+text:They're moving! Run! They're flying too!
+ b7:Aren't you going to kill them!?
+ b8:Killing things just for being gross sounds a little unacceptable if you ask me.
+ b9:Why are you always so reasonable in these situations!?
+
+p26:
+sfx:stomp thud stomp
+sfx:gyaaaaaaaa
+sfx:agghhh
+ b1:haaa... We escaped!
+sfx:wheeze pant
+ b2:Wait, do we still need to run away from here...
+sfx:crack
+sfx:uuaaaah
+ b3:Even though Tachibana is dead...
+ b4:He may have some subordinates who would attack us of their own will.
+ b5:I think it would be better to head to the captial.
+sfx:gyaaa
+sfx:chaos
+ b6:Yeah, I guess.
+sfx:ahhhh
+
+p27:
+ b1:Still though... Isn't the main street really noisy?
+ b2:It seems pretty serious.
+ b3:By the way, I thought it was pretty noisy outside the hotel, right?
+ b4:What was it?
+ b5:Let's go and see.
+ b6:I wish we didn't have to exit the alley on this side but...
+ b7:it looks like the main street is the only road to the station...
+ b8:UOOOOOAAA!!
+ b9:...what?
+
+p28: zombie sounds
+
+p29:
+ b1:Wh... what is this?!
+ b2:I thought this was some sort of fantasy world...
+ b3:But now it's a zombie apocalypse?!
+text:The series will skip a month and release chapter 11 on 3/29 in order to work on volume 2 of the manga.
+
+
+note:
+I didn't like my redraw on p23 so i scrapped it, hope it didnt annoy too many people
+something interesting from the WN: img#1
+some info on yogiri's power from the WN: img#2
+the title of this chapter literally: 'Life isn't sweet enough to do something one-sided'
+the end of this chapter corresponds with 

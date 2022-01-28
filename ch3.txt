@@ -1,0 +1,200 @@
+p1:
+ b1:We finally arrived!
+ b2:It's a city, takatou-kun!
+ b3:This is where Hanakawa said the first goal of the quest was..
+ b4:They're closing the gate!
+ b5:Isn't it normal to close them over night?
+ b6:Wait! Excuse me!
+ b7: eh? What?
+
+p2:
+ b1:It certainly is a different world.
+ b2:They don't understand Japanese...
+ b3:A little, understand.
+ b4:Japanese people?
+ b5:Oh, wow....
+ b6:Right! Can we please enter?
+ b7:Feudal lord, I'll get.
+ b8:wait.
+ b9:Some people understand Japanese, I guess...
+ b10:Are you sleepy again?
+ b11:You just slept on the way here.
+ b12:nnn...
+ b13:It cant be helped. Using my powers makes me tired...
+
+p3:
+ b1:More Japanese, eh. You from a different group than the ones that got here at noon?
+ b2:The Feudal Lord?
+ b3:He looks Japanese though...
+ b4:This perosn might be one the sage's acolytes that Sion talked of.
+ b5:We lost sight of those guys from noon and are trying to catch up.
+ b6:Could we enter the city?
+ b7:Tch. Usually there's a fee for entering, but I doubt you've got money.
+ b8:You're lucky the sages ordered not to obstruct any sage candidates.
+ b9:Are the others still in this town?
+
+p4:
+  b1:I don't know, something about the royal capital.
+ b2:Not my problem...
+ b3:Figure it out yourself.
+ b4:Well, thanks.
+ b5:We should probably stay in town until tomorrow..
+ b6:Ah, right.
+ b7:Since you ain't got money, you've no place to sleep, right? I wouldn't mind letting just the girl stay at my mansion.
+ b8:How about it, eh?
+ b9:No thank you!
+ b10:Let's go, takatou-kun!
+ b11:s- sure.
+
+p5:
+ b1:Waaa! It totally feels like a fantasy town here!
+ b2:Look! There's even animal people!
+ b3:Why did you do that so suddenly back there, Dannoura-san?
+ b4:Did you dislike the feudal lord that much?
+ b5:Well, yeah, it did bother me, but...
+ b6:I was more worried about was his life.
+ b7:I thought you might kill him...
+
+p6:
+ b1:Come on, I'm not some serial killer.
+ b2:Oh my. I must say, your lack of self-awareness is a bit surprising.
+ b3:Hey now...
+ b4:it's not like I'd kill someone for no reason. 
+ b5:You should reflect on your eye for people.
+ b6:Excuse me!
+ b7:Are you Japanese, nya?
+ b8:Nya?
+ b9:Do you guys need help, nya?
+
+p7:
+ b1:First time seeing you in this city.
+ b2:You wouldn't need a guide, nya?
+ b3:A person of this world?!
+ b4:Wow, your Japanese is so good!
+ b5:Of course, nya.
+ b6:Girls in this town usually study Japanese, nya.
+ b7: Eh? Why's that?
+
+p8:
+ b1:For the sake of getting along with Japanese guys, nya!
+ b2:They're known for having good future prospects and being quick to marry, nya.
+ b3:Is it normal to be this frank!?
+ b4:It's not really something to hide, nya.
+ b5:Ah! But don't worry, I'm not after guys with girlfriends or anything!
+ b6:N- no, I'm not really his girlfriend though...
+ b7:Besides boyfriend hunting,
+ b8:I want to get to know more Japanese people.
+ b9:And from there, I can meet more guys, nya!
+ b10:What do you think?
+ b11:Well, we don't know where anything is, so let's go along with it.
+
+p9:
+ b1:Well then, nice to meet you!
+ b2:My name's Mireille!
+ b3:I'm Tomochika Dannoura.
+ b4:Yogiri Takatou.
+ b5:Alright, I'll lead the way!
+ b6:Would you like to start with shopping or eating, nya?
+ b7:Well, first...
+
+p10:
+ b1:Well, I ended up buying new clothes.
+ b2:You would never find these in Japan!
+ b3:Takatou-kun, are you fine like that?
+ b4:You didn't buy any clothes or weapons...
+ b5:Yeah, I'm good.
+
+p11:
+ b1:However, Dannoura-san bought a bow at the weapons shop.
+ b2:Were you in the archery club?
+ b3:W- well, I wasn't in the club, but I've used one before.
+ b4:Anyways, I'm hungry!
+ b5:Mireille, What's there to eat at this shop?
+ b6:This store has some Japanese foods.
+ b7:There's even a menu in Japanese, nya!
+ b8:Really?!
+ b9:This city is protected by the sage's from the dangerous monsters outside.
+ b10:Even though everyone has some gifts inherited from their parents,
+ b11:the gifts of the sages are exceptional!
+
+p12:
+ b1:The Japanese people who master their powers and become sages are important figures.
+ b2:However, were you two not given a gift by them, nya?
+ b3:What makes you think that?
+ b4:It's pretty easy to tell, nya.
+ b5:Even if your analyze level is low, it tells if someone is strong or weak.
+ b6:In your case, it's [Major Weak], nya!
+
+p13:
+ b1:Aa! Are you maybe aiming for the Sword Saint's gift instead, nya?
+ b2:Just as...
+ b3:How can you do that without a status!
+ b4:Hanakawa also said that.
+ b5:Appearing to not have strong gifts could be bad.
+ b6:I better be cautious.
+ b7:...I thought.
+
+p14:
+ b1:Well, I kinda expected it to turn out this way.
+ b2:Sorry! I was just blindly following the guide's instructions!
+ b3:I never thought a kind catgirl would be the kind to sell us out!
+ b4:Goes to show that the world isn't such a nice place, nya.
+ b5:You're after money?
+ b6:I'm sure you have plenty to spare.
+ b7:We'll take all your money, but that's not all.
+
+p15:
+ b1:Aren't you Japanese too?
+ b2:So! We Japanese are hated by nobles for wreaking havoc in this world.
+ b3:However, gifted Japanese people are too strong.
+ b4:That's where you come in. We can sell giftless Japanese people at a high price to these nobles for their, let's say...
+ b5:Stress Relief!
+ b6:This world lacks friendly people...
+ b7:Is it just me, or are almost all the jerks Japanese though!?
+
+p16:
+ b1:Anyways, I get what you guys are after now.
+ b2:Well,
+ b3:I'm thinking of killing you all for it, are you sure?
+ b4:Ahh, don't you worry.
+ b5:We won't be killing you, aight?
+ b6:Then again, death would be a blessing compared to your future!
+ b7:Mireille! We'll forget about this so just pull back!
+ b8:Nya nya?
+ b9:You guys don't stand a chance against Takatou-kun!
+
+p17:
+ b1:You think that kind of bluff would work?
+ b2:Gifts are everything in this world.
+ b3:And the two of you are giftless...
+ b4:What can you do?
+ b5:You can't do anything, nya!
+ b6:Six in front...
+ b7:And five people blocking behind us.
+ b8:For now...
+
+p18:
+ b1:Everyone in the back, die.
+ b2:Haaa?
+ b3:Wh- what?!
+ b4:You, just now...?!
+ b5:Six left.
+
+p19:
+ b1:You next...
+ b2:Half die.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

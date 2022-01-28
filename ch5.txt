@@ -1,0 +1,192 @@
+p1:
+ b1:-Three days later
+ b2:uhh...
+ b3:Why do I have to crank a charger while being half buried by a fat ghost?!
+ b4:My game console's battery was empty and...
+ b5:the concierge made the charger for me, so I might as well use it.
+ b6:I don't occupy any physical space so there's nothing to be upset about, is there? 
+
+p2:
+ ()b1:Well, I'm indebted to Takatou-kun, so I guess it's fine.
+ b2:Still though, we were supposed to arrive in half a day, but it's already been two days...
+ b3:It can't be helped since the train was attacked by demons.
+ b4:No no, I'm never this late!	 Hey you.
+ b5:Dear, don't be so rude.
+ b6:ah... Is that so?
+ b7:Usually the sages' servants, who are riding the train,
+ b8:setup a barrier that keeps the demons away.
+ b9:So, the demons shouldn't be able to come close on their own...
+ b10:But today, hasn't the train has been attacked many times despite these servants' powers?
+ b11:Yes, we've had to stop for rests many times... because the servants need to recover their energy to keep up the barrier.
+ b12:However, Hanabusa station is just a bit more.
+ b13:Without sages, trains wouldn't work in this world...
+
+p3:
+ b1:Dear, I think we've taken enough of their time...
+ b2:Oh my!
+ b3:I'm sorry, I didn't notice you two were alone.
+ b4:ehh...?!
+ b5:Hohoho! It seems you two look like a couple?
+ b6:That's because others can't see you Mokomoko!
+ b7:You can see me right, Takatou-kun?
+ b8:Yeah. Ever since, Dannoura-san told me about you.
+ b9:Even though you never noticed, I have been with you as your guardian spirit since the beginning.
+ b10:You simply became able to see me.
+
+p4:
+ b1:Noticing something once can be a big deal.
+ b2:Y- yeah...
+ b3:If I had been mistaken for an enemy, this boy's power could've erased me!
+ b4:I'm more relieved now that you are able to see me though.
+ b5:W- well, It seems this world is more dangerous than I originally thought...
+ b6 Waa?!
+ b7:Did a demon just hit the train?
+ b8:It's like there are small and large demons all over the place out there.
+
+p5:
+ b1:Dannoura-san.
+ b2:Wh- What is it?!
+
+p6:
+
+p7:
+ b1:UWAAAAA!!
+ b2:KYAAA!
+ b3:eh...?!
+ b4:Is that a demon too?!
+ b5:Sensed some killing intent.
+ b6:I wonder what... I doubt we're being targeted.
+
+p8:
+ b1:A notice to all passengers.
+ b2:It appears a Sage has entered combat with an Aggressor nearby.
+ b3:On grounds of official wartime regulations, all freight and carriage contracts are hereby voided.
+ b4:For refunds on tickets...
+ b5:How should we even interpret that?
+ b6:'Whatever happens, not our problem,' I guess?
+ b7:They won't even help us evacuate?!
+
+p9:
+ b1:It seems the train staff aren't too worried about the passengers.
+ b2:Are you hurt anywhere?!
+ b3:Ah, from earlier...!
+ b4:We should get out of here!
+ b5:Excuse us, we'll be heading out first.
+ b6:Everyone seems to be getting off the train.
+ b7:Are we also going to...
+
+p10:
+ b1:...Ah!
+ b2:That's... a robot!
+ b3:On that mountain!
+ b4:eh?
+ b5:I guess that's the Aggressor.
+ b6:Where's the sage then...
+ b7:Isn't it that guy over there?
+
+p11:
+
+p12:
+ b1:I can't even see that far.
+ b2:Don't underestimate the physical abilities of those of House Dannoura.
+ b3:The Dannoura House is regularly winning over the blood of famous people like Nobunaga Oda and Enchou Sanyuutei!
+TN:Oda- famous daimyo, Sanyuutei- famous writer
+ b4:Since when?!
+
+p13:
+
+p14:
+
+p15:
+ b1:I see...
+ b2:Although the two can avoid eachother's attacks,
+ b3:they seem to disregard where these attacks land.
+ b4:I guess the sage's energy blasts are what destroyed the train.
+ b5:Well this is problematic. Escaping from here looks a bit difficult.
+
+p16:
+ b1:What? Aren't you going to take care of those two!?
+ b2:Why would I?
+ b3:EHH?
+ b4:...because...they're in our way?
+ b5:In that case, would it be fine to kill people walking slowly in front of traffic?
+ b6:But... weren't we almost killed by that flying thing?
+ b7:Yeah, but it's not like they were targeting us.
+
+p17:
+ b1:I feel like if you don't draw a strict line, 
+ b2:you'll end up killing people just because they slightly bother you.
+ b3:I'd rather avoid that.
+ b4:ah...
+ b5:Err, sorry then. I guess that was pretty naive of me.
+ b6:I'm not blaming you, don't worry about it.
+ b7:Anyway, avoiding their attacks shouldn't be too difficult, so if we just proceed carefully??
+
+p18:
+ b1:Eeeee!
+ b2:The Aggressor!
+ b3:Run! Get away from it!
+
+p19:
+ b1:Damn it!
+ b2:Stop running!
+ b3:Sage-sama!
+ b4:It's Sage Santarou-sama!
+ b5:Huh? Who're you guys?
+
+p20:
+ b1:Dannour-san, step back.
+ b2:eh
+ b3:eee...
+ b4:GYAAAA!
+
+p21:
+ b1:How cruel...!
+ b2:Why...!
+ b3:ah?
+ b4:Why'd you dodge it!
+ b5:Why did you attack over here?
+ b6:Isn't that guy your opponent?
+ b7:If I may ask.
+ b8:Haa?!
+ b9:Did you just talk to me?!
+ b10:Don't you have a duty to grovel before me?!
+ b11:You damn eyesore!
+
+p22:
+ b1:In that case, I guess it's fine.
+ b2:You're
+ b3:the eyesore here.
+
+p23:
+ b1:Y- you killed him?
+ b2:Yeah.
+ b3:Clear call if you ask me.
+ b4:Eliminating those who attack needlessly...right?
+ b5:Then, how about that Robo over there...
+ b6:True.
+ b7:Should I attack first...?
+ b8(robot font):Wait!
+
+p24:
+ b1(robot font):I have no intention to fight.
+
+roboto font:bauhaus 93
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,572 @@
+==p1==
+
+復活の時
+title: Resurrection Time
+ 
+==p2==
+
+それがさー 聞いてよー!
+ダーリンたらふらっとどっか行っちゃって
+b1:Alright then, listen up! It started when darling wandered off somewhere.
+
+けど
+いつものことだし
+しょーがないなー
+なんて思ってたら
+b2:But, this was a normal occurrence, so I didn't think much of it.
+
+いつまで経っても帰ってこないしさー！
+さすがにおかしいと思って!
+b3:I waited for a long time, but he never returned! So there was no way I’d not find it odd!
+
+ダ。。。
+ダーリン？
+b4:D-darling?
+
+そうー！
+見えるでしょ?
+結界の中心
+b5:Yeah! You can see him, right? He’s right at the center of the barrier.
+
+行方不明になってたの！
+アルバガルマ様!
+b6:He is the one that had gone missing! Arbagarma-sama!
+
+聞くだけでおぞましい。。。
+まさかその名は。。。
+b7:Just hearing that name feels repulsive. Don’t tell me it is...
+
+あの
+魔神の名だろうな。。。
+b8:It must be the name of that devil...
+
+忌み恐れられ誰も口にしなくなって千年経ったという。。。
+The name that hasn’t been uttered by anyone in a thousand years due to how it is laced with taboo and fear…
+
+==p3==
+
+あ。。。
+えーと。。。
+b1:Ah… Uhmm…
+
+その。。。
+ご結婚されてるわけですか?
+b2:Then… Are you married to him?
+
+何でもいい
+時間を稼がなきゃ。。。！
+b3:Anything's fine! I need to buy time…!
+
+あ ごめん
+ちょっと気安すぎた?
+b4:Ah, sorry. Was I being a bit too friendly with him?
+
+いえ
+b5:No, it’s ok.
+
+位階こそ違いますがヴァハナトとの仲です
+主はお気にされないかと
+b6:He may be of a lower rank, but he does have a connection with Vahanato. I don't think the lord would mind it.
+
+うーん
+押しかけ女房的な?
+b7:Hmm, perhaps I’m something like a woman who forces her to-be-husband into marriage?
+
+と言っても
+人間と違って法律的なことじゃないんだけど...
+b8:Though I called it a ‘marriage’, it isn't a legal thing for us, unlike humans…
+
+お互い認め合えばそれでおっけーって感じ?
+b9:So if both parties agree to it, you can consider them a couple I guess?
+
+ま　もうちょっとってところかな?
+ダーリン照れ屋さんだからさー
+b10:Well, we’re still not at that stage I think? Darling is quite shy after all…
+
+。。。なるほど？
+b11: ...I see?
+
+==p4==
+
+で
+いなくなる前に別の世界に行くとは聞いてたからさ!
+b1: So, I heard he was going to another world before he left!
+
+捜したわけ!
+いろんな世界に使者を送り込んで
+b2: I began searching for him! I sent messengers to various worlds to find him.
+
+ようやか
+いるのかなーってわかったのがこの世界！
+b3: Finally, some of my people found him in this world!
+
+だけど
+大変なのよそこからが！
+b4: However, things became troublesome after that point!!
+
+基本的には
+送り込んだ奴が死んだ時にもたらす断片的な情報だけが頼りなの
+b5: Basically, I could only rely on the fragmentary information that I get when the people I have sent in the world die.
+%HERE%
+
+こっちから
+直接干渉はできないから解析も一苦労なのよ!
+b6: The process of analyzing all that information was a pain too, because there was no way for me to interfere directly!
+
+==p5==
+
+はあ...
+でも今は干渉されてるようです力...?
+b1: Huh… But aren't you interfering right now…?
+
+こんな回りくどいやり方しかとれなくてね
+b2: I only managed to do it in a very roundabout way.
+%HERE%
+
+この世界のシステムに星結晶拡張をアドオンしてさ
+b3: I had to add the star crystal extension to this world's system.
+
+送り込んだ使者はこの世界の人間として整合性がとれるようにしてあって...
+b4: It was designed so that the messengers I sent would be able to integrate with this world as its humans...
+
+私は追加コンテンツ部分の運営管理みたいな感じで干渉してるの
+b5: And I’m able to interfere as the administrator of that add-on content.
+
+そうやって使者の死んだ時の情報を繰り返し集めて
+b6:That way, I was able to repeatedly gather information from a messenger's death…
+
+やっとダーリンはこの世界で封印されてるらしいとか
+b7: At last, I heard that my darling had been sealed away in this world.
+
+その封印は剣聖が管理してるわかってね
+b8: I also learned that those seals were under the control of the Sword Saint.
+
+じゃあその剣聖を始末しちゃおうって思ったんだけど。。。
+b9: So, I thought I'd just get rid of this Sword Saint, but...
+
+==p6==
+
+そっから先かもう最悪の展開なのよ!
+b1: From then on, everything went horribly wrong!
+
+何を送り込んでも勝てないわけ!
+b2: No matter what I sent down here, nothing could win!
+
+なんせ
+人類の運命を一身に背負っちゃってるから運命値がバカ高いの!!
+b3: Just because he was bearing the fate of mankind all by himself, his fate value was ridiculously high!!
+
+スペックでは圧倒的に上回る使者でも何でか勝てないのよ!!
+alt: Even my messengers with overwhelmingly better specs couldn't win for some reason!!
+%HERE%
+
+。。。あ
+でも。。。
+b5: Ah, but…
+
+その強い人に千鳥足の漂流者を使わせて何度もやり直せばそのうち勝てたりしませんか?
+b6: Wouldn't it be possible to win sooner or later by letting those strong people use Random Walk ability so that they can redo the whole thing over and over again?
+
+==p7==
+
+ああ
+それ無理なの
+b1: Well, that isn't possible.
+
+運命値の高い英雄は「死に戻り」でやり直すとかできないのよ
+b2: A hero with high fate value can't start over through "returned from death".
+
+だってそんなのかっこ悪いでしょ?
+b3: Something like that would be broken, right?
+
+だからあれはゴミ雑魚専用の能力なの
+alt: That's why such an ability is limited to trash and weaklings.
+%HERE%
+
+ゴミ
+雑魚。。。
+b5:Garbage
+b6:Weakling
+b7:Random...
+alt: Nobody...
+%HERE%
+
+あ...いや!
+バカにしてるわけじゃないのよ!
+b8: Ah.. no! I’m not making fun of you!
+
+結局はあなたがいたからうまくいったんだから!
+b9: Because in the end, it all worked out because of you!
+
+僕が。。。？
+b10:Because of me…?
+
+結局ね
+b11: After all
+
+いくら強い奴を送り込んでも剣聖には敵わないの
+b12: No matter how strong the things I sent, they never beat the Sword Saint.
+
+==p8==
+
+だってそれは人類の敵ってことになっちゃうし
+b1: Because they were always enemies of mankind.
+
+剣聖の運命値は人類の敵に対して無類の強さを発揮する...
+b2: The Sword Saint's fate value is unrivaled when it comes to facing mankind's enemies…
+
+。。。だったら
+発想を変えて。。。
+b3: And so, I changed my approach…
+
+ほっといたらすぐ死んじゃうぐらい運勢最悪の存在を...
+人類の味方として送り込んだらどうなるのか?
+b4: An existence that is so unlucky that they would die in no time if left alone...
+b5: What would happen if I sent such a person as an ally of mankind?
+
+...まさか...
+b6: No way...
+
+==p9==
+
+そう！
+b1: Right!
+
+最悪の運勢の君が人間側にいれば人類が滅亡する！
+b2: If a person with the most unfortunate luck such as you were to be on the human side, humanity will surely be destroyed!
+
+つまり
+封印されし魔神が復活するなんて展開になるんじゃないかってことなの!
+b3: In other words, the worst possible situation for humanity will occur: the seal will be broken and the devil will be revived!
+
+いやいやいや！
+b4: Wait, there’s something wrong with that logic!
+
+だって僕すぐに死んじゃうんでしょ?!
+b5: Wouldn't a person like me die right away though?
+
+そのための星結品と千鳥足の漂流者よ
+b6:That's what the stones and Random Walk are for.
+
+運勢最悪の君をゴリ押しで生き残らせる...
+b7: You would constantly oppose fate by surviving despite your misfortune…
+
+すると運命は必ず君を殺そうとして状況はどんどん悪化していき...
+b8: And fate would keep trying to kill you in increasingly worse ways…
+
+最終的には人類絶滅クラスの災害が発生する...と
+b9: Eventually, a disaster that would make the mankind go extinct will occur…
+
+==p10==
+
+まあ　こういう
+わけなのよ
+b1: Well, one such as this, you see.
+
+具体的に何がどうなって 今
+封印か解けそうになってるかは私も知らないけど...
+b2: I don't know how the exact developments that lead to the current situation where the seal is about to be broken, but…
+
+君の運が悪いから何かいろいろとまずいことが連鎖的に重なってこうなってるんじゃない?
+b3: Since your luck is so bad, a chain of unfortunate events should have led to this, right?
+
+な。。。
+b4: Wha…
+
+何なん。。。ですか　それは。。。
+b5:What does… That's…
+
+運カ悪いことは自覚はありましたが...
+b6: I knew I was unlucky, but…
+
+人類を巻き添えに絶減させるほどだったなんて
+b7: To think it was enough to wipe out humanity...
+
+==p11==
+
+じゃあ　今
+僕が死ねば。。。！
+b1: Then, what if I killed myself right now…!
+
+別にいいけどただ死ぬだけよ?
+b2: Go ahead, but you would die for nothing, you know?
+
+ここまではもう確定させちゃったし君の能力も消しちゃったしね
+b3: The development thus far has already been established by me and I’ve removed your abilities as well.
+
+ど。。。どういうことですか？
+b4: What do you mean…?!
+
+わけがわからないですよ
+b5: I don't understand.
+
+だってこれは私か欲した未来だから
+b6: After all, this is the future that I wished for.
+
+まあ
+神だからね
+b7:You see, since I'm a god...
+
+望む結果が得られるまでサイコロを振り続けて
+b8: I kept rolling the dice until I got the result I wanted.
+
+いい感じのところで確定させるってのができるのよ
+b9: That way, I am able to progress the situation and establish a good stopping point.
+
+まあ
+この辺は人間に説明するだけムダかなって気もするけど。。。
+b10: Well, this topic seems like a waste of time to try and explain to humans…
+
+どうせ死ぬならダーリンの復活を見てからにすれば?
+せっかくだし
+b11: Since you're going to die anyways, why not stick around to watch the resurrection of my darling? It'd be worth it.
+
+ヴァハナト先生!
+結界がだいぶ解けてきたみたい
+b12:Vahanato-sensei! It looks like the barrier is almost broken.
+
+もうちょっとだと。。。
+思うけどさすかに要の部分は簡単じゃないかもね
+b13:A little more to go before it happens, but… I don't think the core section is going to break so easily.
+
+==p12==
+
+ヴァハナト様
+b1: Vahanato-sama
+
+このまま結界が解けるのを待ちますか?
+b2: Do you want to wait until the barrier is undone?
+
+そうね
+ここまで来たら早めるために手を加えてもいいけど。。。
+b3: Yeah, since we've come this far, I can get it to speed up a bit…
+
+念のためにちょっと調べてみるわ
+b4: I’ll do some research on it just to be sure.
+
+剣聖の運命値に邪魔されて千年間苦労させられたからね
+b5: I was having a hard time being hindered by the Sword Saint's fate value for a thousand years, after all.
+
+うーん。。。？
+ふむふむ。。。
+b6:Hmm…? Let's see…
+
+。。。ぶっ
+b7: ...eh?
+
+あはははは！
+b8: ahahaha!
+
+いやあ
+君って本当に運勢が最悪なんたね!
+b9:Oh my, your luck really is the worst!
+
+==p13==
+
+笑っちゃうしかないわ
+b1: What else can I do beside laugh when I see this?
+
+あのね実は結界の制作者がここに来てたの!
+b2: You know what, the creator of the barrier had come to this place!
+
+そいつがいたらいつでも結界は元通りってわけ
+b3: If he was present, the barrier would have been restored to its usual condition.
+
+こんなこともあろうかと運命が呼び寄せたのね
+b4: Fate must have called for him as a contingency measure if the situation gets as worse as it is now.
+
+は。。。
+はあ？
+b5: Huh…?
+
+それがなぜ。。。？
+b6: Why is that...?
+
+そこを君の運の悪さが上回ったってこと！
+b7: But your misfortune even outweighs fate!
+
+何とこの人。。。
+b8: Because, this person…
+
+ついさっき死んじゃってまーす
+b9: Just died here not too long ago!
+
+何でかわかんないけど!
+b10: I don't even know why!
+
+あと
+女神殺しも来てたわ
+b11: Additionally, the goddess killer came here too.
+
+*laughing*
+
+下手したら私も危なかったけどそっちも死んじゃってます!
+b12: Even I might be in danger with him around, but he died as well!
+
+==p14==
+
+スゴイネー君！
+b1: You're amazing!
+
+ここまでやってくれるとは思わなかったわ
+b2: I didn't think you’d do so much for me.
+
+世界の敵って君みたいなのを言うんじゃない?
+b3: You're like the “enemy of the world” at this point, aren't you?
+
+これなら結界をつぶしちゃえるわ
+b4: In this case, there’s no problem with breaking the seal now.
+
+もう結界自体ズタボロで核もむき出しね
+b5: After all, the barrier is shattered and the core is exposed.
+
+よっ。。。と
+b6: ...and there!
+
+==p15==
+
+これね...
+結界の核は...
+b1: This is… the core of the barrier.
+
+持ってきたの?
+そのままつぶしちゃえばいいじゃない
+b2: Why'd you bring it here? You can just crush it.
+
+「いつの間にか結界かなくなってました」じゃ
+これまで守ってきた人たちががわいそうじゃない?
+b3: If something like "the barrier just disappeared for some reason" were to happen, wouldn't you feel bad for all the people who've protected it thus far?
+
+せつかくだからダーリン復活の瞬間を見てもらおうかと思って🤍
+b4: I thought I’d have them witness the long-awaited resurrection of my darling 🤍
+
+境目近くにいた者達はすでに結界を脱出し集結しつつあります
+b5: The ones at the border have already escaped the barrier and gathering together as we speak.
+
+いつでもどうぞヴァハナト様
+b6: Whenever you're ready, Vanahato-sama.
+
+ライニールさんが時間を稼いではくれましたが
+b7: Even though Rainier-san was buying us time…
+
+こうなっちゃ
+打つ手はねえな...
+b8: I don't know what we can do now…
+
+結界の核が...
+敵の手に落ちた...
+b9: The core of the seal… has fallen into the enemy's hands...
+
+==p16==
+
+ウアハナト先生
+結界の中にいる聖王はどうすんの?
+b1: Vahanato-sensei, what about the Holy Queen in the barrier?
+
+あいつ主様と戦える程には強いんじゃないの?
+b2: Aren't the fighting capabilities of that person on par with our Lord's?
+
+解き放って大丈夫？
+text: Is it fine to release her?
+
+大量の生贄のカで一瞬だけ主様を抑え込んだのだ
+b3: She used a large amount of sacrificial pawns to immobilize our Lord for that single moment.
+
+結界が解け時が動き出せばなす術はないだろう
+b4: If the barrier breaks and time resumes, she won't have the strength to do anything.
+
+けどあの女...
+見ようによっては千年間ダーリンといちゃっいてたともとれるわね
+b5: But that woman… depending on how you look at it, you could say that she's been flirting with my darling for a thousand years.
+
+何あれ抱ま合ってるみたいじゃない
+text: Either way, it looks like she's hugging him. *copy the anger symbol*
+
+ちょっとむかっくから
+聖王は生け捕り
+b6: I'm just a little irritated, so capture the Holy Queen woman alive.
+
+それなりの報いを受けてもらうわ
+b7: I'll have her repay for what she did.
+
+眷属はちょっとそこをあけてね
+b8: Underlings, don't block the view.
+
+この子たちにもよく見えるようにね
+b9: I want these kids to be able to see.
+
+==p17==
+
+うあ。。。
+b1:Uwaa…
+
+戻ったはいいけど何か状況が悪化してる気がするんだけど
+b2: It feels good to be back, but doesn't it look like the situation has gotten worse?!
+
+この暗さは化け物たちの障気か...?
+b3: This darkness is caused by all those monsters flying around…?
+
+世界の終わりといった光景たな
+b4: This scene makes it look like it's the end of the world.
+
+==p18==
+
+さあ！
+b1:Here we go!
+
+今こそ水きにわたる封印が解かれる時!
+b2:It's time to break the seal after so long!
+
+ダーリン復活の時ですよ!
+b3: It's my darling's resurrection time!
+
+==p19==
+
+n/a
+
+==p20==
+
+b1:Fufufu…
+
+ああ。。。
+ターリン! 会いたかったれ!
+b2: Ah, darling! I've missed you!
+
+待ってて!
+今すぐ飛んでいくから
+b3: Have you been waiting? I feel like I'm flying 🤍
+
+==p21==
+
+n/a
+
+==p22==
+b1:splash
+b2: eh?
+
+==p23==
+
+。。。はい？
+b1: ...what?
+
+。。。なんか　ごめん。。。
+b2: ...uhm, my bad...
+
+==p24==
+
+n/a
+
+==p25==
+
+剣聖殿！！
+b1: Sword Saint-dono!!
+ 
+
+
+note: I went with Arbagarma for the devil's name. The WN used Alubagaluma. Raw: アルバガルマ
+note:Vahanto calls herself a stalker-wife, which can be expanded to mean "a woman who forced her husband into marriage" or a "woman who stayed in a man's house until he was forced to marry her". Examples: Tooru from Kobayashi's, Lala from To Love Ru, Google: 押しかけ女房 (oshikake nyoubo)
+note:chapter 26 raw = 1/21
+note: manga ch25 = wn v2ch19
+ 
+ edit:look into fuzzy select bubbles to clear them, remove ctrl+left bind, remake font outline binds
+

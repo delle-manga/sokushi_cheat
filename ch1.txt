@@ -1,0 +1,574 @@
+p1:
+ b1: Come on! Wake up already!
+ b2: Takatou-kun!
+ b3: Who?
+ b4: It's me! Tomochika Dannoura!
+ b5: That's my strange classmate's name ()
+ b6: Pretty sure I'm headed to the school trip?
+ b7: Dannoura-san? Are we there yet?
+ b8: No! What should we do?!
+ b9: Hmm?
+
+p2:
+ b1: You're still sleeping? ()
+ b2: There was so much chaos! ()
+ b3: ... yeah
+ b4: I can see that
+
+p3: 
+ b1: ug gah
+ b2: What is that?
+ b3: Don't ask me! Like I'd know! ()
+ b4: Outside the window...
+ b5: Something huge is clinging onto the bus?
+ b6: is that a lizard?
+ b7: Either way...
+
+p4:
+ b1: Hiya!
+ b2: GIAAAaAAaAaaAAA
+ b3: Pulled out... ()
+ b4: Gotta get away from the bus
+
+p5: 
+ b1: A wyvern or something
+ b2: Is that ... a grass plain?
+ b3: I'm pretty sure it was a snowy road at night when I fell asleep...
+ b4: Who cares right now! Why'd you make it angry!!
+ b5: Aaaaaah!
+ b6: Wh- what?!
+ b7: Is there a way to be saved? ()
+
+p6: 
+ b1: Huh? No. I was just thinking 'So this is what dragons having sex with cars was about.'
+ b2: That's probably it's genitals
+ b3: What are you even talking about!?
+ b4: N- no way
+
+p7: 
+ b1: It's diving at us!!!
+ b2: At that speed, I doubt I can escape
+ b3: ... we're finished
+ b4: Well, no helping it.
+ b5: This might be what the closing curtain of life is like ()
+
+p8: 
+ b1: Kyah!
+ b2: No good! ()
+ b3: Boiing!
+
+p9: 
+ b1: Hmm ... not bad
+ b2: Isn't it
+ b3: my duty as a man to protect a girl in this situation?
+ b4: If so ...
+
+p10: 
+ b1: Die
+ txt: I'll use the ability I had decided not to use
+
+p11: 
+ b1: ... so
+ b2: What happens from now on...
+ b3: Dannoura-san. Looks like we're saved.
+ b4: ... eeh?
+ b5: Really?
+
+p12: 
+ b1: Huh?
+ b2: But why?
+ b3: What just happened?
+ b4: I'd like to hear about this place...
+ b5: You're confused. Calm down first...
+ b6: and then tell me what happened while I was asleep.
+ b7: w- well...
+ b7: I'll wait for a bit.
+ b8: Let's talk after you have calmed down.
+ b9: Is it really fine to play Monster Hunter right now?!
+
+p13: 
+ sfxB: Attack sounds
+ b1: Hey Takatou-kun...
+ b2: Shouldn't we hurry outside?
+ b3: And then what? We don't even know if it's safe.
+ b4: I appreciate your reasonable words and all, but would you mind not playing Monster Hunter while saying them?
+ b5: Say, I've been watching since earlier, but aren't you a little too bad at that?
+ b6: Nah, it's wierd. The combo stops after the third hit with the lance.
+ b7: I don't remember being this bad.
+ b8: That's the adept style. How about switching to striker? 
+ b9: It removes the combo limit.
+ b10: Really?
+ b11: Really.
+ b12: Wait! Isn't this the wrong time for this?
+ b13: Calmed down?
+
+p14: 
+ b1: Well...
+ b2: I wonder how I'm getting used to people dying.
+ b3: I feel numb from the shock...
+ b4: and the smell has become bearable.
+ b5:  Well then. Can you tell me what's happened so far?
+ b6: I don't really know you, but you seem like one to stick to his own pace
+ b7: Well... It seems this is a different world.
+ b8: So then, there are these sages and everyone became a sage.
+ b9: Yazaki-kun took control of things and started dividing us and-
+ b10: Wait, I don't understand.
+ b11: Can you start from the beginning?
+ b12: Um, yeah
+
+p15: 
+ b1: There was snowy country before the tunnel but then it was gone
+ b2: Th- thats?
+ b3: Hey, Mikochi.
+ b4: hmm?
+ b5: Was it like this outside?
+ b6: Until a few minutes ago, there was snow everywhere...
+ b7: A grass plain?
+ b8: Teacher, is this the wrong way?
+ b9: Is there not a road?
+ b10: Driver! What on earth...
+ b11: Uhh. I don't know what happened...
+ b12: Please stop at once!
+ b13: Well... Actually, the bus has been moving on its own since a moment ago...!
+
+p16: 
+ b1: We stopped?
+ b2: Ehh? This time the door opened on its own... ?
+ b3: ah... uh?
+ b4: ...hmm?
+
+p17: 
+ b1: Greetings, sage candidates.
+ b2: My name is Sion, Grandchild of the Great Sage.
+
+p18:
+ b1: Who do you think you are!
+ b2: Teacher!
+ b3: Are you responsible for-
+ b4: Yes. No interruptions please.
+ b5: Eh!?
+ b6: Eeeee...!!
+ b7: The conduct I recommend all of you take is shaking from fear with clattering teeth.
+ b8: Don't act out of line, pay attention.
+
+p19: 
+ b1: I don't intend to cause direct harm to any sage candidates, 
+ b2: but that only goes for as long as you don't get on my nerves.
+ b3: Make sure to take care in that regard, okay?
+ b4: My power level is 530,000.
+ b5: Aw, you could've laughed there.
+
+p20:
+ b1: See? I got irritated because my joke fell flat and I killed him *star*
+ b2: This may look terribly unreasonable to you all, but that's just how the world is. 
+ b3: Well then, I will now explain the current situation.
+ b4: You might have already noticed, but as far as you are concerned, this is a different world.
+ b5: And I am the one that summoned you.
+ b6: The purpose behind your summoning was to have you all take the roles of sage candidates.
+ b7: Even if I'm told its suddenly a different world...
+ b8: I dont understand. I'm not following at all.
+ b9: Sages are the ones who manage this world, however...
+ b10: they occasionally decrease in number and there is a need for replenishment.
+ b11: Sooo...
+ b12: Something dangerous!
+
+p21: 
+ b1: Everyone, open your eyes without fear.
+ b2: I recommend you take mental note of who looks powerful now
+ b3: ehh?
+ b4: Why is everyone glowing...?
+ b5: Or rather, I'm not shining?
+ b6: Everyone's light will fade in a moment.
+ b7: Your powers differ based on color, but...
+ b8: ...for convenience, just think of it as the more vivid the glow the stronger the power.
+ b9: Version 02.87.05.11 of Battle Song has just been installed in you all.
+ b10: With the install successful you should be seeing all the license holders' logos right about now.
+ b11: Annoying, I know, but they're only there during boot-up so please bear with it as it finishes setting up.
+
+p22: 
+ b1: I can't see anything...?
+ sfx: whisper whisper
+ b2: Do you see anything Mikochi?
+ b3: Yeah. A bunch of colorful text is floating around.
+ b4: 'Status' it says. Oh, it's in our language.
+ txt: That's strange, right?
+ b5: eeh...
+ b6: Maybe everyone but me can see something?
+ b7: Why?
+ b8: Is it bad that I am not shining and can't see anything...?
+ b9: I used the system called 'Gift' and granted you all various special powers.
+ b10: Use them and work towards becoming a sage.
+ b11: The deadline will be, let's see...
+ b12: One month. You have one month to become a sage. 
+ b13: E- excuse me!
+ b14: What?
+
+p23: 
+ b1: Ah, is it fine to ask questions?
+ b2: Sure.
+ b3: Um, I didn't glow earlier, and I'm not seeing any logos or anything either...
+ b4: My oh my.
+ b5: It's regretful, but occasionally there are incompatible individuals.
+ b6: Nothing to do about that, you'd best give up.
+ b7: That means... I'm in a very bad situation.
+
+p24:
+ b1: Moving on.
+ b2: You are all part of the same clan, a community of sorts.
+ b3: From here, please produce a sage from within that clan.
+ b4: You may work together on turning only one of you into a sage, or even split up and become sages by yourselves.
+ b5: I'll leave your course of action to you.
+ b6: Why us, if I may ask!
+ b7: Dannoura-san! Don't act out of line!
+ b8: Oh, just a matter of statistics.
+ b9: Because there is a high calculated possibilty...
+ b10: It is likely a sage will emerge from this group.
+ b11: One more!
+ b12: Please tell me what happens if none of us turn into sages, if I may ask!
+ b13: Well... 
+ b14: I suppose I'll have you turned into livestock and wrung of your magical power.
+ b15: You will be shoved and locked into a dark magic tank and...
+ b16: you will spend the rest of your life there.
+
+p25: 
+ b1: Everyone should desperately work hard, okay?
+ b2: Eeeee!
+ b3: Thats... 
+ b4: far worse than I thought it would be.
+
+p26:
+ b1: On the other hand, if you do produce a sage...
+ b2: the rest of you will turn into that sage's acolytes, a position of quite some influence in this world.
+ b3: Now then, your first mission will begin in an hour.
+ b4: Don't go and die off on me now.
+ b5: Well then, have a nice day.
+ b6: She's walking out so casually!
+ b7: What the heck, I don't get what's going on at all.
+ b8: Ah-, the mission's description came in.
+ b9: What's it about?
+ b10: Something like this...
+ b11: Ehhh...
+txt: 	First Mission
+	Objective: Escape from the Plain of Dragons and reach the city in the north!
+	Main Enemies: Dragons (Average Level of 1000)
+	Advice: Dragons' preferred food are humans. As such, being attacked upon leaving the bus is close to certain. Furthermore, defeating a dragon is beyond your current abilities. You have one hour until the mission starts, during that time a barrier around the bus will guarantee your safety. Use that time to come up with a strategy.
+
+p27: 
+ b1: No, No. Dragons.
+ b2: Those are not real things.
+ b3: All I can see is a grass plain.
+ b4: Everyone, please listen!
+ b5: Yazaki-kun!
+ b6: I don't know the reason, but...
+ b7: for the time being it doesn't look like we've got a choice but to clear that mission.
+ b8: And for that we'll need everyone's cooperation.
+ b9: Hey, is it really fine to leave it to Yazaki-kun like that?
+ b10:^
+ b11: Well, having someone take the role of mediator sounds reasonable.
+ b12: Plus, he is good at studying and sports, I think.
+ b13: That may be so, but...
+ b14: First of all, I would like to get a grasp on everyone's abilities.
+ b15: Can everyone write down their name and stats on a memo and bring it to me?
+
+p28: 
+ b1: With this, we have everyone's stats.
+ b2: Ability is quite variable depending on the person...
+ b3: From Attack types to Auxiliary and Recovery types.
+ b4: It would've been unclear unless we helped eachother.
+ b5: What's wrong with everyone?
+ b6: I didn't shine and now I'm being treated as an outsider.
+ b7: Even though I filled out a memo like Yazaki-kun asked...
+ b8: Oh yeah, there were three other people who didnt glow.
+ b9: Uhhm, ah.
+ b10: I think his name is Takatou-kun.
+ b11: I can only remember that he was always asleep at school...
+ b12: Even now! You are asleep in this situation!?
+
+p29: 
+ b1: This guy is seriously asleep?!
+ b2: Ah, right, he's always asleep.
+ b3: Who cares about that right now!
+ b4: The delinquent Kiryuu-kun and
+ b5: Ayaka Shinozaki, the rich girl.
+ b6: Four people including me.
+ b7: Wait!? Everyone finished talking and is exiting the bus!
+ b8: Tch. Not even a word to us. Come on, let's go.
+ b9: Takatou-kun, everyone's going to leave you behind at this rate. Come on, wake up, hey.
+ b10: He likes sleeping, right? Just leave him be.
+ b11: Uh- okay...
+
+p30: 
+ b1: Apologies, but we can't take you guys along.
+ b2: You'll be staying here.
+ b3: The hell? This guy, thinking he can settle things like he wants just because we weren't part of the discussion! Who do you think you are!?
+ b4: The General.
+ b5: And, you guys didn't recieve the gifts.
+ b6: This is the power of the General. Even at level 1, that's how much the System strengthens one's body after having received its favor.
+ b7: Eeeeeh?!
+ b8: Taking along regular humans like you would only drag us down... understand?
+
+p31: 
+ b1: But if you're that powerful shouldn't you be able to protect us?
+ b2: Shinozaki-kun, understand that this is a difficult choice to make...
+ b3: But this is part of the plan.
+ b4: Koriyama-kun, please.
+ b5: Okay!
+ b6: Charm Up!
+ b7: Uwah, what is this?
+ b8: It's her class, Beauty Coordinator. Her class focuses on buffs and can control monster aggro.
+ b9: What did you do?
+ b10: Basically, we decided that you guys will be the bait.
+ b11: What? Bait?
+ b12: So now, you guys will be seen as a type of monster.
+ b13: I've had someone with a detection skill scan the area and apparently there's only one dragon in the nearby skies.
+ b14: Therefore, we just have to get out of this meadow.
+
+p32: 
+ b1: You guys will be a decoy in the bus while we escape.
+ b2: Everyone agreed that this was the best course of action.
+ b3: E- everyone agreed? No way Mikochi would go along with this!
+ b4: Mikochi? Ahh, you mean Jougasaki. Naturally, she agreed.
+ b5: Sorry! But I think it's safer to stay in the bus than to go out without having abilities.
+ b6: Is it?
+ b7: Yazaki-kun easily broke part of the bus just now.
+ b8: I will come to help as soon as I level up.
+ b9: Sure you will.
+
+p33:
+ b1: Hey! Wait! Yazaki!
+ b2: Wait! Don't leave us in this place.
+ b3: Damn it, it's not opening!
+ b4: Yazaki's wrecked it with his ridiculous strength!
+ b5: Oh yeah! Can we escape from the windows?
+ b6: Come baaaaaaaaack!!
+ b7: An earthquake?
+ b8: No. This sound...
+ b9: is coming from the sky?
+ b10: I've never heard this before...
+
+p34:
+ txt: The roar of something tremendously frightening...
+
+p35: 
+ b1: Then...
+ b2: The bus got hit by something with enough force to tip it over and
+ b3: I got sent into the air. When I got up, Shinozaki-kun and Kiryuu-kun were being attacked.
+ b4: When I ran to the back of the bus to get away from that thing, I saw a certain somebody still sleeping like a log!
+ b5: I don't know what to do anymore!
+ b6: A different world...?
+ b7: Ah! How am I going to recharge my console...?
+ b8: That's the first thing you worry about after hearing that story!?
+ b9: Putting the battery problem on hold, I didn't glow so I was left behind as well, huh.
+ b10: People who were glowing seemed to be able to see things in their field of vision...
+
+p36: 
+ b1: Can you see anything, Takatou-kun?
+ b2: Not that I can tell.
+ b3: Yeah, apparently they can see some kind of stamina bar constantly floating in the corner of their eyes.
+ b4: Mikochi isn't into games so she couldn't explain it very well.
+ b5: Is that Mikochi one of your friends?
+ b6: Did she just go and abandon you with everyone else?
+ b7: Thats...
+ b8: Yazaki must have done something, I think...
+ b9: Maybe a skill to get someone to follow instructions.
+
+p37: 
+ b1: 'General' is it?
+ b2: But really, this classes story and their levels and skills are interesting.
+ b3: Makes this whole thing seem like some game, don't they....
+ b4: ye- yeah
+ b5: If this General Yazaki guy said the truth and there really was just one dragon then
+ b6: We might be good to go outside now.
+ b7: You said the door is broken so
+ b8: we could probably exit from the hole.
+ b9: Uhm, Takatou-kun...
+ b10: Yeah?
+ b11: I know there's nothing to do about their deaths, but still
+ b12: is it alright to leave our classmates and teacher like this...?
+
+p38:
+ b1: I'm going to put a cloth over them at least...
+ b2: Oh, alright.
+ b3: Well then, Dannoura-san, pass the curtain and I'll do it.
+ b4: You don't need to see it.
+ b5: Okay!
+ b6: This is fine. 
+ b7: Alright, let's go see the outside.
+ b8: Yeah.
+ b9: Even so, when I look at the situation again...
+ b10: a wrecked bus,
+ b11: a dead dragon,
+ b12: and a peaceful grassland...
+
+p39: 
+ b1: For now, the only different world element is the dragon.
+ b2: NO! NO! NO!
+ b3: That's just because you weren't there for that 'Grandchild of the Great Sage' Zion person.
+ b4: She really fired a magic beam or something from her hand!
+ b5: No, I doubt the story of Dannoura-san...
+ b6: I wouldn't just trust a story of such a mysterious person.
+ b7: How about a crazy rich guy abducting kids and having them perform in his snuff movies...
+ b8: Why are you so resistant to this being a different world!?
+ b9: We were being attacked by a dragon until a minute ago!
+ b10: hmm?
+
+p40: 
+ b1: By the way, this dragon...
+ b2: why did it suddenly die?
+ b3: Uhm...
+ b4: did you do something Takatou-kun?
+ b5: Nope, it randomly killed itself with a crash landing.
+ b6: Thats such an obvious lie!
+ b7: You don't have to believe me.
+ b8: Even though I don't really keep secrets...
+ b9: It would be bothersome to explain
+ b10: Well...
+ b11: not like I'd know how you would do it in the first place.
+ b12: But would it really kill itself...?
+
+p41:
+ b1: Looks like spring here.
+ b2: Yeah, see? I told you it's a parallel universe. You know, because it's winter at home right now.
+ b3: What happened Dannoura-san?
+ b4: Look! Something is flying!
+ b5: Look past the clouds...
+ b6: eh...?
+ b7: What is that?
+ b8: Isn't that a castle in the sky!?
+ b9: See! Isn't that enough to call this a different world!? That's totally one of those sky castles! We're looking at the bottom of a floating continent!
+ b10: Ah, I so see something.
+ b11: You have good eyes Dannoura-san.
+ b12: Hey, isn't something flying towards us?
+
+p42: 
+ b1: Let's go with the different world theory for now.
+ b2: ...That's?
+ b3: People. Three people.
+ b4: They are flying towards us.
+ b5: eeh?
+ b6: Those floating dots in the distance?
+ b7: Yeah! Approaching fast!
+ b8: Those three guys are from our class!
+ b9: Who?
+ b10: Higashida-kun,
+ b11: Fukuhara-kun,
+ b12: and Hanakawa-kun. But how are they flying?
+ b13: How can you see at such a distance?
+
+p43: 
+ b1: Well, let's kill them.
+ b2: Yes, yes. Who wouldn't choose murder when finding out about their flying classmates...
+ b3: Why would we do that!?
+ b4: So what are you planning to do?
+ b5: Would you like a nice talk with those who abandoned us?
+ b6: Huh? Wait,
+ b7: you were serious about killing them?
+ b8: Leaving us behind out here is basically the same as killing us.
+ b9: They can't really complain if we pay them back, can they?
+ b10: Did they notice the dragon is dead using their detection skill? So, now they come to help...
+ b11: Wasn't their policy to leave dead weight behind?
+ b12: uhh...
+ txt: It was.
+ b13: But isn't it strange that there are only three people...
+
+p44: 
+ b1: Could it be that these three defected from Yazaki and are acting independantly?
+ b2: If so, their target is probably the remaining luggage from the bus and
+ b3: if we survived, wouldn't we now be obstacles to their goal?
+ b4: I've been thinking that I want to protect you so...
+ b5: I'd rather avoid potential risks.
+ b6: However, I still value your opinion.
+ b7: Anyways, let's see what they're up to first.
+ b8: A- alright.
+
+p45:
+ b1: Tomochika-tan, thou art alive!
+ b2: How!?
+ b3: See? I told you they might be alive.
+ b4: Charm Up doesn't last long.
+ b5: Did the dragon crash into the bus and die after breaking its neck?
+ b6: If it's dead, then I could bring it back.
+ b7: Uh- uhm...
+ b8: I get the gist Hanakawa.
+ b9: Ain't it better alive? Zombie puppets are gross.
+ b10: Killing someone just so I can turn them into a zombie is dumb.
+ b11: Excuse you!?
+ b12: Fukuhara-dono, your power is wasted! A pearl thrown before a swine!
+
+p46: () [wtf is going on]
+ b1: However, this is why you always carry a collar of slavery with you!
+ b2: If she's alive then I shan't need to rely on you, Fukuhara-dono!
+ b3: Now he has a point though... 
+ b4: if she's against it at first and obedient later then that's double the fun.
+ b5: I'm not the rape kind of guy, Fukuhara-dono.
+ b6: Hmm, but I do love netorare. You wouldn't mind leaving the 'gentle shoulder to cry on' role to me afterwards, would you?
+ b7: Can you leave it at that, you two?
+ b8: Look at poor Dannoura-san's shocked face.
+ b9: That reminds me, Takatou's here as well. Look how he's standing in front of her being all protective, ain't that brave?
+ b10: C- could it be that Takatou-shi already has the role of the netorare'd boyfriend!? I won't allow that! Tomochika has to be mine!
+ b11: Um, I have no idea what these three are talking about...
+
+p47: ()
+ b1: I clearly understand that we will not get along well.
+ b2: Agreed.
+ b3: I guess that's all there is to it
+ b4: I should try to get some info from them
+ b5: You're... Higashida-kun, right?
+ b6: 'Fireball'
+
+p48: ()
+ b1: ehh? Just now...
+ b2: Did something fly past...?
+ b3: ...ehhhh?
+ b4: The trajectory flew that way...
+ b5: It left a giant gouge through the forest...? 
+ b6: Your Fireball's ridiculous as ever, Higashida-dono!
+ b7: Truly Heroic! Your fireball burns anything in its path!
+ b8: I can only use basic tier magic, after all. All I trained while leveling was this.
+ b9: So now it's strong enough to even take down demon lords.
+ b10: Oh yeah, guess who blew off the top of Mount Karuone?
+ b11: No! Was that you, Higashida-dono!?
+
+p49:
+ b1: Higashida's lucky he got here as a hero...
+ b2: I started out as a soulmancer at the bottom of the demon lord's army.
+ b3:  I... I can't follow what you guys are saying at all...
+ b4: Higashida-kun! Why are you doing this!?
+ b5: Because Takatou opened his mouth withut permission.
+ b6: we decided we'd live to our heart's content if we ever got another chance...
+ b7: And now that time has come.
+ b8: Gotta do what you gotta do, you know?
+ b9: As you can see, resistance is futile. So, Dannoura get over here. And Takatou, you can sit there and watch.
+
+p50:
+ b1: Wha...!?
+ b2: You guys...
+ b3: are aiming for my body!?
+ b4: I'm impressed you can talk like that in this situation, Dannoura-san.
+ b5: Still, that guy is quite strong...
+ b6: I should eliminate him first.
+ b7: Firstly, Higashida...
+ b8: Die.
+ b9: Gehahaha! Die, he says.
+ b10: Such poor vocabulary! Hahaha!
+ b11: Is there also grass in this meadow?
+ b12: I can't stop from laughing at this idio-
+
+p51: 
+ b1: Higashida?!
+ b2: Eeeh... Higashida-dono?!
+ b3: What's wrong?!
+ b4: I said die and he died...
+ b5: Guess the relation there and this will be quick.
+ b6: So don't move.
+ b7: Make a move and another one dies.
+
+
+
+
+
+
+
+
+
+

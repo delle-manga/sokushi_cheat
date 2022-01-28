@@ -1,0 +1,254 @@
+p1:
+ right:Volume 3 of the manga goes on sale on August 12!
+ title:Maybe this happens often in parallel worlds.
+
+p2:
+ b1:Galura Canyon
+ b2:Waaah
+ b3:Why'd you break so suddenly?
+ b4:Ah, you woke up, takatou-kun?
+ b5:I thought you'd sleep soundly on this mountain road though...
+
+p3:
+sfx:dozing off
+ b1:Becuase I used my ability back in Hanabusa,
+ b2:I'm a bit sleepy...
+ b3:Hey! You can't go back to sleep already?!
+ b4:The road is broken again so we had to stop.
+ b5:It's pretty run down...
+ b6:It probably hasn't been used since they build the railroad.
+ b7:The railroad to the captial will taktte a while to get fixed though.
+ b8:Ryouta-san gave us a car and said to take the road along the railroad. It was a good idea but...
+ b9:I thought my Dannoura-style driving technique would be useful...
+ b10:Could you not cheaply stick 'Dannoura' onto everything?
+ b11:If its just an obstacle in the road, i can remove it with the transforming weapon the Robo gave me but...
+ b12:I can't do anything if the road is collapsed!
+ b13:hmmm
+ b14:It might help to look at our situation from a different angle.
+
+p4:
+ b1:Why are we even going to the captial?
+ b2:Now you ask?!
+ b3:Couldn't you ask that before we left?!
+ b4:Our goal is to return to Japan.
+ b5:To accomplish that, we need to talk to the Sage Sion.
+ b6:So, we decided to join up with our classmates who are headed to the capital on Sion's assignment...
+ ?b7:Aren't the sages coming after us right now?
+ b8:eh...Then is it really fine for us to nonchalantly hang out in a town?
+
+p5:
+ b1:If we wait, they might come to us but...
+ b2:We can't even talk it through with them because they suddenly attack...
+ b3:They didn't even think twice about involving the townspeople either...
+ b4:...huh? Mokomoko-san?
+ b5:I'm here.
+ b6:Waaaaa
+ b7:I've been scouting the road ahead and...
+ b8:I have some bad news.
+ b9:We're going to have to stop here since the bridge is collapsed.
+ b10:ehhhh...
+ b11:It'd be best to backtrack and look for another route.
+ b12:I guess it can't be helped. We'll backup a bit for now.
+ sfx:*thud*
+ b13:Ehh, What was that?!
+ b14:Is something behind us...
+ 
+p6:
+ b1:There's a creature!!
+ b2:It's reptile-like!!
+ b3:It's a dragon.
+ b4:I guess they really do like cars.
+ b5:Enough of that meme!!
+ 
+p7:
+ b1:Waaaaa
+ b2:The car's gonna fall!!
+
+p8:
+ b1:I wonder if this is dragon territory?
+ b2:Takatou-kun, do it already!
+ b3:The weapon arms won't last much longer!
+text:We're slipping...!!
+ b4:It can't be helped since it doesn't understand us.
+ b5:Die
+ 
+p9:
+ b1:hm?
+ b2:Are there other dragons?
+ b3:Takatou-kun! Look over there!
+ b4:In the sky past the valley!
+ b5:Alot of those things are coming!
+ b6:I get the feeling they want us to go away...
+ 
+p10:
+ b1:That's bad!
+ b2:They're coming with fire this time!
+ b3:They intend to destroy us.
+ b4:In that case, you all die.
+ b5:uwaaa...
+ b6:It's like a dragon insecticide commercial...
+ 
+p11:
+ b1:haa... They surprised me so suddenly...
+ b2:We entered the dragons' territory without knowing, so we're at fault too...
+ b3:But, dont you have to protect yourself in a situation like this? It's like encountering a bear.
+ b4:Anyways, we need to remove the corpse behind us...
+ b5:...hm?
+ b6:Now what?!
+ sfx:wing flap
+ b7:Some sort of Golden Thunder Dragon came!!!
+ 
+p12:
+sfx:wings flapping
+ b1:Isn't this dangerous?!
+ sfx:fwshh
+ b2:Won't it unleash all its lighting at us?!
+ b3:no...? I don't sense killing intent.
+ b4:Maybe it's just checking us out?
+ sfx:stare
+ b5:You pass.
+ sfx:turn away
+ b6:eh?
+ b7:huh? I'm not sure why but it seems it's leaving...?
+
+p13:
+ b1:WAIT!
+ b2:Eh, why are you calling out at it?!
+ b3:If it can understand our language, then...
+ b4:I want to know why they attacked us, assuming it saw what happened.
+ b5:Hey!
+ b6:Did you see what just happened to the other dragons?
+ b7:Stop! or else...
+ sfx:freeze
+ b8:It's flying without flapping its wings!!
+ 
+ p14:
+  b1:uuuw...
+  sfx:quiver shake
+  b2:I wanted to fly away without talking...
+  b3:I had a feeling that saying something was the wrong idea...
+  sfx:small quiet
+  b4:uhhh...
+  b5:Why is the golden thunder dragon a little girl?
+  b6:I don't know why you ask me.
+ 
+ p15:
+  b1:Maybe this happens often in parallel worlds.
+  b2:One minute its a dragon, and the next, it's a loli!
+  text:A disguise!!
+  b3:Is this normal...?
+  b4:No that's... I heard that it would be best recieved to look like this when talking to a man...
+  b5:Didn't the robot say the same thing?!
+  b6:What's wrong with the people in this world.
+  b7:By the way, why did the dragons attack us earlier?
+  b8:Those were my subordinates.
+  b9:I tried to see if you were qualified to meet Sword Saint-sama.
+  b10:sword saint...
+  b11:I feel like i've heard of that.
+  b12:didn't mireille talk about it in the first city?
+  b13:The sword saint gift or something...
+  b14:Haven't you come to see sword saint-sama?!
+  b15:No, we just went this way to get to the capital city...
+  
+ p16:
+  b1:Don't lie! No one goes through here to get to the capital!
+  b2:Even if you say that...
+  b3:The people from Hanabusa said it was possible thougho...
+  b4:They only ever use the train!
+  b5:I'm sure ryouta-san...
+  b6:To the capital city by car? Well, there should be a road that was used during the railroad construction.
+  b7:I guess you should be able to make it if you follow the track.
+  b8:said something like that...
+  b9:Well... sword saint-sama is in this canyon.
+  b10:If you meet him, its possible he'll give you a gift.
+  b11:Not everyone though.
+  b12:That's why I do some screening out here.
+  b13:Are there even people who can reach him after encountering the dragons?
+  b14:You wouldn’t be qualified to meet Sword Saint-sama without enduring that amount!
+  sfx:fufun
+  b15:Well, something like that's got nothing to do with us.
+  b16:Let's go.
+  b17:Yup.
+  b18:W-Wait Wait!!
+  
+ p17:
+  b1:But I said you passed?!
+  b2:Aren’t you going to meet Sword Saint-sama!?
+  b3:Not really.
+  b4:No! That's a problem!!
+  b5:I was told to bring promising people back with me!!
+  b6:But, weren’t you trying to run away?
+  b7:Usually, you’d escape if your underlings were massacred!
+  b8:Then why did you bother coming infront of us?
+  b9:I was supposed to show up and give more despair when you were on the verge of becoming cinders by my underlings!!
+  b10:You killed everything that was flying...
+  b11:But I was seen and thought it'd be uncool to withdraw in panic!!
+  b12:So, I thought I could preserve my dignity if I came to inform you that you passed!!
+  b13:I feel a bit sorry for her.
+  b14:But really, we're not interested in the sword saint...
+ 
+ p18:
+  b1:It's the sword saint?!
+  b2:He’s an existence rivalling the sages!
+  b3:Don’t you want to experience a fragment of that power!
+  b4:the sages...?
+  b5:If that's true, he might have information on returning to our original world...
+  b6:Well, we have lost our way. Plus, its not like we're going out of our way...
+  b7:That's it!!
+  
+ p19:
+  b1:Alright, I understand! I'll be a guide for you!!
+  b2:If you go and meet sword saint-sama in the meantime! I'll take you to the capital afterwards!
+  b3:It's probably not possible for you guys to reach to the capital city through here anyways!
+  b4:Well, isn't it not a bad deal for us then?
+  b5:We were pretty lost anyways...
+  b6:Yup, diversified information is necessary.
+  b7:I agree with this.
+  b8:Then, let's go meet him for now.
+  
+ p20:
+  b1:It's real y'know?! It's not just words!
+  b2:Okay then, let's focus on getting out of here!!
+  sfx:engine
+  b3:OK!
+  b4:Then, let's go...
+  b5:Yeah!
+  b6:My name is Atira.
+  b8:What's your's?
+  b9:Takatou Yogiri.
+  b10:Dannoura Tomochika!
+  b11:Nice to meet you.
+  
+ p21:
+  b1:In the valley.
+  b2:We're here!
+  b3:We will wait for sword saint-sama with the others in this square.
+  b4:Ehh, is the sword saint really popular?
+  b5:Who are they?
+  b6:Is it even a challenge if you come in a vehicle.
+  b7:What are they talking about?
+  b8:You guys... were you really just passing through...
+  b9:Today is the selection day for the knight of the Holy King.
+  b10:If you become a knight of the brilliant holy king, you can enter the disciples of the sword saint.
+  b11:Everyone here is aiming to become the next sword saint.
+  text:That's cheating!
+  text:yeah it is!
+  b12:Atira... Are you trying to get us involved in something troublesome?
+  
+  p22:
+   b1:Ha! You guys worked so hard but...
+   b2:You are getting disqualified!
+   b3:Such bad luck...
+   b4:It hasn't even started yet.
+   b5:There's no disqualification or anything.
+   b6:Well, being able to get here.
+   b7:It's like a pre-test to the trial.
+  
+  
+ 
+ 
+ note1:in the WN, the dragon is gold and surrounded by lightning/thunder thus the name: golden thunder dragon
+ note2:in japan, when referring to lightning and thunder, its usually bundled if not specified, so in the raw when tomochika says the dragon will release its lightning, literally it says 'wont it release its thunder at us?' but i changed it to lightning 
+ note3:The end of manga chapter 15 corresponds with the middle of webnovel chapter 3.
+ thunder/lightning source:https://www.quora.com/Is-there-a-different-word-for-thunder-and-lightning-in-Japanese
+ webnovel:https://sadhoovysinhumantranslations.wordpress.com/novels/instant-death/instant-death-v2-chapter-3/

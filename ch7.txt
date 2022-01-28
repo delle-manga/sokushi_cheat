@@ -1,0 +1,272 @@
+p1:
+ title: Magnificent as always, Master!
+ volume:Volume 1 consisting of chapters 1-5 is on sale!
+
+p2:
+ b1:Do you know how to get back to your world?
+ b2:We were actually forcefully summoned to this world...
+ b3:I would like to negotiate.
+ b4:eh?
+ b5:I will provide what information I possess, and in return...
+ b6:I will not be attacked by you.
+ b7:How about that?
+
+p3:
+ b1:This robot...is that wary of Takatou-kun's ability after fighting the sage...?
+ b2:Then, can you tell us how to return to our original world?
+ b3:I apologize, but I can only return to my own world.
+ b4:In that case, could you bring us with you...
+ b5:That too is impossible.
+ b6:There are 2 reasons.
+ b7:First
+ b8:I do not have my entire existance present here.
+ b9:I am in a state where part of me remains in my original world to which I am connected.
+ b10:So, I could return to my world, but you would not.
+
+p4:
+ b1:I see.
+ b2:So it's like you are diving into this world while attached to a lifeline.
+ b3:That analogy is appropriate.
+ b4:This world is located at the bottom of the energy potential.
+ b5:It is easy to descend but
+ b6:requires huge amounts of energy to ascend.
+ b7:In my case, my connection with my original world provides the energy to return.
+ b8:The reason Kanakawa and others were able to return once was because there was a connection to our world...
+
+p5:
+ b1:The returning world's coordinates
+ b2:and returning energy.
+ b3:These two things are necessary to make return possible.
+ b4:Any other problems are trivial compared to those two.
+ b5:I see... Well
+ b6:Finding me these things and giving me this advice.
+ b7:That will be the terms of our negotiation.
+ b8:Only that?
+ b9:Up until now, I didn't know how we would return.
+ b10:Plus, I don't really have anything else I want.
+ b11:Dannoura-san, do you have anything to ask for?
+ b12:eh, no... I can't think of anything on the spot.
+
+p6:
+ b1:[Fufufu] Then turn to me!
+ b2:I have suggestions!
+ b3:Mokomoko-san?!
+ b4:W... well, it's fine but...
+ b5:Anyways.
+ b6:The second reason you can't bring us to your world?
+ b7:I can't bring a dangerous existance such as yourself back to my world.
+ b8:Protecting my world takes priority over my own life.
+ b9:Is that so?
+
+p7:
+ b1:-Several Hours Later-
+ b2:Ah! hey, hey. I can see Hanabusa! It looks just like a Japanese city!
+ b3:The atmosphere is quite different from that of Kuenza city.
+T/L:Kuenza was the first city
+ b4:No walls too...
+ b5:That pole might be the border?
+ b6:Everything inside is probably protected by the power of a sage.
+ b7:...Hey! Takatou-kun, come one!
+
+p8:
+ b1:...We should have asked the robot to carry us.
+ b2:It would be troublesome if it was seen near this place...
+ b3:It at least seems to be an enemy to the people of this world.
+ b4:Maybe you should do some exercise and train your body?
+ b5:I was forced to exercise so I'm somewhat agile...
+ b6:But yeah, I'll admit my lack of stamina.
+ b7:We ought to have had the robot give us a vehicle at least.
+ b8:Was there a reason we had to leave that abruptly?
+
+p9:
+ b1:Too much shadow.
+ b2:I've told you about being able to sense stuff like killing intent and life hazards, right?
+ b3:Like Morihei Ueshiba? That famous Aikido master who was able to dodge bullets by seeing their trajectories like light rays.
+ b4:Might be similar, yeah.
+ b5:In my case it's less like light rays and more like black lines, kind of like shadows.
+ b6:It was like the black shadow around the train was growing quickly, so the danger level was increasing.
+ b7:About a 30% risk level.
+ b8:So it's kind of like the rain predictions?
+ b9:Something like that.
+ b10:This place feels like under 1% change of danger so compared to earlier it's pretty safe.
+
+p10:
+ b1:Looks like this one doesn't have a wall.
+ b2:I wonder if that means they don't have to worry about enemies.
+ b3:Not so sure about that.
+ b4:Basically, it seems this world is full of dangers outside of the protection of the sages.
+ b6:eh? But
+ b7:You say that but we didn't meet any on our way here, did we?
+ b8:Well that's because I was killing everything.
+ b9:...huh?
+ b10:A bunch of monsters and thugs.
+ b11:They were targeting us.
+ b12:Tell me those things!
+ b13:Just thought it wasn't worth mentioning.
+
+p11:
+ b1:In that case, let's hurry up and get inside the city!
+ b2:Weren't we going to wait here for everyone in the class?
+ b3:Here, come on!
+ b4:Hanabusa City
+
+p12:
+ b1:Waaa, a skyscraper hotel!
+ b2:The concierge recommended this hotel before we left.
+ b3:Let's stay here for a while until we can join up with the class.
+ b4:Sounds good!
+ b5:Just as I thought!
+ b6:If it isn't Dannoura-san!
+ b7:eh?
+
+p13:
+ b1:Tachibana-kun?!
+ b2:Why're you here?
+ b3:So you were safe, that's nice.
+ b4:Everyone in the class is still in the primeval forest, right?
+ b5:Did he take the train before us?
+ b6:I split up from the rest of the class.
+ b7:No point in going along with an inefficient leveling method, you know?
+ b8:Is that so?
+
+p14:
+ b1:Who is this woman?
+ b2:Acting so familiar with Yuuki!
+ b3:huh?
+ b4:Leave it, Erika.
+ b5:They're my classmates.
+ b6:If Yuuki says so...
+ b7:Magnificent as ever, Master!
+ b8:What a tolerant heart even towards such uncultured people!
+ b9:Truly a personality fit for a monarch!
+ b10:Takatou-kun... 
+ b11:what's going on here?
+ text:You're asking me...
+ b12:Oh!
+ b13:I still haven't introduced myself.
+
+p15: each girl has different font
+ b1:These women are my guards chosen among my many slaves.
+ b2:Introduce yourselves.
+ b3:I'm feel no need, so only because Yuuki says to!
+ b4():Fifth rank of the guards, I'm Erika.
+ b5:I wouldn't speak if not for master's command.
+ b6:Fourth rank among the guards, they call me Stephanie.
+ b7:Third rank Chelsea...
+ b8:Onee-chan is dead?
+ b9:I am Euphemia, second rank.
+ b10:Could you please disappear from my view?
+ b11:I am the Guard Leader, Riza.
+ b12:Don't be concieted just because your his classmate please.
+R>L:E-ri-ka, Su-Te-Fua-Ni, Chie-Ru-Shi, E-U-Fue-Mi-A, Ri-Za
+
+p16:
+ b1:Could you guys stop expressing such hostility?!
+ b2:What did I even do?
+ b3:Oh, sorry. I'm not good at being strict with the girls.
+ b4:Be quiet for a little bit, girls.
+ b5:Tachibana is one of the classmates who left us in the bus.
+ b6:I don't know what power he got, but he sure is confident.
+ b7:Ah, no... He was like this originally...
+ b8:His narcissism and overconfidence always made him pretty popular with girls.
+ b9:Seriously?
+ b10:...High school might've been more interesting than I thought.
+ b11:Maybe I shouldn't have spent all my time at school asleep.
+
+p17:
+ b1:Meeting you here must be some kind of click of fate.
+ b2:Dannoura-san, will you become my lover?
+ b3:Huh?
+
+p18:
+ sfx1:wings flapping
+ sfx2:tapping
+ b1:A report?
+
+p19:
+ b1:L...Lain-sama! This is Edelgard.
+ b2:Following the trail of Takatou Yogiri and Dannoura Tomochika, we came up on a scene on the Hanabusa train tracks.
+ b3:S...Sage Santarou-sama... was found dead there.
+ b4:The cause of death is unknown...
+ b5:A report from Kuenza's guard's captain.
+ b6:This is the matter for which I invited you.
+ b7:Sage Sion.
+ sfx:Fuu
+
+p20:
+ b1:I heard the story about the instant death magic from your acolyte Youichi.
+ b2:Do you mean the sage candidates I summoned?
+ b3:Santarou-san headed out to intercept some big robot, wasn't that what killed him?
+ b4:Possibly, but there's no proof.
+ b5:Either way, I doubt it's fine to leave them be.
+ b6:I'll deal with those two.
+ b7:I've seen both of them close up...neither struck me as very rich in potential.
+ b8:And for what reason would they kill Santarou-san?
+ b9:There wasn't any damage to his corpse, right?
+ b10:Right, there's no evidence the philosopher's stone was extracted from him.
+ b11:That point is mysterious...
+ b12:I was thinking I'd discuss the matter with you beforehand, since you summoned them.
+
+p21:
+ b1:Is that all?
+ b2:I thought Lain-sama wished to discuss the matter of Kurayami.
+ b3:Kuriyama was Santarou's issue, I believe.
+ b4:He drove it away, but it still remains in this world.
+ b5:The question of who'll be responsible for repelling it next...
+ b6:Correct!
+ b7:If you deal with it, you can do as you please with those two people.
+ b8:...Hmm
+ b9:Fine, I'll handle it.
+ b10:Mayasuki.
+
+p22:
+ b1:You called? Lain.
+ sfx:shimmer
+ b2:Gather the Undead Battalion and head to Hanabusa.
+ b3:You should find two Japanese called Takatou Yogiri and Dannoura Tomochika there, deal with them.
+ b4:What?
+ b5:Head out for just two people?
+ b6:It's just two, but there's a need to get rid of them.
+ b7:They've got something like instant death magic.
+ b8:There's a decent chance a regular troop wouldn't stand a chance.
+ b9:Recruit new soldiers on-site if you don't have enough.
+ b10:Oioioi! Hey, aight, hey now.
+ b11:You saying I can wreck Hayabusa, that's what you mean, right?
+ b12:Don't cha worry! I'll handle it, you go ahead and expect some nice results!
+ sfx:evil smile
+
+p23note:
+First off, thanks for reading. Chapter 7's raw releases 11/30.
+
+Volume 1 was released and has some extra pages with some concept art and a short story about the Dannoura School of Archery or something like that. I'll translate and upload it if I find the time. Sadly though, the artwork for previous chapters wasn't refined so no update for that fight scene.
+
+If you would like to read the translated webnovel, it can be found at: sakutranslations.blogspot.com/2017/05/instant-death.html
+
+The end of manga chapter 7 corresponds with the end of webnovel chapter 21 (some extra info not found in the manga).
+
+The manga officially releases at: http://comic-earthstar.jp/detail/sokushicheat/
+
+-zairx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

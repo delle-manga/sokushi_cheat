@@ -1,0 +1,233 @@
+p1:
+ b1:...Hey! Leave immediately!
+ b2:What's wrong mokomoko-san?!
+ b3:Do you not notice this miasma?
+ b4:Up headed is... something evil!
+ b5:Up head... isn't it just a tower?
+ b6:I don't know about this stuff but... Takatou-kun?
+ b7:bleeegh
+ b8:Rainier-san?!
+ 
+p2:
+ b1:Are you okay?! stay strong!
+ b2:He got hit by the maisma.
+ b3:miasma?
+ b4:will i be okay then...
+ b5:I am protecting you.
+ b6:And it seems the young man can prevent it himself.
+ b7:It seems that you're able to endure this maisma, rainier-san.
+ b8:rick-san!
+ b9:Something of this level won't affect me but...
+ b10:takatou-kun...
+ b11:Indeed... ever since the barrier, there have been some shadows of death.
+ b11:But it's not immediately dangerous...
+ b12:waa?!
+ b13:fwuu...
+ b14:I was able to gain resistance thanks to the stones!
+ b15:Is this really a situation to use something like that?!
+ 
+p3:
+ title:Won't it solve everything if I just kill him
+ 
+p4:
+ b1:Is it really fine to enter this tower?
+ b2:Atila...
+ b3:huh? atila?
+ b4:Can she not come with us?
+ b5:She was blocked by the barrier.
+ b6:From there on, it seems to allows people who are taking the trial...
+ b7:ehhh...
+ b8:Are we seriously taking the trial...
+ b9:This is getting even more annoying.
+ 
+p5:
+ b1:That door in the center is where we're headed.
+ b2:waa...
+ b3:The tower is very wide on the inside.
+ b4:Hey, hurry up or we'll leave you!
+ b5:It's not like I really care if you do...
+ b6:This is an elevator?
+ b7:Even though it's a fantasy-style tower.
+ b8:Well, it's better than having to climb the stairs.
+ 
+p6:
+ b1:We're on the roof.
+ b2:Come over and look on this side.
+ b3:eh...
+ b4:no way...!
+ 
+p7:
+ b1:Indeed.
+ b2:This is the end of the world.
+ 
+p8:
+ b1:hmm...?!
+ b2:What can you see dannoura-san?
+ b3:In the middle of that monster cluster...
+ b4:Is a man in black and woman in white...?
+ b5:The woman's sword...seems to be piercing both of them, but they are frozen.
+ 
+p9:
+ b1:amazing
+ b2:I can only see a huge sphere of monsters.
+ b3:That might be the holy king and devil!
+ b4:Isn't the surrounding sphere a barrier?
+ b5:It isn't wrong to say that this world is at its end.
+ b6:It's just barely staying alive.
+ b7:Even the sword saint is just a simple guard in the face of this.
+ b8:I already knew all that!
+ b9:I'm here to finally put an end to this thousand year battle with the devil!
+ b10:Won't it solve everything if I just kill him!
+ b11:Frederica-san!
+ b12:You know her?
+ 
+p10:
+ b1:houu
+ b2:you're high spirited.
+ b3:hehe! Your role will end today!
+ b4:You'll be able to retire peacefully after this!
+ b5:Sunburst Flare...!!
+
+p11:
+ b1:waah
+ b2:Tha person did that so suddenly?!
+ b3:Fredrica-san!
+ b4:fufu...
+ 
+p12:
+ b1:With this, the devil and all his followers will be finished!
+ b2:I will defeat the devile thate even the holy king coudn't beat and finally restore the peace!
+ b3:So...
+ 
+p13:
+sfx:freeze
+ b1:huh?
+ b2:The flow of time inside the barrier is slowed.
+ b3:And it's slowest at the center.
+ b4:It will take hundreds of years before that attack reaches the devil.
+ 
+p14:
+ b1:So that's why...I can't simply retire peacefully.
+ b2:We will now start the knight of the holy king selection trial.
+ b3:Please listen to the detailed explanation.
+ b4:WEll then.
+ b5:The flow of time here is slowed due to the effects of the barrier.
+ b6:So, the time on the outside will be sluggish and greatly different.
+ b7:Now then, everyone please pay attention.
+ b8:I am the magic doll in charge of managing this trial.
+ b9:There are other machines of the same model working inside the tower as well.
+ 
+p15:
+ b1:I ask that everyone aim to get to the first floor of this tower within 24 hours.
+ b2:This roof is on the hundredth floor.
+ b3:However, to pass, you need to collect 100 points while in the tower.
+ b4:Would jumping from here to the ground result in failure?
+ b5:Of course. The same goes for using the elevator.
+ b6:As for a hint on collecting points in the tower.
+ b7:Please find out for yourself.
+ b8:hmm... well
+ b9:So boring. (dull,sluggish)
+ b10:...takatou-kun
+ b11:Doesn't that person stand out?
+ b12:They weren't in the square.
+ b13:It seems like there's more people...
+ 
+p16:
+ b1:This tower has two types of rooms.
+ b2:Have you noticed how the rooftop floor is white? That's because this is a "safe area".
+ b3:Combat in the safe areas will result in immediate disqualification.
+ b4:However, there are the "battle areas" with gray floors.
+ b5:If you as a magic doll for your point count, they will answer.
+ b6:That's all for the explanation.
+ b7:The trial will begin starting now.
+ b8:Please challenge whichever entrance you prefer.
+ b9:Is a question alright?
+ b10:That's fine, but hasn't the trial already started?
+ 
+p17:
+ b1:well
+ b2:The woman in the maid outfit over there in the roaring sword rank, teresa-dono...basically, she is a former servant of the holy king, but...
+ b3:Why is she participating in the selection?
+ b4:ara, richard-san.
+ b5:How strange to meet in such a place.
+ b6:Teresa-dono...
+ b7:I was careless enough to get tricked.
+ b8:Thus, I was disqualified from the holy king's knight selection.
+ b9:So, I asked the sword saint if I could try again.
+ b10:There are several special participants including her.
+ b11:There are various reasons...
+ b12:I see... so the number of people increased along the way.
+ b13:There are also other people to be worried about...
+ 
+p18:
+ b1:Skull mask...
+ b2:The magician man in the golden robe...
+ b3:The Japanese man with the girls...
+ b4:An that girl too...
+ b5:I feel like she is hiding something.
+ b6:Surely, that person is somehow strong...
+ b7:You'll have to be more careful than ever before.
+ b8:uhh... This is a bit troubling.
+ b9:I'd like to just leave this place early and head to the capital city but...
+ 
+p19:
+ b1:I'll protect you guys as much as possible but...there are people here who I'd never be able to beat.
+ b2:Teresa-dono from earlier is one of them...
+ b3:If we meet them in the battle areas, we'll need to escape immediately.
+ b4:They're that strong...
+ b5:uhm...that girl from earlier who use magic...
+ b6:Her name is Fredrica, she's the one who invited me...
+ b7:Is it really fine to leave her alone then?
+ b8:well.. the thing is...
+ b9:That person... might be absent-minded right now but...
+ b10:I think it would backfire if I were to attempt to console her right now...
+ 
+p20:
+ b1:So that's why...I didn't even know about the devil or holy king when I came here...
+ b2:Didn't that kid say she was going to defeat the devil though...
+ b3:I guess it wouldn't be easy to attack from outside the barrier.
+ b4:...hm?
+ b5:What about takatou-kun's ability?
+ b6:He could probably kill the devil from outside the barrier...
+ b7:no no
+ b8:"Is there any reason to kill it?"
+ b9:He'd probably say something like that.
+ b10:I don't even know which one is the devil anyways.
+ b11:Just because one might look more evil doesn't necessarily mean anything.
+ b12:hey takat...
+ 
+p21:
+ b1:What's wrong?
+ 
+p22:
+ b1:well... you remember the miasma earlier...
+ b2:The miasma was threatening so i reflexively killed the source of it, but...
+ b3:It might have been... coming from there?
+ b4:huh?
+ 
+note1:chapter 18's raw should release 12/5
+note2:the end of manga chapter 17 corresponds to the end of web novel volume 2 chapter 5
+
+src:https://sadhoovysinhumantranslations.wordpress.com/novels/instant-death/instant-death-v2-chapter-5/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

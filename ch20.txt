@@ -1,0 +1,235 @@
+p1:
+ title: Saito Rikuto and Hayanose Aoi
+ 
+p2:
+ b1:Haaa... So annoying.
+ b2:Who would want to live this deep in a forest full of monsters.
+ b3:It's the best spot for a hiding place though.
+ b4:Because people would rarelt come out here.
+ b5:And the demons won't attack someone stronger than them.
+ b6:Even now, their just watching just walk by.
+ b7:...huh?
+ 
+p3:
+ b1:There wasn't such a large opening on the map, right?
+ b2:It seems they cleared quite a bit of land in the demonic beast forest.
+ b3:Either way, to come to a non-aggression pact with the demonic beasts would require quite a powerful person.
+ b4:yeah... even so, the paddy fields sure are nice.
+ b5:After all, the rice is for Japanese people, isn't it...
+ b6:There are fields and ranches.
+ b7:It appears to be designed for complete self-reliance.
+ b8:There's no one besides elf girls working...
+ b9:I don't get why?
+ b10:Every last one of them, they always choose to marry elves.
+ b11:What's so special about elf women.
+ 
+p4:
+ b1:I think you are more beautiful.
+ b2:Thanks.
+ b3:...well, anyways.
+ b4:Hey, you.
+ b5:Is there someone in charge of this place?
+ b6:eh?!
+ b7:uh, uhm... How did you get here?
+ b8:I walked.
+ b9:Has nobody ever come here?
+ b10:Yeah, as far as I know...
+
+p5:
+ b1:You're here for business with master?
+ b2:Then, I'll guide you to him.
+ b3:Thanks
+ b4:Even though /i/I was the one who said to...
+ b5:Is it really alright to guide a random, suspicious person to your master?
+ b6:Sure, I don't there is any problem.
+ b7:Because there's nobody who can do something to the master.
+ b8:hmmm
+ b9:Here we are. This is his mansion.
+ 
+p6:
+ b1:ah!
+ b2:master!
+ b3:Good grief...uhm
+ b4:How many times are you guys going to come after me?
+ b5:You're here to invite me to the sages, right?
+ b6:There's no reason for me to do such a troublesome thing.
+ b7:Don't worry, I'm the last one.
+ b8:You're Saito Rikuto, I assume?
+ b9:That's correct.
+ b10:And, you are...
+ 
+p7:
+ b1:Hayanose Aoi, right?
+ b2:So, they finally sent a sage to personally come out here.
+ b3:I'll omit the invitation speech because it's the same as the last times.
+ b4:The only difference on this third time is...
+ b5:if you refuse, you will be disposed of.
+ b6:Fuhaa...
+ b7:Hahahaha!
+ 
+p8:
+ b1:Disposed of...You can laugh too, Leila!
+ b2:no...! I cannot laugh at this!
+ b3:And you! What are you saying!
+ b4:Please apologize quickly!
+ b5:Unthinkable things will happen if you anger Rikuto-san, you know?
+ b6:...well, Just to make sure.
+ b7:You are refusing this invitation, right?
+ b8:You will be my enemy at that moment.
+ b9:I refuse.
+ b10:Is that so.
+ 
+p9:
+ b1:I don't think you can't win against me.
+ b2:You know the gap between our strength, right?
+ b3:I received the world's strongest powers from god and came here.
+ b4:If we're talking about specs, then I am certainly weaker.
+ b5:Even among the sages, I am the weakest.
+ b6:You geet it. Then, how about we stop this fight?
+ b7:It would only be bothersome, wouldn't you agree?
+ b8:Or what, do you want to enter my harem?
+ b9:Most of the servants here are also people who attacked me.
+ 
+p10:
+ b1:Although I do agree that it's a bother, but it's my job.
+ b2:...Stop now if you plan on taking a hostage, alright?
+ b3:Because that will truly anger me.
+ b4:Oh, you don't have to worry about that.
+ b5:You are my only target. I'll try not to involve others as much as possible.
+ b6:eh...
+ b7:I would recommend that Leila-san go as far away as possible.
+ b8:Leila, get everyone else away too.
+ b9:...well, I don't think it will be that big of a deal.
+ 
+p11:
+ b1:Does all your confidence come from that eye of yours?
+ b2:I'll let you know that I can't be charmed or petrified.
+ b3:ahh, this?
+ b4:It's your ability. I don't know the details though.
+ b5:It's the "hero killing eye."
+ b6:It sounds dangerous, but basically, it just lets me analyze things.
+ b7:Heh... Hero.
+ b8:Why use it against me then?
+ b9:You're not a hero so don't worry about it.
+ 
+p12:
+ b1:That's...Can't you see the children doing farmwork out there?
+ b2:Isn't this forest supposed to be ruled by some sort of beast king or dragon god?
+ b3:So, what you're trying to say is that you are a hero.
+ b4:It's no use talking. Let's just get started already.
+ b5:...Fine, I'll punish you just to the extent that you don't die.
+
+p13:
+ b1:Starting with tentacles...
+ b2:Such a disgusting way of thinking.
+ 
+p14:(Just World)A cruel world that only rewards effort.
+
+p15:
+ b1:What?!
+ b2:Although /i/I want to settle this quickly...
+ b3:They said a lesson was necessary.
+ b4:Don't look down on me!
+ b5:ah...
+ b6:kyaaaa?!
+ 
+p16:n/a
+
+p17:
+ b1:They cancelled out...?!
+ b2:Damn... It's the same trick as the last one...!
+ b3:Isn't ITTT like you're the one taking hostages at this point?
+ b4:I wonder why you're all so simple-minded...
+ b5:It's a power that you were given.
+ b6:What makes you think other won't get it as well?
+ 
+p18:
+ b1:Did he give you that power!
+ b2:That motherfucker!
+ b3:He said he was giving me the strongest power!
+ b4:I don't know who gave you that power.
+ b5:But...
+ b6:I just thought that if a worthless person like you could do it...
+ b7:Then even /i/I would be able to.
+ 
+p19:
+ b1:I'm tired of always having to cut down guys like this.
+ b2:They're all nervous when they first try out their powers, but...
+ b3:They immediately become arrogant and start thinking that power is their own.
+ b4:And then, those who simply received their power without any effort...
+ b5:begin to ridicule those who exert themselves in any way.
+ b6:Silence!
+ b7:Eat this! Buried Flames!
+
+p20:
+ b1:wha...
+ b2:Why isn't it coming out?! Damn it! ...Black Centipede!
+ b3:Hundred Ceremony!
+ b4:Dark Scripture...!
+ b5:What's happening...?!
+ b6:And so...
+ b7:This power that you received.
+ b8:"Didn't you ever think it might go away?"
+ 
+p21:
+ b1:What is this! I should be stronger!
+ b2:No, it's because your fate has low value.
+ b3:It's easy to steal the powers of your enemy when their powers are similar to your own.
+ b4:It was...stolen?!
+ b5:Even so, it didn't have to be one-sided.
+ b6:In fact, if you would have put in effort and gotten stronger... if you would've prepared ahead of time...
+ b7:Then I would be on the losing side.
+ b8:Haha.. That's it!
+ b9:I still have this!
+ 
+p22:
+ b1:Indeed.
+ b2:Because the fate value of that sword is high...
+ b3:I can't make it disappear with my power.
+ b4:But...
+ 
+p23:
+ b1:If the user is weak...
+ b2:It doesn't make a difference.
+ 
+p24:
+ b1:Uwee... I'm all bloody.
+ b2:Was it really necessary to use me?
+ b3:It was to send a message.
+ b4:His servants have run away too.
+ b5:It seems he wasn't a very popular mann.
+ b6:It would be good if they spread the news of his brutal death as a warning though.
+ b7:Oh!
+ b8:A message came in.
+ b9:eh? Is it urgent business?
+ b10:It seems to be the next job.
+ b11:The targets are two Japanese people...
+ 
+p25:
+ b1:Takatou Yogiri and Dannoura Tomochika.
+ b2:Both are sage candidates.
+ b3:hm? what do you mean?
+ b4:Why would they bother to ask me to take care of some sage candidates...
+ b5:I don't know. For now, head to the town of Hanabusa.
+ b6:We'll receive detailed information once we get there.
+ b7:Geez. I don't even have time to take a break...
+ sfx:step step step
+ b8:...hm?
+ b9:May thy please wait for me!!
+
+p26:
+ b1:I am the person called Hanakawa Daimon!
+ b2:I barely managed to survive in the forest until I was found by Rikuto!
+ b3:But because thou killed Rikuto, I can't be helped anymore!
+ 
+p27:
+ b1:Please take me with you some way or another!
+ b2:If left like this, then I'll have no choice but to await death!
+ b3:What is this?
+ b4:It’s an odd creature.
+
+note1：ch 21 raw=3/26
+note2:the character at the end is one of the guys from the beginning who wanted to 'have fun with' tomochika, but was sent into the forest by yogiri
+note3:this chapter is a few chapters back in the webnovel. manga chapter 20 corresponds to WN vol2 ch1
+note4:every time she says I or me, she uses 'boku'(in katakana) which is generally used by males
+note5:the knife's text is supposed to be a little scuffed, but if it's unreadable, please let me know.

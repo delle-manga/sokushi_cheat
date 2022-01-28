@@ -1,0 +1,285 @@
+p1:
+ leftnote:The first volume is on sale!
+ chName:The eyeball's besides the point
+
+p2:
+ b1:Wait.
+ b2:I have no intention to fight.
+ b3:A... a robot...!
+ b4:Reminds me of the dragon with how unreal it feels.
+ b5:It talked Takatou-kun!
+
+p3:
+ b1:Is there someone inside?
+ b2:There are no passengers.
+ b3:You're voice suddenly got cute?!
+ b4:are you actually a girl riding a robot?
+ b5:No, I'm autonomous.
+ b6:To avoid battle, 
+ b7:I chose this voice to gain the young male's favor.
+ b8:That's scarily calculating!
+ b9:The machine's quite reasonable because...
+ b10:It understands the dangers of this youngster.
+ b11:eh... but
+ b12:Can Takatou-kun's ability even works on a robot?
+
+p4:
+ b1:I don't know how you percieve my existance...
+ b2:But I consider myself to be alive.
+ b3:Don't robots live and die as well?
+ b4:They do?!
+ b5:Looks like that's the assumption the robot's going with.
+ b6:Avoiding a fight sounds good, but...
+ b7:Why were you fighting with that sage over there?
+ b8:I was only defending myself.
+ b9:I assume he viewed me as a foreign enemy; they call us Aggressors, after all.
+
+p5:
+ b1:...Foreign Enemy?
+ b2:Where are you from then?
+ b3:From outside this world.
+ b4:eh?!
+ b5:Did you say...
+ b6:Outside?!
+ b7:Do you know how to return to your original world?!
+
+p6:
+ b1:Three days prior, Quens Town/Queens Street
+ b2:Hmm.
+ b3:Is this the survivor from the report?
+ b4:Boss...! Mirielle...! Are you there?
+ b5:Help me, my eyes, ears, and nose aren't working!
+ b6:Yes, ma'am.
+ b7:As you can see, we haven't been able to question him yet.
+ dogman:Heeeey! Gya, gaa
+ b8:We had to restrain him to keep him still...
+
+p7:
+ b1:HIIII?!/EEEH?!
+ b2:Looks like it normally should... Interesting.
+ b3:Yes.
+ b4:I tried recovery magic, it didn't...
+ b5:Uh?!
+ b6:GYAAAAAA!
+ b7:...work.
+
+p8:
+ b1:What are...?!
+ b2:Sage Lain-sama!!
+ b3:I'm the kind of person that's not convinced until they've taken a closer look themselves.
+
+p9:
+ b1:Heal!
+ b2:uuu...
+ b3:Ohh! A new eye appeared instantly!
+ b4:As expected of Sage Lain-sama...!
+ b5:I've never seen such strong healing magic.
+ b6:What the hell just happened...
+ b7:Fuck, I can't see...
+ b8:Doesn't look like he can see. 
+ b9:Despite his organ making a full recovery, it still doesn't work.
+ b10:Hmm...
+
+p10:
+ b1:Then, how about this?
+ b2:Shink. (Teeth popping out)
+ b3:HIIII?!/EEEH?!
+ b4:Lain-sama?!
+ b5:Lain-sama is a vampire, were you not aware?
+ b6:Lain-sama's class is Origin Blood. The highest rank among undeads.
+
+p11:
+ b1:Also called the Immortal Empress.
+ b2:She's very different from your regular undead.
+ b3:Is that so?
+ b4:You seem quite knowledgeable about her.
+ b5:Well, yeah.
+ b6:That's because Lain-sama was a sage even when I was a candidate.
+ b7:GUAAA
+ b8:Those who are turned directly by Lain-sama should show drasticly improved physical function.
+
+p12:
+ sfx:stagger
+ b1:Gaa...
+ b2:uu...
+ b3:...Hm
+ b4:So even turning him into my blood won't do.
+ b5:Telepathy isn't even working.
+ b6:Interesting...
+ b7:...What?! This shaking...
+
+p13:
+ sfx:battlecry
+ b1:My...my castle!
+ b2:What is going on?!
+
+p14:
+ b1:Just now...
+ b2:Was his sword swings?!
+ b3:Who is he?!
+
+p15:
+ b1:A... Hero!
+ b2:What!
+ b3:I performed analyze, and it's the result!
+ b4:That ability is the Sword Saint's gift...
+ b5:He has the Hero class!
+
+p16:
+ b1:Lain-sama!
+
+p17:
+ b1:She's instantly healing...?!
+ b2:Like I said, Lain-sama is basically immortal.
+
+p18:
+ b1:Lightning Force!
+ b2:Icicle Slash!
+ b3:Giant Grave Impact!
+ b4:I quite like this dress.
+ b5:She's completely unscathed after that onslaught...?!
+ b6:No. In reality...
+ b7:She is recovering faster than we can even see!
+
+p19:
+ b1:Damn
+ b2:Monster!
+ b3:Why are you attacking a sage?
+ b4:Shouldn't a hero be out defeating some demon lord...
+ b5:Don't screw with me!
+ b6:You guys are nothing but harm to this world!
+ b7:Are we sages not the ones that protect this world?
+ b8:So we should just forgive your atrocities?!
+ b9:How many people do you think died just because some sage felt like it?!
+ b10:...Hmm
+
+p20:
+ b1:Did someone close to you get killed or manipulated by a sage?
+ b2:Either way, I barely come down here so it couldn't have been me.
+ b3:You are mistaken.
+ b4:Shut up!
+ b5:I'll kill every single one of you!
+ b6:Do you think I care about your immortality!? Let's see you regenerate after I burn you to nothing!
+ b7:Holy Sword
+ b8:Kartena!
+
+p21:
+ b1:GYAAA
+ b2:agh...
+ b3:Damn it, the witness!
+ b4:Damn, this is completely different from earlier!
+ b5:Don't step outside this shield!
+
+p22:
+ b1:With all my power...I'll erase you!
+ b2:Sword Saint, give me strength...!
+
+p23:
+ b1:Wh... what in the world?!
+ b2:The lord's castle...!!
+ b3:Citizens, get down!
+ b4:Protect your heads from the rubble!
+ b5:A fire?!
+ b6:Explosions?!
+ b7:Where's Guard Captain Edelgard?!
+ b8:She's supposed to be in the castle right now!!
+ b9:Holy shit...Is the captain's still in there?!
+ b10:Who in the hell did this...
+
+p24:
+ sfx:panting
+ b1:I...I did it...
+ b2:Even if it cost me the Holy Sword Kartena...
+ b3:I defeated...a sage...!
+ b4:Ariel...!
+
+p25:
+ b1:Is this Ariel your dead lover or something?
+ b2:How...
+ b3:How did you escape...?!
+ b4:I didn't.
+ b5:Why would I if I can't be killed anyways?
+ b6:Im... Impossible!
+ b7:Even the holy sword kartena was burned up in the heat...?!
+ b8:I wouldn't be having such a hard time if I could die just by being burnt up.
+
+p26:
+ b1:Lain-sama...!
+ b2:You're fine?!
+ b3:For a moment, I was nothing but I regeneratedimmediatly.
+ b4:This degree of immortality might as well be a curse.
+ b5:I don't even want to think about how much longer I'll live.
+ b6:Pardon me, but how he be dealt with?
+ b7:I don't care...
+ b8:B.. but attacking a sage is a felony...
+ b9:Hmmmm
+
+p27:
+ b1:...kill me...
+ b2:As a hero, you think your entire purpose is to fight.
+ b3:You even lost the sword saint's gift in a grudge against the Sages...
+ b4:There's no point in killing you.
+ b5:.....
+ b6:eh?
+ b7:uh... Lain-sama?
+ b8:EHHH?!
+
+p28:
+txt:UWAAAAA
+ b1:Let's all just agree he never came here in the first place?
+ b2:uh...
+ b3:Understood. No one but us has come here.
+ b4:The orders of sages are absolute!!
+ text:Captain...
+ b5:Edelgard, I came here because your report interested me.
+ b6:In the case of those dead theives...
+ b7:Let's just say that they died for the sake of an experiment.
+
+p29:
+ b1:In the case of those two Japanese who witnessed the incident...
+ b2:Takatou Yogiri and Dannoura Tomochika...
+ b3:It seems they were there at the time of the death of a dragon sent by Sage Sion.
+ b4:They killed a dragon?!
+ b5:One of Sion's followers suggested that they used instant death magic...
+
+p30:
+ b1:I want you guards to track down those two.
+ b2:Yes, ma'am!
+ b3:Instant Death Magic
+ b4:Does such a thing exist...there's no conctrete proof.
+ b5:Immediately contact me when you find their location.
+ b6:However, if it does exist...
+
+p31Note:
+First off, thanks for reading. The next chapter releases 10/26.
+
+Second, in the translation of the webnovel, 'Kartena' is translated as a holy saint that was destroyed by the ability that the hero used in this chapter, but the manga interprets the novel as the name Kartena being the sword's name and it being a gift from a sword saint.
+
+If you would like to read the translated webnovel, it can be found at: sakutranslations.blogspot.com/2017/05/instant-death.html
+
+The end of manga chapter 6 corresponds with the midpoint of webnovel chapter 20.
+
+The manga officially releases at: http://comic-earthstar.jp/detail/sokushicheat/
+
+-zairx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

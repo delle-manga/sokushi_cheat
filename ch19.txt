@@ -1,0 +1,289 @@
+p1:
+ b1:no pulse...
+ b2:Why would a swordsman like Teresa-dono suddenly...?
+ b3:Maybe she had a heart attack or something?
+ b4:Well that's convetnient. I guess she died by chance...
+ b5:You see, I have crazy good luck.
+ b6:You could say I'm like the opposite of Rainier-san.
+ b7:by chance...?
+ b8:no... but...?
+ b9:Will he buy it? ()
+ b10:Finding that point earlier was definitely lucky...
+ b11:If it's the opposite of Rainier-san, then it might be possible...
+ b12:I wouldn't have been able to beat her with my current ability. I guess you really are lucky.
+ b12:It's good he's gullible.
+ b13:Yay... I'm saved!
+ 
+ p2:
+  b1:It was almost checkmate because my arm with the apology stone tied to it got cut off immediately!
+  b2:So carefree...
+  b3:The room's exit... leads down a set of stairs.
+  b4:Anyways, let's get going.
+  b5:Congratulations on reaching the 98th floor.
+  b6:I am magic doll B.
+  b7:This entire floor is a safe area and as such there are accomodations available.
+  b8:Feel free to take a break here or progress further.
+  
+ p3:
+  title:The Daughter of a Warrior Family
+  
+ p4:
+  b1:I'd like to talk now that we're in a safe area.
+  b2:Wouldn't it be better for you guys if we were to seperate?
+  b3:If we had been the first to enter that room, then we might've had to kill eachother...
+  b4:That's true... It seems the trials will be more harsh than I thought.
+  b5:But, will you guys really be fine?
+  b6:Yeah, we'll be alright.
+  b7:Me too. If I wait in the room til midnight, then my apology stones will be refilled...
+  b8:Understood.
+  b9:WEll then, I'll go on ahead.
+  b10:Good luck.
+  b11:Rick-san too, be careful.
+  b12:Accomodations for three then?
+  b13:I'll show you to your rooms now.
+  
+ p5:
+  b1:I guess Takatou-kun and I... will be in the same room.
+  b2:Then I'll get a private room...
+  b3:There is also room service if you want meals...
+  b4:Ah! I'm good.
+  b5:I might get food poisoning or something...
+  b6:My best option is to "not do anything" until midnight...
+  b7:Well then.
+  b8:Haha...
+  b9:I think there's something wrong with Rainier-san.
+  b10:What do you mean?
+  b11:He knew he was unlucky, but still went throught the door first, relying on the apology stones...
+  b12:He's too careless.
+  b13:As if he doesn't care too much for his life...
+  
+ p6:
+  b1:98th floor... finnally...
+  b2:I finally got this far after almost dying 15 times in this trial...
+  b3:Just a little more til midnight...
+  text:sigh...
+  b4:It's here!
+  b5:...uwaa?!
+  b6:What? There are so many apology stones today.
+  b7:There's 100?!
+  
+ p7:
+  b1:uhhm...?
+  b2:why...
+  b3:You have been reincarnated in this world for 20 years now.
+  text:To commemorate the 20 year anniversary of this service, you get a guarenteed UR gacha!! (1 Time Use)
+  b4:A guarenteed Ultra Rare Gacha?! Let's go!!
+  b5:I've never even gotten a UR before...
+  b6:Alright!
+  b7:Come at me! Ultra Rare!
+  b8:A weapon? or an item?!
+  b9:...or a Companion character!!
+  
+ p8: n/a
+ 
+ p9:
+  b1:ahn... <3
+  b2:The sweet smell of that person... <3
+  b3:It's as if they're hugging me... <3
+  b4:What just happened?!
+  b5:Why did you appear...
+  b6:Youre the goddess who reincarnated me into this world!!
+  b7:Right?
+  
+ p10:
+  b1:Are you supposed to be my UR companion...!!
+  b2:Ah, sorry. I'll be heading back soon.
+  b3:Eh, going home?! What do you mean?!
+  b4:I simply wanted to come here and have a look around!
+  b5:Sorry. You celebrated early, I guess? I normally wouldn't be able to come to this world, but...
+  b6:because you set your savepoint here, I was able to bypass various things to observe it!
+  b7:eh?!
+  b8:Please wait a sec. What am I supposed to do now...
+  b9:Do you mean I'll restart in this room if I die?!
+  b10:This isn't a joke! It's dangerous here...!
+  b11:You got bestowed with the ability of the "Staggering Castaway" (Random Walk)...
+  b12:So, can't you just resume to a random situation each time you die?
+  b13:If you repeat it several times, it's likely you'll do good on one and survive.
+  b14:But...
+  
+ p11:
+  b1:Until now, every time I died, I had to start over from the royal capital, right?
+  text:Resume from the last save point.
+  b2:Were'nt you the one who wanted me to come to this tower?
+  b3:No matter how many times I return from death, something like a death god appears and tries to kill me.
+  b4:I always have to run away every time he shows up, but I wonder if he'll be able to come after me in a place like this tower.
+  b5:What in the world is that guy anyways?
+  b6:Well.. It'a about that time.
+  b7:I can't return this body...so, I'll leave it here.
+  b8:eh?
+  b9:It's pretty easy to insert things into this world...
+  b10:But, it's quite difficult to pull them out.
+  b11:So I just sent a disposable copy and controlled it remotely.
+  
+ p12:
+  b1:This body will disintegrate in a few hours.
+  b2:You can use it as you'd like until then.
+  b3: Bye <3
+  b4:For 20 years after being reincarnated...
+  b5:The death god has been chasing after me and trying to return me to death, except for in this tower.
+  b6:Is this why the goddess wanted me to come here...?
+  
+ p13:
+  b1:But for what...?
+  b2:What the hell is this goddess' goal?
+  b3:Trial Tower Underground
+  b4:What is it?
+  b5:Sword Saint-sama
+  
+ p14:
+  b1:There is something worrying me...
+  b2:The number of souls is less than the number of dead in the tower right now...
+  b3:I don't know whether it's due to the quality of the dead people or a problem with the tower's ability to absorb thier souls.
+  b4:hmm...
+  b5:We should have several extra years worth to maintain the barrier, right?
+  b6:Yes, but it might become a problem in the future if it persists...
+  b7:It might be necessary to replenish the number of half demons for the underground barrier soon.
+  b8:hmmm...
+  b9:Well, how about that woman who was proud to use her magic.
+  b10:Couldn't she be used in the place of a half demon?
+  b11:Alright then, about the barrier for the devil.
+  b12:A unique individual of the devil's bloodline is likely to break through the second barrier.
+  b13:The expected time is 3 days from now at noon.
+  b14:A humanoid too... what a hassle.
+  
+ p15:
+  b1:It's the job of the Knights of the Holy King to deal with any kin who've escaped from the barrier's edge.
+  b2:It might just be the first job for those who successfully pass the trial.
+  b3:Would you like to adjust the trials to increase the number of successful candidates?
+  b4:The people who would die in the trial wouldn't stand a chance against his underlings.
+  b5:Those who survive the challenge of the trial will become knights of the holy king.
+  b6:And those who die will supply new magic to the barriers.
+  b7:All for the sake of protecting this world from the devil's followers.
+  
+ p16:
+  b1:Tomochika!
+  b2:funya...
+  b3:It's time to get up!
+  b4:(You may be a kid!) But you need to get up early!
+  b5:hmmn... mokomoko-san?
+  b6:Whaaat? Already morning?
+  test:squish
+  b7:heavy...
+  b8:ehh?!
+  b9:Wha?!
+  b10:Ohh, you're up!
+  b11:Tomochika, over here, this way!
+  
+ p17:
+  b1:haa?!
+  b2:wha
+  b3:wha
+  b4:What in the world mokomoko-san?!
+  b5:Will you help me out here, Tomochika. I can't move...
+  b6:GYAAAAA
+  b7:Mokomoko-san! Why are you half way through the wall?!
+  b8:Well... after you two fell asleep last night...
+  b9:I thought it would be bad to disturb the youngster hugging on you in his sleep...
+  b10:I wanted to be considerate and disappear, and...
+  b11:I was interested in something, so I thought I would secretly check it out.
+  b11:You're only halfway in the wall though!
+  b12:Anyways, the walls and floors in this tower seem to have special functions.
+  b13:Special...functions?
+  
+ p18:
+  b1:The tower seems to be trying to gather the souls of the dead together in one place.
+  b2:It has quite the suction power where the floors and walls overlap.
+  b3:Have you been there all night?!
+  b4:Well, since it's me, I'm able to resist it...
+  b5:But it's so powerful, any ordinary spirit would get instantly sucked away.
+  b6:But, you can't get out, right?
+  b7:It was a short frienship, my ancestor, but you'll leave an unforgettable impact...
+  text:Rest in peace.
+  b8:Don't give up on me so easily?!
+  b9:But, can we even do anything?
+  b10:You're the one who said it absorbs souls...
+  b11:hmmm...
+  b12:Wake up, youngster!
+  b13:Hey! Please help me out!
+  b14:So that's what's up...
+  b15:It'll probably work out if I kill the suction thing or something.
+  
+ p19:
+  b1:But there's probably some reason behind it, would it really be alright if I...
+  b2:AAHHH! It's sucking! It's sucking!!
+  b3:Well, I guess I'll give Mokomoko-san priority over the tower.
+  b4:Wait a sec while I narrow down the target...
+  b5:She flew out!!
+  b6:Looks like it worked.
+  
+ p20:
+  b1:ohhhh... I thought I was going to die!!
+  b2:Didn't you die a long time ago?!
+  b3:But... It's becoming more and more awkward.
+  b4:What do you mean?
+  b5:Because first I killed that devil guy and now I've broken some of the tower's functions.
+  b6:I think we should leave quickly before they start complaining.
+  b7:Well... I agree...
+  b8:Is it fine if we discuss what happens next?
+  b9:Like what?
+  b10:As in, our overall objective.
+  b11:"Returning to our original world."
+  
+ p21:
+  b1:Worst case, just the two of us.
+  b2:And for that, the immediate goal is "Learning how to return to our original world".
+  b3:That was the reason we were aiming for the royal capital.
+  b4:We were guessing that Zion, the one who summoned us, knows something...
+  b5:But, there is no guarentee that she'll talk to use even if we get to meet her.
+  b6:And so, that's why we are stopping here to see if the Sword Saint knows anything as well...
+  b7:The robot said we need coordinates and energy to be able to get back.
+  b8:Energy, huh...
+  b9:I noticed something like that when getting sucked into the wall.
+  
+ p22:
+  b1:This tower might hint at getting that energy.
+  b2:The collection of dead souls...is probably supplying power to the barrier.
+  b3:You would need an immense amount of power to slow down time to that degree.
+  b4:But... I don't want to kill people and collect them...
+  b5:Yeah, me neither...
+  b6:We don't know if we will get any useful information unless we join in the killing.
+  b7:Either way, our current goal is to quickly get to the bottom of this tower and head for the capital.
+  b8:Okay.
+  b9:Also, I want you to be prepared.
+  b10:From now on, I won't hesitate to kill anyone who seems like an enemy...no questions asked.
+  
+ p23:
+  b1:Isn't that like normal?
+  b2:I always try not to kill whenever possible.
+  b3:But, hesitation will get you killed when it comes to the people in this trial.
+  b4:You're saying that now?
+  b5:At this point, I'm used to it.
+  b6:If Takatou-kun uses his power.
+  b7:It's just as if I'm the one doing it.
+  b8:That's how I've thought about it since the beginning.
+  
+ p24:
+  b1:...eh?
+  b2:You're the one saving me. I'm not a woman so thoughtless to complain about how she's being saved!
+  b3:I mean...
+  b4:Don't look down on the daughter of a warrior family!
+  b5:Well, we should still continue in moderation though.
+  
+ p25:
+  b1:...That reminds me, I'm hungry!
+  b2:I fell asleep without eating anything yesterday.
+  sfx:turn
+  b3:Oh yeah, let's enjoy the room service!
+  b4:Then, let's change clothes and leave.
+  b5:Okay
+  b6:The tower trial
+  b7:Day 2 begins...
+  
+  note1:thanks for reading ch19, ch 20's raw should release 2/27
+  note2:end of manga chapter 19 = middle of WN vol 2 ch11
+  note3:Mokomoko can mean lumpy or fluffy in japanese.
+  note4:I used brackets instead of quotes/bold this time, tell me what you think
+  note5:the note on page 1 says that this is a work of fiction, with fictional references, etc...
+  
+  WN: https://sadhoovysinhumantranslations.wordpress.com/novels/instant-death/
+  Source: http://comic-earthstar.jp/detail/sokushicheat/

@@ -1,0 +1,286 @@
+p1:
+ b1:Don't move.
+ b2:make a move and another one dies.
+ b3:H- Higashida?!
+ b4:Higashida-dono? What might be the matter?
+ b5:Hey! Higashida! hey...
+ b6:Die.
+ b7:Ehh, ah?!
+ b8:what...
+ b9: Didn't I tell you not to move? Move and you die.
+
+p2:
+ b1:Alright, I'll explain my power now.
+ b2:Wait, what!?
+ b3:I saw that you didn't want to talk about it so I avoided asking you about it!
+ b4:Isn't it some secret!?
+ b5:Not really a secret,
+ b6:explaining it just seemed like a bother earlier.
+ b7:Seemed like a bother he says, oi!
+ b8:Hanakawa doesn't look very bright, if I don't explain it properly he'll come asking for a fight again, don't you think?
+
+p3:
+ b1:Okay, okay. Fine then,
+ b2:let's hear about your power.
+ b3:well then. hanakawa-kun, was it?
+ b4:can you go and check whether they're actually dead?
+ b5:ehh?!
+ b6:Don't worry, you can move.
+ b7: H- Higashida-dono...
+ b8: Fukuhara-dono...?
+ b9: Heal!
+
+p4:
+ b1:HEAL!
+ b2:HEAL!
+ b3:HEAL!
+ b4:Fuhaha! I'm a healer, alright?!
+ b5:No matter what kind of injury or illness, everything's healed in a single moment!
+ b6:Such is the cheat tier restoration magic that allowed me to survive in this world despite being clubbed, ripped, tattered,...
+ b7:but they aren't moving, what!? Higashida-dono! Fukuhara-dono!
+
+p5:
+ b1:u- uhm,
+ b2:healing magic isn't working...
+ b3:Do you get it?
+ b4:Y-you monster!
+ b5:Randomly killing people, that's not normal!
+ b6:That fireball.
+ b7:Although, missing on purpose, it was still dangerous.
+ b8:And you don't have a right to complain about being paid back after firing a lethal attack like that.
+ b9:Even so, Higashida-dono was the one who did it!
+ b10:Fukuhara-dono and I didn't do anything!
+ b11:Especially me!
+ b12:You're saying that despite realizing...
+ b12:that it's not going to work, right?
+
+p6:
+ b1:My power is basically 'instantly kill any target.'
+ b2:Just by thinking about wanting to kill someone, they die.
+ b3:Are you making fun of parallel universes!?
+ b4:How does that even work without a status!
+ b5:Not like I know what this status would look like in the first place.
+ txt:Actually, I'm the one wondering whether you really have something like that.
+ b6:is it really a good idea to tell him about your power?
+ b7:doesn't it become disadvantageous.
+ b8:its to intimidate him.
+
+p7: 
+ b1:need to make the other party understand the circumstances or they won't cooperate, but they won't understand unless I explain it.
+ b2:Even if I demonstrated it, comprehending what happened would be difficult for them.
+ b3:An easy example
+ b4:s- surely
+ b5:a difficult example
+ b6:Do you understand now, Hanakawa-kun?
+ b7:It'll be annoying if you do not.
+ b8:I completely understand!
+ b9:Please stop looking at me with those 'yare yare' kind of cool protagonists' eyes like you're seriously about to kill me!
+ b10:well then, I have something I want to ask.
+ b11:Let's talk over here...
+
+p8:
+ b1:Stop.
+ b2:Just now. Did you try something?
+ b3:He...
+ b4:(nervous) Wha-whattatat, what mighteth thee be talking about?
+ b5:There's something I forgot to mention.
+ b6:My power...
+ b7:It allows me to recognize killing intent towards me.
+ b8:So if I combine the abilities...
+ b9:I can make it so people die the instant they give off a murderous aura.
+ b10: Are you kidding me, your abilities are overpowered!
+
+p9:
+ b1:Speaking of abilities,
+ b2:You guys seemed quite used to these 'gifts.'
+ b3:uh... uh...
+ b4:Well actually, the other two and me, this is not our first coming to this world.
+ b5:It's our New Game+...
+ b6:The story goes a while back.
+ b7:We were summoned by the head magician of the Iman Kingdom in order to defeat the Devil
+
+p10:
+ b1:So basically,
+ b2:you defeated the demon lord and got sent home.
+ b3:Sound about right?
+ b4:Would you mind not just summing up my adventure in another world like that!
+ b5:In one sentence...
+ b6:Is this world peaceful since you defeated this demon?
+ b7:There are multiple demon kings.
+ b8:The one we defeated was only the one threatening the Kingdom of Iman.
+ b9:Did you really disappear from our original world for a year?
+ b10:Well... After returning, we realized that only a few hours had pass back home.
+ b11:The flow of time between the worlds seems different.
+
+p11:
+ b1:Additionally, we lost our abilities in the original world...
+ b2:And after being summoned back to this world you also regained your previous powers, huh.
+ b3:Good news...
+ b4:maybe.
+ b5:Right now the highest priority is adapting to the new world and surviving, but...
+ b6:In the end, I want to return to our original world.
+ b7:In the worse case, just Dannoura-san is fine.
+
+p12:
+ b1:Both Higashida-dono and Fukuhara-dono knew how to use their powers.
+ b2:So when we got here, we decided to level up sepreately from everyone in class...
+ b3:Does that mean that three different people in my class had different world experiences?
+ txt:I didn't even know!!
+ b4:There may be others as well...
+ b5:Is that all you know?
+ b6:Wait! Please wait!
+ b7: Don't kill me! I...
+ b8:I will be your slave! Please!
+ TLN: The collar appears out of thin air.
+
+p13:
+ b1:Where did you just get that?
+ b2:I don't feel any killing intent...
+ b3:eh? From my item box...
+ b4:ah! This is a rare skill!
+ b5:It would be to your advantage if we became friends!
+ b6:I can carry unlimited items and use recovery magic...
+ b7:Thanks to this, I was a huge success as a luggage holder of the brave! 
+ b8:So, please don't kill me!
+ b9:yeah...
+ b10:I don't want to end up killing everyone.
+ b11:However, one should not leave his opponent be after being attacked...
+
+p14:
+ b1:I will do anything!
+ b2:Look, here's proof!
+ b3:It works by...
+ b4:putting it on like this.
+ b5:What is that?
+ b6:This magic item is a slave collar!
+ b7:An ultra rare item that when equipped, won't allow the wearer to go against orders!
+ b8:Look!
+ b9:My Mistress! Please, give me your order!
+ b10:What?! Why are you looking at me!!
+ b11:Eww! Stop! Don't come any closer!
+
+p15:
+ b1:uuu...
+ b2:Hm, I see. 
+ b3:But you might be acting...
+ b4:It's kind of gross... Actually it's super gross.
+ b5:Is there a way to stop being master?
+ b6:I dont...
+ b7:I don't want to say, but I can't go against it.
+ b8:It is impossible to cancel the slave status, but...
+ b9:it is possible to transfer ownership.
+ b10:Oh, okay. Transfer it to Takatou-kun.
+ b11:So fast!!
+
+p16:
+ b1:Uhhm... Hanakawa-kun, you guys are strong and familiar with this world, right?
+ b2:Didn't you think about killing the dragon?
+ b3:That's...
+ b4:because we were scared...
+ b5:Of the dragon?
+ b6:No, the average level of this region's dragons is 1000 and I have the human race limit of 99, but...
+ b7:Higashida-dono had a limit breaking skill. He was level 1000 and the dragon wouldn't have been able to beat him.
+ b8:However, I have my status reading skill and...
+
+p17:
+ b1:That sage was crazy bad news!
+ b2:Her level was over one hundred million, and it kept going up by the second!
+b3:No way we could fight with a monster like that!
+ txt:If the sage's intention was having us clear the first mission...
+
+p18:
+ txt:We had no choice but to obediently follow her plan!
+ b1:Excuse me.
+ b2:Oh. Youichi?-kun?
+ b3:What's wrong?
+
+p19:
+ b1:I have come with the report you have requested, Sage-sama.
+ b2:Youichi-kun, you can speak casually when it's just us two.
+ b3:Sure. It's just, eventually I'll screw up if I don't constantly talk like that.
+ b4:You expect the rest to stay disciplined if they see me talking like this?
+ b5:First off, the invaders..
+
+p20:
+ b1:Kurayami was repelled by Sage Santarou-sama,
+ b2:Sage Lain-sama repelled the Hungering Wolf King
+ b3:Were they not able to kill them?
+ b4:Uhh, it says they escaped.
+ b5:In Hedgehog's case, Sage Yumehisa-sama went out to deal with it, but got killed instead.
+ b6:That's the second one this year.
+ b7:By the way, what happened to the sage candidates?
+ b8:They successfully cleared the first mission. Four casualties.
+ b9:That's fair.
+ b10:Of the ones that died, two were powerless and two were among the S ranked candidates, as well as the dragon.
+
+p21:
+ b1:eh?
+ b2:Both the two S ranks and the dragon died for reasons unknown.
+ b3:It seems to be a type of instant death magic...
+ b4:Let's see. The dragon was level 1000 at most.
+ b5:Is there a reason to be worried?
+ b6:A level 1000 dragon dying to a boy...?
+ b7:It seems that to Sion, who's over level 100 million, a dragon is equal a bug...
+ b8:Anyways, I will keep an eye on this person.
+ b9:He may be a useful replenishment as a sage.
+
+p22:
+ b1:I'll include them as C rank candidates...
+ b2:And continue observation.
+ b3:Hmm... Not sure what to do with this.
+ b4:I uhh... I could show you the way to the city!
+ b5:Nah, I don't plan on bringing you.
+ b6:Tomochika...no! Dannoura-san! If you could help me convince Takatou-dono here...
+ b7:hmmm...
+
+p23:
+ b1:It's thanks to Takatou-kun's that I'm still alive.
+ b2:While I don't enjoy treating others poorly...
+ b3:I don't think I have the right to complain of his method of dealing with you.
+ b4:NOO! Tomochika-taaaan!
+ b5:Well then. I won't kill you.
+ b6:You see the forest over there, what's in it?
+ b7:It's a forest full of dangerous magical beasts.
+ b8:As long as one doesn't step foot in it there is nothing to worry about.
+ b9:Go there and await further orders.
+ b10:Wait! I said it was dangerous...!
+ b11:AAAA! My feet are moving on their own!
+
+p24:
+ b1:Oh right.
+ b2:What now?!
+ b3:I forgot earlier, Don't tell anyone a single word about us.
+ b4:That's?! Of all things...!
+ b6:Oh, and...
+ b7:Leave all your valuables here.
+ b8:Are you seriously mugging me!?
+ b9:Gold, Silver, and a bunch of unknown things...
+ b10:I don't know any of its value in this world.
+ b11:Is it fine to leave Hanakawa-kun like that?
+
+p25:
+ b1:Taking him along would be a little... you know.
+ b2:Plus, I was suspicious.
+ b3:Well then, how about me? What if I betray you?
+ b4:In that case, its fine.
+ b5:Protecting you was my own decision, I wouldn't have the right to complain.
+ b6:Say, we barely talked before today... 
+ b7:So how come you're going this far to protect me?
+ b8:hmm?
+ b9:That's a good question.
+ b10:Ah! Because your boobs were soft?
+ b11:There is not a single decent man in this world, damn it!
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+

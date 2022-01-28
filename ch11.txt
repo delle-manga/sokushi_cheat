@@ -1,0 +1,247 @@
+p1:
+ b1:Master!!
+ b2:Hey...!!
+ b3:Recovery magic isn't working either...!!
+ b4:No!! Don't die! Master!!
+sfx:WAAAAAAAH
+ b5:H-how can this...
+ b6:The "Dominator" Tuuki Tachibana is dead...
+ b7:The "slave" status that was placed on me has disappeared.
+sfx:shudder
+ b8:I've... been the minion of the man who attacked my village until now...
+
+p2:
+ b1:Stephanie... You're really crying for a man like this.
+ b2:The control of the "Dominator" has already been released, hasn't it?
+sfx:hic, sob, hic
+ b3:Euphemia...
+ b4:You were also from a half-demon city, right.
+ b5:I was bought from the slave market by master.
+ b6:Yet, I've been treated as if I wasn't a slave he bought.
+ b7:That's...
+ b7:I can't even be compared to other slaves...
+ b8:*sigh* I get it.
+ b9:We half-demons have a habit of desecrating on the corpses our enemies...
+ b10:I'll drop it. You can have the corpse.
+ b11:Well then, cya Stephanie...
+ b12:eh?
+ b13:Euphemia?! Where are you going?
+ b14:First, I'll look for my family...
+ b15:Then I'll restore my home which was destroyed by that man.
+ b16:Goodbye.
+
+p3:
+ b1:Volume 2 is on sale!
+ b2:Let’s look like Allies of Justice for just a little more!
+
+p4:
+sfx:step, step, step
+ b1:Even though my village was attacked by that man...
+ b2:I was being dispatched to various places as a slave due to that skill of the "Dominator".
+ b3:I wonder if I'll be able to find them again...
+sfx:crush
+ b4:The mushrooms and mold in this area are all dried up...?
+ b5:Also, wasn't the entrance covered in trees and grass...
+sfx:*empty*, crumble
+ b6:fwshh
+ b7:Where is this light coming from...
+ b8:Something's wrong
+ b9:This bad feeling...
+ b10:Something happened outside...?
+
+p5:
+ b1:There's...
+ b2:nothing here...?
+ b3:The entrance to the ruins... and everything around...
+ b4:are all gone...?
+
+p6: n/a
+
+p7:
+sfx:wind
+ b1:That huge black shadow...
+ b2:He just passed through here...?!
+ b3:This isn't a monster of this world...
+ b4:That's definitely... an aggressor!
+
+p8:
+ b1:...Hmm
+ b2:This aggressor "Kurayami"...
+ b3:...is a really bad match up for me.
+
+p9:
+ b1:Anything it touches instantly dries up and withers away...
+ b2:It's outline is ambiguous and striking it feels as if I'm hitting mist.
+ b3:It's moving, but does it even have a will...?
+ b4:It doesn't react, so it even a living being in the first place? 
+
+p10:n/a
+
+p11:
+ b1:...Same as last time, as expected.
+ b2:I wither away the moment I touch it, but my vampire regeneration speed is faster.
+ b3:However, Kurayami doesn't seem to have received any damage as well.
+ b4:hmmm...
+ b5:If I had a type of magic that uses small instruments like Santarou's, then it may be possible...
+ b6: What should I do now...
+ b7:...hm?
+ b8:Is there something down there...?
+ b9:A half-demon girl? She's still intact after Kurayami passed through here...
+ b10:Interesting
+
+p12:
+ b1:Hanabusa City
+ b2:You're Masaykui?! What are you doing here?!
+ b3:Didn't Lain-sama entrust the city of Hanabusa to me?!
+sfx:slam
+ b4:Don't be mad at me, Ryouta.
+ b5:Aren't we friends who both survived the sage candidacy under Lain?
+ b6:Survived you say? Didn't you /b/die a long time ago!
+ b7:Anyways, hurry up and get the undead out of the city!
+ b8:Hey, calm down. I'm here on Lain's command.
+ b9:In other words, I'm in charge and you have no right to refuse.
+ b10:So, you're gonna cooperate with my /b/Undead Battalion.
+
+p13:
+ b1:L...lain-sama's?
+ b2:What'd you mean by cooperation?
+ b3:You don't have to do anything but give me the "key" of the city.
+ b4:Then we'll have the townspeople help us out.
+ b5:What the hell are you trying to do...?
+ b6:It's nothing big.
+ b7:/b/Simply searching for some people.
+sfx:gyaaaa
+ b8:Why is the city full of zombies...
+ b9:Shouldn't the city be protected by the sages from outside enemies?!
+ b10:I don't know either, but...
+
+p14:
+ b1:They're movement seems slow, so if we're careful, we can probably escape the city.
+ b2:Shouldn't we save the citizens?
+ b3:One or two people are fine but...
+ b4:It's unlikely I could save the whole city in this situation...
+ b5:Really though, it'd be best not to get involved.
+ b6:Zombie Time
+ b7:Has come to an end!!
+
+p15:
+ b1:The zombies stopped...?
+ b2:Hanabusa residents! Can you hear me?
+ b3:I am Masayuki, a servant of Sage Lain, and the commander of the undead battallion.
+ b4:On orders of Sage Lain...
+ b5:I've acquired the key to the city's barriers! No one can leave the city.
+ b6:Incidentally, all the undead are also contained inside the barrier.
+ b7:If you die now, you will join the undead battalion.
+ b8:However! I'm very gracious.
+ b9:Those who do not want to die will assist in seaching for some people withing the city!
+ b10:Two people. A guy named Yogiri Takatou and a girl named Tomochika Dannoura.
+ b11:They're both around seventeen, black haired, dark eyed, and Japanese. They also don't have any gifts.
+
+p16:
+ b1:The grace period is one hour!!
+ b2:Bring those two two the city's central square within an hour!
+ b3:Alive or dead, doesn't matter!
+ b4:After one hour, the zombies will start moving again!!
+ b5:Also, if you don't find and bring me those two...
+ b6:The undead will not stop again!!
+ b7:Until every single person becomes an undead!
+ b8:ahahahahahaha!
+
+p17:
+ b1:Hey Masayuki!
+ b2:What are you saying?! That's not what you told me.
+ b3:oh? It's not that different.
+ b4:I'm looking for someone on Lain's command.
+ b5:You didn't say you would harm the residents!!
+ b6:Are you an idiot, Ryouta?
+ b7:If I just say to find some people, who's gonna really search.
+ b8:Won't people start searching as if their lives depend on it now?
+ b9:Well, it's not like I can find them in this town by myself, right?
+ b10:wha...
+ b11:You!
+ b12:Do you even know if those two are in this city?!
+ b13:Well, aren't I confirming that now?
+ b14:Besides, if they're anywhere, this city is the most likely. Dont worry.
+ b15:MasaYuki...!
+
+p18:
+ b1:That damn masayuki...
+ b2:He really just wants to let his undead battalion go wild.
+ b3:Damn...
+ b4:Do you have any idea how hard it was to develop Hanabusa this far...!
+ b5:There's a Japanese over here!
+ b6:Grab anyone who has black hair!!
+ b7:hiee...
+ b8:This is worse than the zombies.
+ b9:We can't escape without being found, huh.
+ b10:And now, the train's no good either...
+
+p19:
+ b1:Still, why are we being chased?
+ b2:hmm...
+ b3:Well, I did kill one of the sages.
+ b4:It's not going to be as safe from now on...
+ b5:And it's going to be annoying to have to kill innocents.
+ b6:Over there! Some Japanese!
+ b7:Black hair too!
+ b8:Don't let them escape!
+ b9:Waaah
+ b10:We'll kill and bring them with us.
+ b11:Just like I said.
+ b12:If you get closer, I'll kill you.
+
+p20:
+ b1:What are you waiting for?! Hurry up!
+ b2:Fine! I'll do it myself!
+ b3:Die.
+ b4:This is the first time I’ve seen someone carry out their words to such a disgusting degree!
+ b5:It’s funny they think I won’t kill them even though they approach with the intent to kill.
+ b6:Did they think I wouldn't kill them because they're civilians...?
+ b7:That guy, Masayuki, who was speaking a little while ago.
+ b8:I may be able to negotiate with him directly if we head to the square.
+
+p21:
+ b1:Hanabusa Central Square
+ b2:...oh?
+ b3:What do we have here?
+
+p22:
+ b1:Are you masayuki?
+ b2:Are we the ones you're looking for?
+ b3:haha...
+ b4:Among what I’ve seen up to now, is this the most fantasy-looking thing I wonder...
+ b5:Are you Yogiri Takatou and Tomochika Dannoura?
+ b6:Why are you so boooring!!
+ b7:Did you perhaps decide to become the scapegoat for everyone in the city?
+ b8:Was there such a reason?
+text:instant reply
+ b9:No no no, don’t deny it instantly! Let’s look like allies of justice for just a little more!
+
+p23:
+ b1:Well, then why.
+ b2:If I kill you guys, then I have to end this game!
+ b3:WE came to talk.
+ b4:We want to go to the Imperial Capital and be taken there by train.
+ b5:Could you fix the barrier in order to let us use the station?
+ b6:Haa?!
+
+p24:
+ b1:hey, hey, hey!
+ b2:are you an idiot?! are you stupid?!
+ b3:Are you fully aware of things like your current situation and what you are requesting!!
+ b4:I see. there needs to be transaction material if it’s a negotiation...
+sfx:hmm...
+ b5:If it's "I let you live", then how's that sound?
+ b6:What is this talk! Do you want to die?! Haah!?
+ b7:Whatever! Kill them!!
+ b8:Tear those two to shreds!!
+ b9:My "Immortality Corps", the undead army!!
+
+p25:
+ b1:Go ahead and try killing the undead which are already dead!
+ b2:Die.
+ b3t:Hyahahahaha... ha?
+
+note1: First off, thanks for reading chapter 11.
+note2:Chapter 12's raw release date is 5/10.
+note3:the end of manga chapter 11 corresponds to the end of webnovel chapter 34

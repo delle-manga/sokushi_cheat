@@ -1,0 +1,245 @@
+p1:
+ b1:hmm... this guy is strong.
+ b2:He might be the sword saint/
+ b3:mokomoko-san!
+ b4:There's too many.
+ b5:Okay.
+ b6:You all, kill each other until I tell you to stop.
+ b7:The people who survive can take the trial.
+ b8:The sword saint is the same as everyone else!!
+ 
+p2:
+ b1:Can I ask something?
+ b2:If I kill everyone here, does that mean i automatically pass?
+ b3:Uhhh... You should think before you speak.
+ b4:wha...
+ b5:If this was an interview that looks at the personality, there would only be one word to describe you.
+ b6:...This guy is unexpectedly kind?
+ b7:A kind person wouldn't say to kill eachother.
+ b8:Hey! Can I ask something?
+ b9:What now... didn't you hear what i just said?
+ b10:I don't really care if i'm disqualified.
+ b11:We just happened to be passing by, but I don't feel like killing people.
+ b12:Is it fine to leave?
+ 
+p3:
+ b1:wh-what?!
+ b2:With this, we've met the sword saint, right?
+ b3:please guide us to the exit.
+ b4:You're saying you just happened to come to this place?
+ b5:...well, I can't have that.
+ b6:If there is someone who escapes from this plaza, all of you guys are disqualified.
+ b7:How about a time limit too? Let's say 10 minutes.
+ b8:If half of you aren't dead in 10 minutes, then you are all disqualified.
+ b9:...Alright, that sounds good!
+ 
+p4:
+ title:Even if you say you're a celebrity travelling incognito
+ 
+p5:
+ b1:fhnn
+ b2:ah...?!
+ b3:uh oh!
+ b4:you've gotten used to this scene, havn't you...
+ b5:I can't keep saying 'kyaa kyaa' after all that's happened...
+
+p6:
+ b1:oooaahh
+ b2:Gyaaaa
+ b3:This has become a bit troublesome.
+ b4:Escaping would be simple, but...
+ b5:Wait! You two!!
+ b6:You can't escape!
+ b7:Well, if that's how it is...
+ b8:I guess killing is my only option...
+ b9:Please have peace of mind!!
+ 
+p7:
+ b1:I will protect you guys!
+ b2:You fools... You guys misundertood sword saint-sama's intention!
+ b3:This is a trial!
+ b4:To determine if you would act appropriately as a knight of the holy king!
+ 
+p8:
+ b1:Is he an actual decent person...?!
+ b2:no, I won't believe him so easily!
+ b3:I can see that his skill is quite high.
+ b4:Everyone here seems pretty capable, but...
+ b5:This guy stands out from the rest.
+ 
+p9:
+ b1:Haiya!
+ b2:He's handling multiple people at the same time with ease.
+ b3:Moreover, it looks like he's adjusting his moves based on the attacker's experience!
+ b4:But it doesn't seem like he has any intentions to kill them.
+ b5:hm?
+ b6:This killing intent...
+ b7:A long range attack aimed at us?
+ b8:die
+ 
+p10:
+ b1:huh... what in the world just...
+ b2:ah! uhhm
+ b3:that is, uhhhhh...
+ b4:...it must've been sword saint-sama's power!
+ b5:He really did intend to punish the lawless people!
+ b6:I didn't even notice his movement! I'm impressed!
+ b7:Dammit, these people! Their evil has no limit!
+ b8:It's almost time! Rather, the number of people has decreased alot.
+ 
+p11:
+ b1:Hmm, it seems they've turned their aim away from us.
+ b2:It should be safe now.
+ b3:I heard that you just happened to be passing by.
+ b4:It's unfortunate, but this trial is very important.
+ b5:Could I request that you stay for a while longer?
+ b6:In the meantime, I'll do my best to ensure no harm will come your way!
+ b7:huuu...
+ b8:help...
+ b9:...eh?
+ 
+p12:
+ b1:the...stone...
+ b2:get it...
+ b3:the guy from earlier?!
+ b4:...just his upper half it seems.
+ b5:Still has his right arm and head though...
+ b6:This is... truly unfortunate...
+ text:he's surviving rather well...
+ b7:no, ergh... don't give up on me so easily...
+ b8:The girl there! help me!!
+ 
+p13:
+ b1:Over there...the rainbow-colored stone...!!
+ b2:ehh.
+ b3:Put... the stone in my hand!!
+ b4:please hurry...!!
+ b5:You mean this stone?
+ b6:Aaaah! Thank you very much!
+ b7:This is...
+ b8:An 'apology stone'!
+ 
+p14:
+ b1:eh?!
+ b2:ohhh, yes... i was saved!
+ b3:I thought I was done for!
+ b4:Everyone else thought so too!!
+ b5:what happened?
+ 
+p15:
+ b1:This is a 'star crystal'.
+ b2:I got it as an apology item.
+ b3:It’s a convenient thing which can be used for various things like turning a gacha, or healing serious injuries.
+ b4:Who?! What?! What are you apologizing for?!
+ b5:STOP!
+ 
+p16:
+ b1:It's decreased by a good bit.
+ b2:We're changing locations, follow me.
+ b3:In the forest this time...?
+ 
+p17:
+ b1:Takatou-kun... isn't this dangerous?
+ b2:Can't we get guided to the capital now.
+ b3:No, uhm.
+ b4:Keep going if you can!
+ b5:I want you to participate in the trial...!
+ b6:Why though, Atila?
+ 
+p18:
+ b1:All you said we had to do was meet the sword saint.
+ b2:uh...uhm.
+ b3:The recommender of the person who becomes a knight of the holy king can become a servant of the knight of the holy king.
+ b4:So, that's why I'm saying you should aim to become a disciple of the sword saint!
+ b5:hmmm...
+ b6:Well, we haven't gathered any information yet...
+ b7:And we'd just get lost if we left now...
+ b8:This is getting more and more troublesome...
+ b9:The other's have gone ahead!
+ b10:Hurry up!
+ 
+p19:
+ b1:Sorry for the late introduction, My name is Rick.
+ b2:Though you may know me by various names, please just call me 'Rick'.
+ b3:Even if you say you're a celebrity travelling incognito, how would we know?!
+ b4:I'm Dannoura Tomochika. We we're on our way to the capital.
+ b5:I'm Takatou Yogiri.
+ b6:I am called Rainier.
+ b7:I'm not too interested in the trial, but i was forcibly invited by my friend...
+ 
+p20:
+ b1:Where is your friend?
+ b2:She probably thought I died and went on ahead...
+ b3:well...
+ b4:I'm just glad she didn't take the star crystals.
+ b5:The crystals can't be used by anyone but me though.
+ b6:You could say that they are tied to my existence.
+ b7:I was originally Japanese.
+ b8:I've always been disastrously unlucky. It was a miracle I survived until highschool.
+ b9:In the end, I got kidnapped by a cult and was killed as a sacrifice for a ritual...
+ b10:When I thought I had died, a woman calling herself 'God' appeared.
+ b11:So, it came to be that I received apology stones.
+ b12:That story skipped way too much!
+ 
+p21:
+ b1:I was reincarnated, but my bad luck didn't change.
+ b2:So, I got these star crystals (apology stones) as compensation.
+ b3:At first, I was aiming for a strong item with the Gacha, but my luck in gacha is also terrible...
+ b4:So now, I save up 10 crystals to at least guarentee a rare item.
+ b5:Uh...good luck...?
+ b6:Don't gods do things like control peoples' destinies though?
+ b7:According to humans.
+ b8:Some people are guarded by spirts like me.
+ b9:But there are also those whose fates are decided by a god.
+ b10:What is a sword saint or knight of the holy king?
+ b11:well
+ b12:I guess I can give a brief explanation...
+ 
+p22:
+ b1:First, the various threats this world is exposed to can be broadly divided into two types.
+ b2:One is the aggressors.
+ b3:They are said to come from outside this world.
+ b4:They are handled by the sages.
+ b5:You know about the sages, right?
+ b6:The other threat was sealed by the gods...
+ b7:The so-called 'Devil'.
+ 
+p23:
+ b1:The devil is also said to have come from outside this world, but...
+ b2:the story is over 1000 years old.
+ b3:Even now, it is recognized as a threat to this world.
+ b4:The holy king is the one who deals with that devil.
+ b5:The devil was completely sealed at the hands of the holy king 1000 years ago.
+ b6:eh? It's still a threat even though it's been sealed?
+ 
+p24:
+ b1:There are still the devil's powerful children and followers...
+ b2:They go crazy all over the place trying to revive the devil.
+ b3:They are dealt with by the knights of the holy king.
+ b4:It is the sword saint who leads the knights of the holy king.
+ b5:hm?
+ b6:Aren't they lead by the 'holy king'?
+ b7:It seems that the holy king even now continues to suppress the devil in a barrier.
+ b8:eh?!
+ b9:...For a thousand years?!
+ b10:That's what i've heard.
+ 
+p25:
+ b1:...huh?
+ b2:those people are...
+ b3:They disappeared?!
+ b4:There is an invisible barrier.
+ b5:Things on the inside can't be seen from the outside.
+ b6:You can enter without worry.
+ 
+p26:
+ b1:uwaaa...!
+ b2:What the heck is that...?!
+ 
+note1:I changed the dragon loli's name from 'Atira' to 'Atila' to match the webnovel translation.
+note2:I'm unsure whether the knight(s) of the holy king is a group or single person, so it might alternate between plural and singular in my TLs. same with the god(s) of this world.
+note3:Chapter 17's raw is 11/7
+note4:end of chapter 16 corresponds to beginning of volume2chapter5 
+note5:thanks to my friend vee with help on some of the translations
+
+src1:https://sadhoovysinhumantranslations.wordpress.com/novels/instant-death/instant-death-v2-chapter-5/

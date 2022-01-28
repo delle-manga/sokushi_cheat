@@ -1,0 +1,281 @@
+p1:
+ b1:Wa...
+ b2:Wait a minute please!!
+ b3:eh?
+ b4:Is it possible... that this...
+ b5:Was this your doing?
+ b6:Yeah.
+ b7:It was me.
+ 
+p2:
+ b1:I'm sorry if this is an inconvenient request, but...
+ b2:Can you please help me!
+ b3:ehh
+ b4:What should I do?
+ b5:eh?! don't push it on me.
+ b6:Well, you could at least listen to what she has to say...
+ 
+p3:
+ b1:Silence in the Tower (The Tower's Silence)
+ 
+p4:
+ b1:My name is Theodisia.
+ b2:I'm Takatou Togiri.
+ b3:I'm Dannoura Tomochika.
+ b4:What do you need help with?
+ b5:I'm guessing it's not about the trial...
+ text:You've gotten this far alone after all...
+ b6:You're correct.
+ b7:I'm looking for my missing younger sister.
+ b8:Somewhere in this tower... I came here because I felt like she might be imprisioned underground, but...
+ b9:Now that my disguise has been see through, I don't think I'll be able to save her myself without getting captured.
+ b10:Wai... Wait a minute?!
+ 
+p5:
+ b1:We are Japanese and not familiar with this world...
+ b2:Why are you guys being imprisoned?
+ b3:Yeah, it would be helpful it you explained even the common sense stuff.
+ b4:Ah... my apoligies.
+ b5:Do you about how people use the derogatory term "half-devil" in reference to people like me?
+ sfx: shaking head (nope)
+ b6:Having silver hair and brown skin.
+ b7:As well as having immense magic power.
+ b8:However, most of the clans don't have the talent to use magic. And I'm one of them...
+ b9:I guess just having magic power doesn't mean you can use it.
+ b10:Didn't something fly out of Theodisia-san's sword in the fight though?
+ b11:Wasn't that magic?
+ b12:That was just swordsmanship?
+ b13:In what universe?!
+ 
+p6:
+ b1:Having magic may be useless to us, but it's still a rare treasure.
+ b2:To those who scheme to use magic power for something, we are easy sources of that power. 
+ b3:Easy to use...?
+ b4:If my people are trapped in this tower...
+ b5:I fear that it's likely they are being used as livestock for their magic...
+ b6:How awful...!
+ b7:We just met with Iglacia...
+ b8:He was saying something about how the tower's existance is to maintain the barrier.
+ b9:If it's true, then your story is quite possible.
+ b10:In other worlds, you want us to help save your people?
+ b11:That's right.
+ b12:Now that I'm in my half-demon form, I won't be able to move freely inside the tower.
+ b13:If I make a wrong move, then I'll be caught and end up like my compatriots.
+ 
+p7:
+ b1:But if it's with the help of you two...
+ b2:I know it's a selfish request, but...
+ b3:Can't you just disguise yourself again?
+ b4:That was magic I asked a friend to cast on me.
+ b5:I'm only able to dispel it with my power...
+ b6:Either way, I don't think the Sword Saint will find you since the tower can't monitor inside anymore.
+ b7:ah... it's because we've been progressing and destroying parts of the tower on the way.
+ b8:We just have to watch out for the sword saint and the magic dolls...
+ b9:However, if we find the half-demons and you ask me to catch one of them, I'm going to complain.
+ sfx:yup yup
+ b10:That's...
+ b11:Does that mean you are willing to help me?
+ b12:Even though it means you'll be disqualified from the trial and probably considered hostile to the sword saint...
+ 
+p8:
+ b1:We just got caught up in all this on our way to the royal capital.
+ b2:It's fine since we weren't trying to become Knights of the Holy King anyways.
+ b3:Are you fine with this, Dannoura-san?
+ b4:Yeah, she doesn't seem like a bad person.
+ b5:...But
+ b6:I was thinking that these types of things would be annoying to you, Takatou-kun.
+ b7:Why's that.
+ b8:If you're asked to help, isn't it normal to help.
+ b9:Ah! Certainly!
+ b10:After all, I haven't seen you refuse a request from anyone!
+ text:Please!
+ b11:I mean, there's usually no time for discussion because we just get suddenly attacked.
+ b12:...In the first place
+ b13:You were the first one to help me since coming to this world.
+ b14:...hm?
+ 
+p9:
+ b1:...No way!
+ b2:Boobs! It's because the boobs!
+ b3:Breasts?
+ b4:If you look close, her's are quite good!!
+ b5:...Ah! These?
+ b6:It's pretty cheap if all I have to do to get your help is pay with my body.
+ b7:Do as you like.
+ b8:Can you stop with that standard plot development?!
+ b9:We're not looking for you body or anything!!
+ b10:Yeah
+ b11:I have my preferences.
+ 
+p10:
+ b1:Regardless, I can't just take Theodisia's word for it.
+ b2:I'll think about what to do depending on the the situation, is that alright?
+ b3:Of course. I'm in no position to make demands since I'm the one requesting help.
+ b4:No matter you're judgment, I won't complain.
+ b5:Well, first off. You're friends are in the basement, right? Let's head there.
+ b6:Then eventually exit this tower.
+ b7:Yeah...
+ b8:I just hope the Sword Saint is open to discussion...
+ b9:I'm sure Theodisia-san would want to help her friends regardless what happens to the sword saint, but...
+ b10:With Takatou-kun's ability...
+ b11:Defending yourself means the death of the attacking opponent.
+ 
+p11:
+ b1:The moment the opponent has the intention to attack...
+ b2:Takatou-kun's ability will kill them.
+ b3:No matter how important their existence is to this world, it can't be stopped...
+ b4:Ahh... hey!
+ b5:If you keep screwing around, we won't make it in time!!
+ b6:huh...
+ b7:That's... Rick-san! Rainier-san?! And that girl...
+ b8:Dannoura-san! It's good to see that you're safe.
+ 
+p12:
+ b1:I came across Fredrica-san and Rainier-san collecting points...
+ b2:I finished collecting mine a long time ago!
+ b3:Rainier didn't collect any at all, so I was helping him!
+ b4:Rainier-san, I'm glad you're okay...
+ b5:I did the most expensive gacha and managed to get a rare armour with good defense.
+ b6:I barely avoided getting fatally stabbed multiple times thanks to Fredrica-san's abilities...
+ b7:And thanks to her, I managed achieve 100 points.
+ text:There were so many times I thought I was going to die...
+ b8:The time limit for the trial is almost over, so let's get going.
+ b9:Come to think of it, it is that time already.
+ b10:Down this way is the first floor of the tower... which should be the goal.
+ 
+p13:
+ b1:Ah! This room...
+ b2:It's the hall from when we entered.
+ b3:We're back at the entrance.
+ b4:It's time.
+ b5:...Now then, it looks like seventeen people passed.
+ 
+p14:
+ b1:Now that you're all knights of the holy king...
+ b2:Sword Saint-sama!!
+ b3:It's an emergency!
+ b4:The tower has gone silent!
+ b5:We don't know what's going on.
+ b6:Is that all?
+ b7:According to visual confirmation, there is also something wrong with the barriers.
+ b8:We're having difficulty maintaining the first barrier.
+ b9:And fluctuations have begun to occur on the edge of the second barrier.
+ b10:The predicted time that the followers break through the barrier is changing...
+ 
+p15:
+ b1:Wh... What?!
+ b2:This shaking...!!
+
+p16:
+ b1:...huh?
+ 
+p17:
+ b1:...What
+ b2:Is this...
+ b3:Where did the rest of the tower go...?
+ 
+p18:
+ b1:hmm
+ b2:I thought that if I destroyed the tower, the barrier would disappear, but...
+ 
+p19:
+ b1:I guess it isn't that simple.
+ 
+p20:
+ b1:uh... ah...
+ b2:...What an overwhelming miasma...
+ b3:Even his followers have this kind of power...!
+ b4:...I was told you wouldn't break through for another three days.
+ b5:Well, its fine. You guys...
+ b6:As Knights of the Holy King, this is your first job.
+ b7:Defeat that thing which came out of the barrier.
+ b8:eh...
+ b9:We're supposed to face that thing all of a sudden...?!
+ 
+p21:
+ b1:If we don't defeat it, then humanity is finished.
+ 
+p22:
+ b1:Okay.
+ b2:Let's find a way into the basement while we can.
+ b3:eh?!
+ b4:I agree.
+ b5:ehhh?!
+ b6:Wait?! Is it fine to leave that thing?!
+ b7:It's giving of the last boss aura!!
+ b8:I don't think it's any of our business though...
+ b9:If we defeat it, we might catch the interest of the sword saint.
+ b10:It's best not to get involved in such things!
+ 
+p23:
+ b1:I'm sorry, but I'm going underground alone if I have to!
+ b2:Theodisia-san!
+ b3:We should go too, Dannoura-san.
+ b4:ehh
+ b5:what?!
+ b6:Perhaps we should also flee...?!
+ b7:Hmph! It's useless to be a coward!
+ b9:Concentrate Rainier-san! Prepare your stones!
+ b10:...Your oppenent is a monster who can instantly erase a hundred-story tower.
+ b11:Even if you ran away..
+ b12:Hiiee...
+ b13:It's an opponent you can't escape!
+ 
+p24:
+ b1:...How can I remove the barrier?
+ b2:If you tell me, I'll spare your life.
+ 
+p25:
+ b1:One of my status prevention rings...
+ text:4 more though!
+ b2:It seems to have tried to use mind control magic.
+ b3:No matter how many stones I have, I won't be able to keep up...!
+ b4:Well aren't you a very kind person.
+ b5:You only destroyed the entire tower afterall.
+ b6:I decided to destroy the tower because I thought it would break the barrier.
+ b7:Since that didn't work though, I'm now exploring other methods.
+ 
+p26:
+ b1:Let's not be impatient though.
+ b2:I'll kill you one by one until someone feels like giving me the answer.
+ b3:Don't fuck with me!
+ b4:hmm
+ 
+p27:
+ b1:Splitting yourself...
+ b2:Will only mean that the number of corpses increases to six.
+ b3:The split bodies weren't an afterimage but actual bodies?!
+ b4:Rainier, you're weak, so get down!
+ b5:I don't know if my magic will hit just him.
+ b6:Fredrica-san, you're gonna use your magic?!
+ 
+p28:
+ b1:If he's outside the barrier, then there's nothing to protect him!
+ b2:Eat this! Full Power!!
+ b3:Hyper-Compressed Extreme Light Burst!!
+ 
+p29:
+ b1:...ha?!
+ 
+p30:
+ b1:That was pretty powerful for a human, I think...?
+ b2:Sword Saint-sama! Another unique individual has already broken out!
+ b3:Two monsters at the same time...? This is bad.
+ b4:Such a case has never happened before...
+ b5:Don't call me something like unique individual.
+ b6:My name is Lute and the one with wings is Orugein.
+ b7:Well, while it may be a short relationship, it's nice to meet you.
+ 
+
+note0:manga chapter 24 should be 10/1
+note1:end of manga23 = middle of WNv2ch17 (though the manga skips the beginning of WNv2ch17)
+-note2:I went with the names chosen in the WN translation for the unique individuals (Ryu-tTo)Lute and (O-Ru-Ge-I-N)Orugein 
+-note3:when translating some parts, such as the last bubble on page 5 where tomochika says "in what world?" and the raw says 
+"dokoga?!" which directly TLs to something like "Where?!", i often try to consider the context of the story as well as what
+its saying, but in cases like this its weird. her saying "in what world" doesnt really make sense if taken too literal
+because they are in another world, but if just used as an idiom then its fine. Let me know if you noticed or you just read
+it as is.
+note4:Also, i felt i did the grammar bad in this chapter. did anyone also feel that way?
+note5:the title should be "the tower's silence" in reference to pg14's "the tower has gone silent", but i thought 
+"silence in the tower" just sounded and fit the chapter better :/
+-note6:winged person, used thing instead of guy

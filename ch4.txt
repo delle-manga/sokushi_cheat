@@ -1,0 +1,276 @@
+p1:
+ b1:Half Die.
+ b2:Gu...?!
+ b3:GUUAAAAAAA?!
+
+p2:
+ b1:I guess...
+ b2:the 'lower body' might have been too much.
+ b3:Well then, 'Right Ankle'.
+ b4:Ah, failure.
+ b5:How about, 'Left Arm'.
+ b6:Gyaaaa?!
+ b7:Ugoooo?!
+ b8:T- Takatou-kun?! This is...
+ b9:Well...
+ b10:I was thinking I might be able to go easy on them.
+ b11:It's my first time trying to kill individual parts.
+ b12:Doesn't seem to be working fully despite using extra energy.
+ b13:Eyes.
+
+p3:
+ b1:Guoooo!!
+ b2:GYAAAAA!!
+ b3:Nose.
+ b4:Ears.
+ b5:Wh- What!?
+ b6:What in the world are you!
+ b7:well,
+ b8:Explaining it would be bothersome.
+
+p4:
+ b1:No way! You're supposed to be powerless!
+ b2:He...
+ b3:Help me!
+ b4:I- I was forced to work for this Japanese!
+ b5:Mireille!
+ b6:My mother is ill and I had to make money somehow!
+ b7:Really?
+ b8:Y- yes!
+ b9:My father abandoned my sick mother... and I have hungry, little brothers at home!
+ b10:So, please...!
+ b11:And you thought,
+ b12:That'd justify mugging people and selling them off?
+
+p5:
+ b1:Partially killing isn't really efficient.
+ b2:I don't like to purposely torment people...
+ b3:No real use for them...
+ b4:Please! Please spare me!
+ b5:This is the only way to survive in this world!
+ b6:W-we're both Japanese, aren't we?!
+ b7:Don't lump me together with you.
+ b8:Die.
+
+p6:
+ b1:Huh?!
+ b2:A misfire...?!
+ b3:Quick, now!
+ b4:Mireille!
+ b5:Fuck, Wait for me!
+ b6:Takatou-kun?!
+ b7:Is it fine to let them escape?!
+
+p7:
+ b1:I'm not letting them get away, though?
+ b2:...eh?
+ b3:Hey! I'm not letting them get away, though?
+ b4:Hey! Mireille!
+ b5:I can't climb up there!
+ b6:Not far enough...
+ b7:from that monster...!
+
+p8:
+ b1:This should be far enough...
+ b2:As expected, he can't chase me up here...
+ b3:What... On earth...
+ b4:Is he...?!
+ b5:As I explained earlier, my power is irreversible.
+ b6:The target always dies.
+ b7:s- sure.
+
+p9:
+ b1:huh?
+ b2:I'm...losing...energy...
+ b3:But, how long it takes the target to die has some leeway.
+ b4:It can't really be called going easy on someone though...
+ b5:Which means...
+ b6:yeah,
+ b7:no way...?
+ b8:My breathing...
+ b9:and heart...
+ b10:have stopped...
+ b11:They should be dying somewhere right about now.
+ b12:a...
+ txt:Approaching them was a mistake......
+
+p10:
+ b1:Halt! We are guards!
+ b2:I have some questions regarding this situation.
+ b3:What happened to all the fallen ones in this alley?
+ b4:Oh, well...
+ b5:we got lost in the alley and found it like this...
+
+p11:
+ b1:That's a lie!
+ b2:I watched as the thieves surrounding you suddenly fell down!
+ b3:If you guards were watching, why didn't you help?!
+ b4:We are currently investigating this criminal syndicate...
+ b5:in order to find the connected nobles.
+ b6:In other words, you were going to let them kidnap us and follow them?
+ b7:That's right!
+ b8:Bastard. This world really does lack decent people...
+ b9:Disclosing investigation results...more so an idiot than bad person.
+
+p12:
+ b1:Don't get any strange ideas, Japanese.
+ b2:We guards are blessed by the saints so that your "gifts" from the sages don't affect us.
+ b3:Is that so.
+ b4:Captain Edelgard,
+ b5:According to my analyze skill, these two don't possess any gifts.
+ b6:What?!
+ b7:In that case...
+ b8:It's hard to imagine these two are responsible.
+ b9:Wait!
+ b10:Then why did you lie! Suspicious!
+ b11:I apologize but...
+ b12:we don't know what happened.
+ b13:Suddenly, the thieves began falling down all around us.
+ b14:I know it's hard to believe me...
+ b15:hmm...
+
+p13:
+ b1:Damn! Fine!
+ b2:I'll investigate the bodies George.
+ b3:Haa...
+ b4:I'm sorry for my captain's rudeness...
+ b5:No problem, now that the misunderstanding has been cleared up.
+ b6:However, we still need you to fill out a report.
+ b7:Could you come along to headquarters?
+ b8:sure...
+ b9:Hey! George!
+ b10:One's still alive! A dogman!
+ b11:Ah, the guy from earlier.
+ b12:I killed just the eyes, nose, and ears.
+ b13:I might as well leave the only one I was able to successfuly go easy on.
+
+p14:
+ b1:Amazing! It's like a castle!
+ b2:So this is what luxury hotels are like!
+ b3:The guard earlier said we'd be safest at this hotel.
+ b4:Well then, we'll meet in the lobby tomorrow morning.
+ b5:Yeah.
+ b6:I'm in the next room so call me if something happens.
+
+p15:
+ b1:Waaaa!
+ b2:It's huge! All this for one person?!
+ b3:The inside of the hotel really is Japanese friendly.
+ b4:The school trip ended up like this, but...
+ b5:If not for Takatou-kun, who knows what would've happened to me...
+ b6:I wonder if he's actually interested in me...
+ b7:Or just my boobs...
+
+p16:
+ b1:Who?!
+
+p17:
+ b1:A familiar looking almost spherical silhouette...
+ b2:What! Onee-chan?!
+ b3:How did you get to another world?! 
+ b4:Would you please not compare me to such a person!
+ b5:You may call me Mokomoko Dannoura!
+ b6[]:Wife of the son of the founder of the Dannoura-Style, called the rejuvenator of the Dannoura dynasty and the guardian deity of House Dannoura; your ancestor, your ever-watchful spirit and your guardian angel!
+ b7:Don't cram everything into one sentence!
+ b9:I am your ancestral guardian!
+
+p18:
+ b1:Guardian spirit? Are you really not my older sister?
+ b2:We have the same bloodline so we may look alike.
+ b3:I have emerged since you are in a serious emergency.
+ b4:I have some questions.
+ b5:Ask anything!
+ b6:Where have you been?!
+ b7:Haven't there been several situations you could have helped out?!
+ b8:I was waiting for you to be alone!
+ b9:That youngster with you is really scary!
+ b10:If I showed up out of nowhere, I might have been erased on the spot!
+ b11:Eh... You mean Takatou-kun?
+
+p19:
+ b1:As a high ranking divine spirit,
+ b2:I can instinctively tell when things are trouble.
+ b3:Do you mean that Takatou-kun's ability would even affect you...
+ b4:Alright, I'll tell Takatou-kun about you and you should be fine.
+ b5:I'm counting on you.
+ b6:So next, what was that about coming to my help?
+ b7:I can't assist you in a physical manner as I'm a purely spiritual entity.
+ b8:So, my helping will be mostly limited to spiritual protection.
+ b9:In fact, I'm the one who blocked that gift and system stuff from installing...
+ b10:Whaa?!
+
+p20:
+ b1:That was you!
+ b2:What are you doing messing with things?!
+ b3:Oh? Did you actually want something that obscure?
+ b4:uuu...
+ b5:It's designed for battle.
+ b6:Just by having it installed makes one more militant and decreases their fear of death.
+ b7:On the other hand, it numbs one's aversion to manslaughter.
+ b8:You're basically turned into a battle junkie.
+ b9:Battle is inevitable to survive in this world, and as such...
+ b10:It would be advantageous to be able to fight without remorse.
+ b11:Advantageous?
+ b12:Also, What are classes and skills?
+
+p21:
+ b1:This is my guess.
+ b2:The sage who gave the abilities knew what they would be.
+ b3:Your abiltiy would have only been negative...
+ b4: so I would not trust these abilities.
+
+p22:
+ b1:They are the kind of things that gnaw away at the soul.
+ b2:Once accepting this, the sages take control over life and death.
+
+p23:
+ b1:It worked like that...
+ b2:Does that mean the others who failed installation also had a guardian?
+ b3:No clue about the rest.
+ b4:I'm the only guardian spirit that came along to this world.
+ b5:S- sure.
+ b6:Anyways! It is my wish to return the successor of the Dannoura-Style Archery to the original world safely!
+b7:Yeah, I'd like to go back to Yamayama as well, but...
+ b8:Right now, I'm reliant on Takatou-kun...
+ b9:in this world where dragons and skills exist.
+
+p24:
+ b1:Hmm...
+ b2:The Dannoura-Style of archery.
+ b3:A style of the Heian era that combined the use of weapons and hand-to-hand combat, taught on in House Dannoura ever since, until the present day. 
+ NOTE:Heian era = 800-1200AD
+ b4:However, it would still be dangerous if you were proficient in the Dannoura-Style.
+ b5:As such! I shall teach you: the True Dannoura-Style!
+ b6:I shall name it the "My Guardian Spirit Is the Strongest, So Even the Other World Is a Cakewalk!" strategy!
+ b7:Are you really from the Heian era?!
+
+p25:
+ b1:Following Morning
+ b2:Morning, Takatou-kun...
+ b3:Morning. Couldn't sleep?
+ b4:Well, there were some distractions.
+ b5:So, are we going to chase after the class today?
+ b6:Right, but after parting last night, I talked with the concierge there.
+ b7:She looked into our classmates' whereabouts, told me several ways to get there ourselves, 
+ b8:prepared us an item that'll allow us to bypass the language barrier, and
+ b9:even came up with a way to charge my console.
+ b10:That concierge is so capable there's nothing left for us to do!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

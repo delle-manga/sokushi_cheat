@@ -1,0 +1,250 @@
+p1:
+ b1:A-aoi-sama!
+ b2:We need to escape!
+ b3:Eh? Why
+ b4:That's dragon is obviously giving off a powerful aura.
+ b5:Even with Aoi's powers, we can't win against it!!
+ b6:Ah, you must not understand.
+ b7:This sort of thing is easy.
+ text:Aoi keeps composure against the dragon.
+ T/N: This is the loli dragon, Atila, from earlier.
+ 
+p2:
+ b1:'Dont you think there's no way that such a large creature can float in the sky?'
+ sfx:sudden drop
+ 
+p3:
+title:A cruel world that only rewards effort.
+
+p4:
+ b1:[Just World] is the ability to involve others in my world.
+ b2:Basically, it's the ability to modify events in a way that I believe.
+ b3:That's beyond a cheat ability!
+ b4:Then it's... like an ultimate ability with no limits...
+ b5:Not really. What I can't believe can not be realized.
+ b6:And so, I can't really get involved with a person of high fate value.
+ b7:Is that so...?
+ b8:Well anyways, does that mean you can beat this guy?
+ b9:Ah, isn't it dangerous to carelessly approach it?
+ 
+p5:
+ b1:GYAAAAAAA!
+ b2:Arm! My arm!
+ b3:H-heal!
+ b4:Shouldn't it have been fine if this thing can't fly?!
+ b5:Can't you do something about it with your ability, Aoi-sama?!
+ b6:I can't.
+ b7:In my mind, it's not unreasonable for a lizard-like thing to be this large.
+ b8:It's a huge lizard, but wouldn't a huge lizard still be dangerous?
+ b9:I can't deny that reality.
+ 
+p6:
+ b1:The... the dragon's neck?!
+ b2:What did you do Aoi-sama?
+ b3:No... It wasn't me.
+ b4:But... this is bad.
+ 
+p7:
+ b1:That figure...
+ b2:The aggressor... Hedgehog.
+ b3:This might be the worst situation for me.
+ 
+p8:
+ b1:W-why, what is that?!
+ b2:Why did it kill just the dragon? I don't get it. Does it mean that it hasn't noticed us?!
+ b3:I felt it notice me... Maybe it's still processing the info?
+ b4:...wait, why are you behind me?!
+ b5:You... have a large surface area.
+ b6:That's just a politically correct way of saying I'm fat, right?!
+ b7:Can't Aoi-sama's ability do something?!
+ b8:Like believing that robot doesn't exist or something!!
+ b9:Well, even if you say that.
+ b10:It's not like I can help whether I believe something is possible or not.
+ 
+p9:
+ b1:UWAAAAA
+ b2:I... I can't see anything like eyes on it!!
+ b3:Does it understand language?!
+ b4:If I Dogeza for now, will the meaning get transmitted?!
+ 
+p10:
+ b1:It went somewhere.
+ b2:Why?!
+ T/N: Hanakawa was in dogeza, so he couldn't see it leave.
+ b3:Well, according to the fate value, It was unlikely we would die here. BUt...
+ 
+p11:
+ b1:What does that 'fate value' mean anyways?
+ b2:Is it different from status?
+ b3:'The size of the destiny' of a person or place. In other words...
+ b4:How likely is an event to occur.
+ b5:Isn't this a really meta story then?!
+ b6:Well, just speaking of meta makes it a meta story.
+ b7:Anyways, it's as if I can get a bird's eye view of fate.
+ b8:In other words, if this world was a movie, then you could say that I can peek at the script.
+ b9:But still, it's not that simple.
+ b10:It's like there are multiple protagonists, each with their own chaotic matters and scenarios moving around at the same time.
+ b11:And different scenarios can change aspects in complex manners depending on the situation.
+ b12:And that's just to the extent I can see with my eyes.
+ 
+p12:
+T/N: famous japanese general/daimyo
+ b1:When getting involved with an opponent of high fate value, it becomes necessary to induce fate.
+ b2:Induce fate?
+ b3:Yeah... for example, Oda Nobunaga.
+ b4:An existance with a high fate value like him is hard to kill.
+ b5:Whether he's shot by Zenjubo Sugitani or goes on a reckless assault in Okezama, he doesn't die.
+ b6:To the enemies, it's as if he had a cheat ability.
+ b7:However, there is a way to kill him.
+ b8:You mean... that strange Honnoji Incident?
+ b9:Yeah
+ b10:If someone is protected by fate, there is no choice but to use fate to kill them.
+ b11:But, there's no use trying to blindly attack him.
+ b12:It has to be dramatic... You have to fabricate a situation where it will be an exciting death.
+ 
+p13
+ b1:Fate prefers situations that look more interesting.
+ b2:So you must make a situation where it looks more interesting to die.
+ b3:I induce fate into a situation that fate prefers but is also convenient for me.
+ b4:The higher the fate value of the opponent, the more information you need to collect and consider.
+ b5:Isn't it suprisingly easy to use, then?
+ b6:In the right situations, it seems like the strongest cheat...
+ b7:Yeah, sometimes.
+ b8:But I try not to be overconfident in myself.
+ b9:After all, winning or losing is just a story of fate.
+ b10:...Anyways
+ b11:The dragon from earlier... It seemed like a flag was going to be raised, but that guy crushed it...
+ 
+p14:
+ b1:There was a tower over there that appeared then disappered for a moment...
+ b2:We are going that way.
+ b3:Are you insane, Aoi-sama?!
+ b4:After all that, you want to head towards the murder machine...?!
+ b5:What was it you said when we first met? You known Takatou Yogiri and his abilities.
+ b6:That's why I brought you out of the forest.
+ b7:You'll be coming with me until the job is done.
+ b8:I don't want to meet Takatou-dono again!!
+ b9:I'll definitely get killed if I meet him again!
+ b10:I don't even want you to come with me, but...
+ b11:This is my job, so don't worry. I'll give you the rewards too.
+ b12:Aoi-samaaaaaaa
+ 
+p15:
+ b1:Trial Tower, Floor 50
+ b2:...Even though we don't want the prize, we ended up getting involved in the trial, but uh...
+ b3:It might just be me, but it looks like you feek guilty?
+ b4:Well, we've been just moving along killing all the traps and puzzles along the way.
+ b5:Are you wanting to explore, Takatou-kun?
+ b6:No, not really, but...
+ b7:It's just, if I were to think of this as a game...
+ b8:It feels like we are just pushing past everything using cheats...
+ b9:As a game lover, I feel a little guilty.
+ b10:Well, aren't you guys in surprisingly good shape?
+
+p16:
+ b1:Have I seen you two before? Do you have a master key?
+ b2:Hey man, if you give me the key, I'll overlook killing you and taking your points.
+ b3:The girl however...
+ b4:Die
+ b5:None of these attacking guys really give off the aura of a 'holy' knight.
+ text:They're not likable at all...
+ b6:I heard that in the past, some insane guys were treated as saints.
+ 
+p17:
+ b1:Huh? Looks like he has a map.
+ b2:It's a bit bloody though...
+ b3:You think he took it from someone?
+ b4:This trial might also be a competition for item points as well.
+ b5:It looks like this is a map of the tower.
+ b6:Also, it looks like the passages narrow down so meeting other particicpants will be more likely.
+ b7:It's probably designed that way intentionally.
+ b8:It's not just a battle to the bottom?
+ b9:Well, they did say you could rob people of points by killing them...
+ 
+p18:
+ b1:But Takatou-kun, we have 5 points right now, right?
+ b2:We've picked up five point plates on the way so far.
+ b3:Yeah, but we don't know what it determines as 'killing'.
+ b4:Ah... You think it doesn't recognize you as killing them because they just fall down?
+ b5:yeah
+ b6:In fact, I don't think the cause-and-effect relationship can be determined unless you're on the receiving end.
+ b7:Well, you can probably get to the first floor without points.
+ b8:What's up next? The stairs again...
+ 
+p19:
+ b1:With this, we've cleared half!
+ b2:We're progressing pretty quickly, aren't we?
+ b3:Don't you think you're going to fast.
+ b4:I don't think it's good to cheat.
+ b5:Heh?!
+ b6:Where did you spring out from?!
+ 
+p20:
+ b1:I am the creator of this tower.
+ b2:So, it's possible for me to appear anywhere in the tower.
+ b3:Aren't you the one cheating though!!
+ 
+p21:
+ b1:If I say you're cheating, then you are.
+ b2:But still, I can't overlook what you've done.
+ b3:Jeez...
+ b4:Do you even understand how it feels to be the creator who has to watch as you bypass every puzzle and trap I spent so long coming up with?
+ b5:So he is the one who came up with all the nastry tricks of this tower...
+ b6:When I saw him on the roof, I felt he was no ordinary person... But, being the creator of this tower never passed my mind.
+ b7:We have no intention of becoming knights of the holy king.
+ b8:Right now, we just want to leave the tower... Would that be fine?
+ b9:I can't allow that.
+ b10:Why?
+ 
+p22:
+ b1:This tower is not only a selection for the knights of the holy king...
+ b2:It also exists to maintain the barrier that seals the Devil.
+ b3:We collect all the souls of the applicants who were killed inside the tower to supply magic to the barrier.
+ b4:In other words, it's an essential existence in order to keep the Devil sealed.
+ 
+p23:
+ b1:Of course, the entire barrier won't break if one small part of it does.
+ b2:But, the problem is that it can be broken.
+ b3:If you let us out, then I won't break it anymore though.
+ b4:Am I supposed to believe you?
+ b5:Is there any guarentee that you are not being used by the followers of the Devil?
+ b6:Such a troublesome person.
+ b7:Jeez!
+ b8:After waking up for the first time in a thousand years... My great-effort parting gift is in this state.
+ b9:I want you to understand my disappointment.
+ 
+p24:
+ b1:Well, I'm different from those sage guys though.
+ b2:I don't constantly complain about my problems.
+ b3:You're complaining right now though..
+ b4:Now then.
+ b5:My name is Iglacia.
+ 
+p25:
+ b1:I am the one they call the Great Mage.
+ b2:The man who created this tower a thousand years ago.
+ b3:What?! This room!!
+ b4:These are the options I give you...
+ 
+p26:
+ b1:Die
+ 
+p27:n/a
+ 
+p28:
+ b1:no no no, wait a minute?!
+ b2:Wasn't he an important person or something?!
+ b3:I don't know. I just killed him before he killed us.
+ b4:What about the options?!
+ b5:He was going to kill us regardless.
+ b6:Let's keep going, Dannoura-san.
+ b7:Okay.
+ 
+ p29:
+ text:volume 4 is now on sale!
+ 
+ note1:thanks for reading ch19, ch 20's raw should release 2/27
+ note2:end of manga chapter 21 = middle of WN vol 2 ch11
+ note3: Aoi's ability when described in Japanese has the full sentence 'The world only rewards effort', but also has ruby text next to it 'Just World' for an English meaning. I decided to keep the English meaning in speech while leaving the title as the full sentence.
+ note4:Hanakawa speaks in a very respectful or archaic way. for example, he use the word '拙者' for 'I/me', which is the way samurai refered to themselves.
+ note5:The tower creator's name is I-Gu-Re-I-Shi-A, and the WN named him Igleshia, but I went with Iglacia.

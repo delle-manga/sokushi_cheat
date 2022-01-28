@@ -1,0 +1,316 @@
+p1:
+ b1:F-Fredrica-san's full magic power?!
+ b2:Tch!
+ b3:Take this!!
+ b4:Sorry, but...
+ b5:Onee-chan isn't at a stage where you can fight us.
+ b6:Right now, you don't even know what you're doing, right?
+ b7:What!!
+
+p2:
+ b1:M-my arm...?!
+ b2:No! What is this!!
+ b3:You're a girl, so you like sweets, right?
+ b4:That's why I thought it would be good to make some sweets...
+ b5:Hm, it looks like it's become a freshly baked cookie.
+ sfx:munch
+
+p3:
+ title:[UR] Ultra Rare
+ 
+p4:
+ b1:Kyaaaaa
+ b2:Fredrica-san!
+ b3:Heal!
+ b4:...Heal!
+ b5:Rainier-san! What do I... What should I do?!
+ b6:It won't heal! It's become a cookie!
+ b7:Haaa!!
+ sfx:dodge
+ b8:Oops, that was close.
+ 
+p5:
+ b1:Hmm, it seems onii-chan can still fight.
+ b2:Tha sword and armor are quite good.
+ b3:They might even be able to reach us.
+ b4:Rainier-san!
+ b5:I entrust Fredrica-san to you.
+ b6:Rick-san!
+ text:waaaaah
+ sfx:dodging
+ b7:Damn it...!
+ b8:oh...
+ b9:owawawaa...
+ 
+p6:
+ b1:It's not working... Healing isn't working...!
+ b2:Please help me... What do i do...!!!
+ b3:I can't even compete with Fredrica-san's magic...!
+ b4:And...
+ b5:There are only 10 star crystals left...!!
+ b6:Even if I respawn, I'll get returned here...
+ b7:Then... what should I do...!!
+ b8:...hm?!
+ text:Annoucement
+ text:Another [UR Limited Gacha] is being held!!
+ b9:In a time like this?!
+ b10:Well...
+ text:Is now really the time to gamble...?!
+ 
+p7:
+ b1:Okay, all 10 star crystals!
+ b2:Come on...! Ultra Rare!!
+ b3:This performance!!
+ b4:It's like the one I saw last night...?
+ b5:Why do I get a bad feeling about this...!!
+ 
+p8:
+ b1:Sorry to keep you waiting <heart> You got a UR Goddess!!
+ b2:I've manifested in response to your summoning gacha <heart>
+
+p9:
+ b1:Hey!!
+ b2:Why are you making a face like "this is the end"?!
+ b3:ehhh...
+ b4:Is it the same as last time because I used all my remaining stones!!
+ b5:You're just a copy in this world, so you can't do anything, right?
+ b6:Yeah, well. This time it's fine!
+ b7:I came in my main body properly this time!
+ b8:...eh?
+ b9:Then... perhaps...
+ 
+p10:
+ b1:Right now, I can use all my powers!
+ b2:oh... ohhh!
+ b3:The Devil's Followers? Such underlings is also underlings to me!
+ b4:Wellthen, just watch me! I'll solve everything in an instant!
+ b5:hm...?
+ b6:Orugein!
+ b7:There's no way...
+ 
+p11:
+ b1:The followers stopped moving...?
+ b2:Rainier-san, what is this...?!
+ b3:Rick-san!
+ b4:I did it! It was a successful summon!
+ b5:She is an actual goddess! We're safe now!
+ sfx:shine sparkle
+ b6:Surely... I don't know where this goddes came from, but...
+ b7:I'm sure of their tremendous divine power. If that's the case...!
+ b8:ehh! Then maybe Fredrica-san can be healed...!
+ 
+p12:
+ b1:wha?!
+ b2:What is this! Did it get solved without fighting?!
+  
+p13:
+ b1:Vahanato-sama.
+ b2:To come to such a place...
+ b3:It's really Vahanato-sensei! What are you doing here?!
+ b4:Lute! And Oregein is with you.
+ b5:I knew it was just a matter of time because of the barrier...
+ b6:But, we we're able to break out earlier!
+ b7:...eh?
+ b8:She knows them...?
+ 
+p14:
+ b1:Uh..uhm... goddess-sama? What's going on...
+ b2:You said you'd "clean up everything" just now...
+ b3:hmm?
+ b4:Isn't it safe to say that everything will be cleaned up if humanity is destroyed?
+ b5:eh... uhm, surely...
+ b6:You're supposed to be my "ally" since I summoned you...?
+ b7:hmm... well, you see.
+ b8:From what I've seen of you so far...
+ b9:Your luck is the worst of the worst!
+ 
+p15:
+ b1:Hey, you. I think you're called Rick.
+ b2:The situation has gotten worse... But, I still have a trump card.
+ b3:Sword Saint-dono!
+ b4:For the time being, I'm giving you the qualification of being the Sword Saint.
+ b5:This is insurance, in the case I'm killed.
+ 
+p16:
+ b1:To me?!
+ b2:Look around. You are the only ones who are able to still move around.
+ b3:While they are having their little reunion, this is the only chance I'll get.
+ text:You see that? That's the barrier.
+ b4:I'm going to absorb the power stord in the tower.
+ b5:If you accumulate enough power, it will be enough to surpass even a god. It's a temporary method of dealing with the devil.
+ b6:Anything's fine. I just need you to distract them and buy some time.
+ b7:The Sword Saint isn't just a title.
+ b8:If I die, you will automatically become the next Sword Saint.
+ b9:What...?
+ b10:Well, you will grow to undertand it fully.
+ b11:I must go now!
+ b12:This... I...
+ b13:I didn't mean to...
+ b14:Don't speak like it was your fault.
+ 
+p17:
+ b1:It's not like your capable of anything.
+ b2:If I commit suicide, I'll random walk and start over...
+ b3:But, my save point is still inside the tower... It will not change the fact that I die...
+ b4:If that's the case...!
+ b5:Excuse me!
+ 
+p18:
+ b1:Goddess-sama! Can we talk about something for a minute?!
+ b2:Rainier-san...?!
+ b3:Right now, this is the only thing I can do...!
+ b4:What is it?
+ b5:That's... I don't know the reason, but what in the world is going on?
+ b6:You were summoned by me, right?
+ b7:Why are you chatting with the enemy?
+ b8:Ah, you want to hear why?
+ b9:What should I do... I wonder if I should tell you...
+ 
+p19:
+ b1:By all means, please tell me.
+ b2:I can't help but be curious!
+ b3:Is that so... But, what do I gain from telling you anything.
+ b4:Well, I guess I have a splendid relationship with you.
+ b5:So letting you die without knowing anything would be quite regrettable.
+ b6:It's fine! I will tell you.
+ b7:I wonder where I should start.
+ b8:He's stalling...!!
+ 
+p20:
+ b1:Tower of Trials Underground
+ b2:This staircase... Isn't it strange? It's way too long.
+ b3:It feels like an infinite loop.
+ b4:The barrier outside seemed to interfere with time...
+ b5:Maybe there is a type of barrier that warps with the space here.
+ b6:The fact that they bother to protect this facility makes me think it must be important.
+ b7:It's probably the power supply from this tower to the barrier outside.
+ 
+p21:
+ b1:Also... I feel a faint sign of the magic power of my people.
+ b2:Perhaps this barrier is created using my people's power.
+ b3:Is it different from the collecting of souls from those who died in the tower?
+ b4:Something like a soul is suitable for maintaining the seal for a long period of time...
+ b5:Apart from that, it may be that the risk of failure is lessened by using the half-devils as an independent energy source...
+ b6:Takatou-kun, is it possible to kill the barrier like you did when you helped Mokomoko-san?
+ b7:At that time, I was able to find the mechanism because it was sucking at my soul, but...
+ b8:Where should I aim to take out this barrier?
+ b9:...The space?
+ b10:That's difficult...
+ b11:I don't know what the meaning of killing space is.
+ 
+p22:
+ b1:I don't understand the meaning either, but haven't you already killed ice and doors before?!
+ b2:Yeah, but "space". I don't know what would happen if I killed something that vague.
+ b3:In the worst case, this second world might collapse...
+ b4:It's fine if I can recognize the dangerous thing or person with killing intent.
+ b5:But, what if the origin of this barrier is one of Theodisia's friends?
+ b6:If I break the barrier by killing the person we were supposed to help... Then there was no point.
+ b7:What was that?!
+ b8:The voice of a beast...?!
+ 
+p23:
+ b1:A door...?
+ b2:Did the barrier break...?
+ b3:Why'd it change all of the sudden?
+ b4:Dannoura-san?
+ b5:Just now...
+ b6:A black thing just passed through... didn't you see it?
+ b7:ehh?
+ b8:I only just felt the wind that suddenly came by...
+ 
+p24:
+ b1:I could only see it for a moment, but...
+ b2:It was like a monster with blades for its whole body...
+ b3:And it just went past us?
+ b4:Maybe... I think it was headed full-speed towards the surface.
+ b5:A blade monster...?
+ b6:I didn't see anything either...
+ b7:...But you may not be wrong from the look of these scrapes on the wall.
+ b8:I wonder kind of room this is?
+ b9:It seems like an empty room, but there are scratches all over the place.
+ b10:If I were to force an answer, then it's a window... or maybe an exit?
+ b11:All you can see is the center of the devil's barrier though.
+ 
+p25:
+ b1:Over here! It feels like they're behind this door!
+ b2:Is anyone here?! Please respond.
+ b3:It's Theodisia! I've come to help...
+ b4:This is...
+ 
+p26:
+ b1:What is it? Are they okay?
+ b2:Dannoura-san, please wait here.
+ b3:It would be better if you didn't look inside.
+ b4:eh...
+ b5:O-okay.
+ 
+p27:
+ b1:...Are you okay?
+ b2:Do you recognize any of them?
+ b3:ahh.. <i>these</i> are probably my people.
+ b4:But... not my sister...
+ b5:...I don't know what to say.
+ b6:After seeing my people in this state...
+ b7:It feels cruel to be relieved that my sister is not among them...
+ b8:This is how people look if they've had their magical power extracted...?
+ b9:Yes
+ b10:It seems like their magic power was stolen to such an extent that it caused a change in their natural bodies.
+ b11:...They've kept them in a barely alive state just to keep using them...
+ 
+p28:
+ b1:Would it be possible to put them to rest with your ability, Takatou-dono?
+ b2:I could but... I think it would be better if you did.
+ b3:If you believe in something like putting their souls to rest.
+ b4:That's true...
+ b5:It would be irresponsible of me to leave my brethren to others.
+ b6:...Please go back with Dannoura-dono.
+ b7:I... will also join you right after I do what I need to do.
+ b8:Takatou-kun...
+ b9:I heard what you guys were saying.
+ b10:yeah...
+ b11:To think something like that was happening...
+ 
+p29:
+ b1:I'm sorry I kept you both waiting...
+ b2:Theodisia-san...
+ b3:Then, what should we do now?
+ b4:We can go back up... and after that, it depends on the situation.
+ b5:Speaking of which, that last boss character showed up. Do you think the Sword Saint dealt with it?
+ b6:Theodisia-san, what should we do?
+ 
+p30:
+ b1:I was taught to always dispel grudges.
+ b2:But, this is not something I can just leave to others.
+ b3:I want to kill the Sword Saint with own hands...
+ b4:But I don't want to pay attention to that right now...
+ b5:...I understand
+ b6:I wasn't sure if I would even be willing to refuse you if you asked me to help kill him.
+ b7:Takatou-dono...
+ b8:Even if the situation was necessary for the sake of the world...
+ b9:I don't think it's okay to trample on the dignity of people to that extent.
+ b10:To be honest, he pissed me off.
+ 
+p31:
+ b1:T-takatou-kun
+ b2:Of course I won't kill him just because he got me angry.
+ b3:As usual, I will only act to protect Dannoura-san and myself from danger.
+ b4:Indeed
+ b5:You must give your top priority to yourselves.
+ b6:Even if you've just cooperated with me thus far, I can't thank you enough.
+ b7:Well then, let's head to the first floor's exit.
+ b8:I wonder what's going on with the situation upstairs...
+ b9:Even just a little...
+ b10:If the Sword Saint tries to kill us, there will be no future troubles.
+ b11:At the least, that's what I think...
+ text:The three people head for the exit. What will happen there...?!
+
+
+note: the devil's followers are called in the raw using: 眷属. This can directly mean multiple things from 
+follower and underling to family or household, so I generally use all those meanings at different times randomly since
+I don't know which specific meaning to go with. The main separation I don't know to make is whether to call them the
+devil's kin/family or followers since they seem to be different races and whatnot, but I don't know for sure. If someone
+knows Japanese and thinks they know which meaning should be used, feel free to give feedback (maybe check out the raws for 
+context).
+note2: for some reason, the webnovel features conversation with mokomoko alot more than in the manga
+note3: chapter 25 raw 10/29
+note4: end of ch24 corresponds to end of v2ch18

@@ -1,0 +1,342 @@
+p1:
+ b1:Won't you become my lover, Dannoura-san?
+ b2:Such a chance is rare!
+ b3:Huh?
+ b4:Slaves are divided into the upper, middle, lower, and labor slave classes.
+ b5:But my lover is special, you would have a permanant place above all the...
+ b6:no no no, just stop!
+ b7:Are you worried about Takatou?
+ b8:I only accept men as labor slaves, but I can make him a special low-rank slave if you'd like.
+ b9:...I don't understand but it's getting kind of funny.
+ b10:It's so nonsensical that I don't even feel like killing him...
+
+p2:
+ title:Aren't support classes way too versatile in this world!?
+
+p3:
+ b1:I don't have much free time. Can you decide within two minutes?
+ b2:If you end up changing your mind later you'll become a mid-rank slave at best, you know?
+ b3:uhm no
+ b4:No need for any benefits right now...
+ b5:What are you doing here, Tachibana?
+ b6:...are you sure you're not being to hasty?
+ b7:Alright. Well then, I'll explain.
+ b8:But I think that you'll regret not joining us.
+ b9:maybe because of the gift... his overconfidence is even greater.
+text:It was pretty bad before though...
+ b10:First off, you guys don't have to be worried.
+ b11:Everyone was to be domesticated unless someone from the class became a sage but...
+ b12:I am guarenteed to become a sage!
+
+p4:
+sfx:chatter
+ b1:My class is [Dominator].
+ b2:The strongest class that rules over everything.
+ b3:Well, it tooke a while before I noticed the real strength of this skill.
+ b4:It was at the celebration for completing the first mission...
+ b5:Hey there.
+ b6:Can we talk?
+
+p5:
+ b1:Ootori?
+ b2:What do you want.
+ b3:I'd like to give a little advice.
+ b4:You know how my class is [Consultant], right?
+ b5:It's role is to give advice on how to solve problems.
+ b6:Wasn't it you, Ootori, who arranged the reservation for this tavern?
+ b7:So, how are you going to consult me?
+ b8:Tachibana-kun's class is [Dominator], right?
+ b9:Of course at the time of the strategy meeting, everyone's class names were revealed to eachother...
+ b10:Even though the details of the abilities are unknown,
+ b11:Everyone is avoiding you just because the impression of that class name.
+ b12:...what are you saying?
+
+p6:
+ b1:I'm talking about how to utilize the power of [Dominator], Tachibana-kun.
+ b2:You don't actually know how it works yet, do you?
+ b3:I'll admit that, but I'm a practice over theory kind of person.
+ b4:Isn't it something I can just figure out after giving it a try?
+ b5:Since it's you, I'm sure it would be fine.
+ b6:Regardless, I have an idea for practice.
+ b7:heh... What's that?
+ b8:This tavern is stifling. Follow me.
+sfx:laughter
+ b9:Let's leave quietly.
+ b10:Do you know where we're going, Ootori?
+ b11:While searching for a place to celebrate, I explored quite a bit.
+
+p7:
+ b1:What's this...?
+ b2:This town's slave market.
+ b3:When we recieved the sage's gift, we became able to understand the languages of this world.
+ b4:Complex negotiation becomes possible.
+ b5:What Tachibana-kun needs to do is purchase a large amount of slaves.
+ b6:Level 1 slaves are easily affordable, even more so if they have defects or are close to death.
+ b7:You got a lot of money from completing the mission, right?
+ b8:What's your point...?
+ b9:The [Dominator's] strength...
+ b10:depends on the "number" of those under his control.
+ b11:However, there are some conditions in order to control a person.
+ b12:First, the dominator must be a higher level than the person.
+ b13:Second, the target person must agree to it.
+
+p8:
+ b1:Being a Consultant allows you to know the abilities of other classes?
+ b2:The second condition has an exception.
+ b3:eh?
+ b4:Well, it would be faster to show it through practice.
+ b5:Go ahead and purchase a cheap, level 1 slave.
+ b6:First off, this person.
+ b7:Purchasing a slave is considered the same thing as coming to a mutual agreement.
+ b8:Since they're already being sold without concern for their consent.
+ b9:You should be able to dominate the level 1 you bought just now.
+ b10:Hmm? Well then, you.
+ b11:Prostrate yourself.
+ b12:Huh...? They really did it.
+
+p9:
+ b1:Next... Oh, that beggar will work.
+ b2:Originally this was meant to bea able to rule monsters in which an agreement can't be made in language.
+ b3:That beggar...
+ b4:Once he is close to death, go step on his head.
+ b5:...huh?
+ b6:But, well...
+ b7:My shoes will get dirty if I step on him.
+ b8:ah... Then, no need to worry.
+ b9:You can have the one you dominated already do it.
+ b10:Hm?
+ b11:It's fine if I'm not the one stepping on their head?
+ b12:That's a specialty of the Dominator.
+
+p10:
+ b1:The subordinates you control become part of you.
+ b2:You'll notice once you do it.
+ b3:hmm...?
+ b4:Well, you. Do it.
+ b5:GYAAAAA
+ b6:Guaa...
+ b7:How is it, Tachibana-kun?
+ b8:...I see.
+ b9:It's just as Ootori said.
+ b10:I was able to dominate it!
+
+p11:
+ b1:Later, like this, you can send out teams of five to hunt monsters for you.
+ b2:Even if they are close to death, you can force them to stake their lives to dominate a monster.
+ b3:Even if they end up killing it, you'll recieve a reward for killing a monster...
+ b4:Another convenient aspect of the Dominator...
+ b5:If a subordinate defeats a monster, you get half of the experience points.
+ b6:In other words, by buying some slaves and sending them out to hunt, I'll gain money and experience.
+ b7:Isn't possible to make an army then?
+ b8:Such is true.
+
+p12:
+ b1:You should go to the mining city Ektal once you're done here.
+ b2:There's a rich assortment of slaves there.
+ b3:After that, I think Hanabusa city would be best.
+ b4:There are number of monsters in the ruins near it where you can increase your amount of subordinates.
+ b5:The consultant seems to want to send me off and keep me away...
+ b6:I wonder why?
+ b7:Haha, I guess.
+ b8:Some of the guys see you as an obstacle to bring the class together.
+ b9:I don't think they'll unify by me not being around though.
+ b10:I agree. I think there's no need to stick together.
+ b11:A variety of approaches are necessary to produce a sage.
+ b12:It would be suicidal if everyone did the same things.
+
+p13:
+ b1:So, as a consultant...
+ b2:I'll improve the success rate by giving advice to those who are likely prospects.
+ b3:This is my survival strategy.
+ b4:A method for coming to an agreement when it's difficult to communicate...
+ b5:Ootori seems to not have noticed something.
+ b6:There are plenty of useful creatures besides monsters...
+ b7:...okay.
+ b8:I'll head out and get started right away.
+ b9:I'm a suitable fit for the manipulator of all!
+
+p14:
+ b1:Good luck!
+ b2:Ha, You can sit back and worry not!
+ b3:Because I will definitely become a sage!
+ b4:...so
+
+p15:
+ b1:Based on that advice, I decided to seperate from everyone in the class.
+ b2:Aren't support classes way too versatile in this world!?
+text:concierge 
+ b3:I see...
+ b4:In other words, even now, you're number of subordinates is increasing.
+ b5:And your level is going up?
+ b6:Yup!
+ b7:Additionally, I'm also increasing the amount myself.
+ b8:My power is growing faster than rats multiply.
+ b9:How about it, Dannoura-san? Will you become my mistress...
+ b10:I have no intention to.
+text:Immediate reply
+
+p16:
+ b1:Heck, why are you so particular about me?
+ b2:Aren't there the beautiful and awsome children behind you as well as many others?
+text:The pressure is a bit much though...
+ b3:Well, that's true...
+ b4:To speak bluntly...
+ b5:I'm after your body. 
+ b6:I just received the worst confession ever!!
+ b7:I already was before we were summoned to this world.
+ b8:You sure are popular.
+ b9:Ahh, right, the other three were the same...
+ b10:Didn't you know?
+ b11:Dannoura-san's popularity in the school was fairly high.
+ b12:Eh?! Really?
+
+p17: restore sleeve region
+ b1:From looks alone, you are gravure model quality.
+ b2:I have to say, you're an ultra-grade beautiful high school girl.
+ b3:You would even stun everyone overseas.
+ b4:My reputation is terrible!!
+
+p18:
+ b1:I guess it's a difficult decision to make so suddenly. However, I'm generous!
+ b2:I'm on the top floor of this hotel, so come by when you make up your mind.
+ b3:Well, Shall we go girls...
+In the end it stopped being funny.
+Well, as long as he doesn't turn hostile on us we can just ignore him.
+ b4:But say, isn't it a good deal?
+ b5:Wouldn't being his companion be much safer than remaining with me?
+ b6:Takatou-kun, are you trying to make me angry?
+ b7:I'm not following. Sorry, I guess.
+
+p19:
+ b1:I'm not sure what to think of such an apology but...
+ b2:come on!
+ b3:telling me to travel with someone that flat-out admitted to being after my body is just??
+ b4:...actually
+ b5:wasn't that your motivation as well!
+ b6:I'm not following. Sorry, I guess.
+ b7:god dammit!
+
+p20:
+ b1:Somehow I'm hearing a nostalgic sound.
+ b2:...cooking?
+ b3:Yogiri-kun!
+ b4:You need to get up soon, you know.
+ b5:So you can eat your breakfast!
+ b6:Okaaay.
+ b7:I'm coming...
+sfx:riiiiiiiing
+
+p21:
+sfx:ring
+sfx:opens eyes...
+ b1:A dream of the past?
+ b2:where...?
+ b3:errr... this is the Hanabusa hotel...
+ b4:Tachibana left and we were waiting for our classmates...
+ b5:We've been here for two days now...
+ b6:uhh that's... what an annoying sound...
+ b7:Is this the room phone?
+ b8:No... some other world equivalent? Either way.
+sfx:rattling
+
+p22:
+ b1:Yes, hello?
+ b2:Ah... Takatou-kun! Sorry to wake you.
+ b3:Something strange happened outside the room...
+ b4:eh? What happened?
+ b5:Actually, I'm going to your room right now.
+ b6:Wait! Be careful. Although something happened outside the window, there is something in the corridor of the hotel.
+ b7:The corridor?
+ b8:Mokomoko-san said that it seems to be aiming for me.
+ b9:However, it seems that they are able to hide their appearance.
+ b10:Mokomoko-san was only able to sense its presence, but she couldn't see it.
+ b11:Takatou-kun, do you know what it is?
+
+p23:
+ b1:Yeah...? I don't know.
+ b2:I'll deal with it for now. Just wait a bit.
+ b3:Thank you!
+ b4:In the hallway...?
+ b5:...there's definitely signs of someone.
+ b6:...I can see the killing intent.
+ b7:Their killing intent is directed towards Dannoura-san's room...
+ b8:Who would disappear with magic or something and hide outside with killing intent?
+ b9:I don't know who it is, but I'll kill them.
+ b10:In that case...
+
+p24:
+ b1:Ma-am...
+ b2:Is it fine to let Takatou-kun keep protecting me.
+ b3:Well, the opponent is invisible though...
+ b4:I wonder if I can do something for Takatou-kun...
+ b5:You could offer him your highschool girl body.
+text:How about it?
+ p6:You sound like an old man!!
+ b7:obviously you have to get a good grip on him or he'll break up with you.
+ b8:how about letting him fondle and lick a little?
+ b9:How do I perform a [Guardian Spirit Exorcism]!!
+
+p25:
+ b1:Why get so worked up over it...
+ b2:I'll have you know, I myself have spent a lot of time sneaking into bedrooms at night on my search for strong blood with which to enrich our family.
+ b3:Shouldn't it be the other way around?!
+ b4:Now I feel sorry for my strong ancestors!!
+ b5:Ding dong
+ b6:UWAAAA?!
+ b7:It's me, Dannoura-san.
+ b8:Takatou-kun! Get inside!
+sfx:close
+ b9:There was definitely someone in the hallway.
+ b10:They were invisible, so I couldn't seem them.
+ b11:You're fine?!
+ 
+p26:
+ b1:The killing intent was only directed at Dannoura-san, not me.
+ b2:Seems like she didn't have any interest in me.
+ b3:why me...?
+ b4:I wonder if we can question them somehow...?
+ b5:Well, even if you say so... I haven't tried using my ability for interrogation.
+ b6:Ah, let me borrow the phone for a bit.
+ b7:Hello, front desk?
+ b8:There is a collapsed girl in the fifth floor's corridor...
+ b9:eh?
+ b10:What do you mean?
+
+p27:
+ b1:It would be strange if we didn't notice a dead body in the hallway while walking by, right?
+ b2:a dead body...
+ b3:I killed them already.
+ b4:After they died, the magic dispelled and a dead woman appeared.
+ b5:You... You should've said that earlier!! 
+ b6:In the hallway right now...
+ b7:...huh?
+ b8:T... Takatou-kun! this corpse...
+
+p28:
+ b1:...isn't it a familiar person?
+ b2:Is something the matter, master?
+ b3:Erika's reaction... disappeared?
+
+Note:
+First off, thanks for reading. Chapter 8's raw releases 12/28.
+
+You can check out the mangaka's twitter at:
+https://twitter.com/twitydk
+
+If you would like to read the translated webnovel, it can be found at: sakutranslations.blogspot.com/2017/05/instant-death.html
+
+The end of manga chapter 8 corresponds with the end of webnovel chapter 26.
+
+The manga officially releases at: http://comic-earthstar.jp/detail/sokushicheat/
+
+-zairx
+
+
+
+
+
+
+
+
+
+

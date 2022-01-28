@@ -1,0 +1,262 @@
+p1:
+ b1:...
+ b2:What?! This...
+ b3:My Immortality Corps,, in just an instant...?!
+ b4:This has gotta be a joke!!
+ b5:I'm the lord of this region, Takahashi Ryouta.
+ b6:I'm not involved in this situation at all!
+ b7:Shut up Ryouta!
+ b8:Why did my undead die!!
+
+p2:
+ b1:They're...undead? Even if you say they were dead already,
+ b2:I didn't know from the start.
+ b3:Aren’t they alive since they are moving?
+ b4:You took is upon yourself to attack after trying to ignore that for some reason!!
+ b5:You dull motherfucker! What did you do!
+ b6:You don't have a sage's gift though! Was it a holy sword or... a dragon's son or...
+ b7:What is it!!
+ b8:How do you kill somehthing that's already dead!!
+ b9:I decide what 'Death' is.
+ b10:It is alive if it’s moving, and stops when it’s dead.
+ b11:I don’t care about what you would think.
+
+p3:
+ b1:D... Damn it...!
+ b2:Lain! You, did you know this!?
+ b3:Instant death magic?!
+ b4:It /i/seems that there isn’t such a thing!!
+ b5:He... He's transforming!!
+ b6:Humanoid... no, a bat man...?!
+
+p4:
+ b1:At least allow him to transform!?
+ b2:Why do I have to wait for a guy to fully motivated himself?
+ b3:No, look, it’s a rule!
+ b4:And what about negotiations?
+ b5:It's fine.
+ b6:Right, Takahashi Ryouta-san?
+ b7:Ah, yes!!
+
+p5:
+ title:I decide what Death is
+
+p6:
+ b1:...What's this?
+ b2:Where did you come from? And how did you survive Kurayami?
+ b3:You don't seem very powerful...
+ b4:Somehow, she doesn't even seem concerned.
+ b5:Well, let's hear her story.
+
+p7:
+ b1:Charm
+ b2:ah...
+ b3:What's your name?
+ b4:...Euphemia
+ b5:How did you escape from Kurayami?
+ b6:...Kurayami?
+ b7:That huge aggressor thing.
+ b8:Well... I don't know...
+ b9:...hmmm
+ b10:Even though she's charmed, the answer is still unclear.
+ b11:I guess I'll turn her.
+
+p8:
+ b1:I am Sage Lain, the First Vampire (Origin Blood).
+ b2:Euphemia
+ b3:As you become my kin, tell me all you know.
+ b4:*pop*
+sfx:bleed...
+ b5:...Yes
+ b6:Sage Lain
+
+p9:
+ b1:I beg you, don't kill me! Masayuki did it all on his own.
+ b2:I don't intend to do anything to you two, I just don't want any more damage to the city.
+sfx:quivering
+ b3:All we were doing was defending ourselves.
+ b4:Do you know what's going on?
+ b5:ah... well, hear me out and don't get angry please?
+ b6:It seems that Masayuki waas orderd by Sage Lain to kill you.
+ b7:Since Masayuki is a bit crazy, he used such means...
+
+p10:
+ b1:I tried to stop him, but I cannot go against a sage...
+ b2:Don't you also have to follow that order?
+ b3:Only Masayuki received the command directly from Lain-sama.
+ b4:AS for me, the top priority is the preservation of this town.
+ b5:Huh? Isn't the sage's name Sion?
+ b6:Sion-sama is also a sage, but this region is under Lain-sama's rule.
+ b7:I am Lain-sama's subordinate in control of this region.
+ b8:ehh? We were summoned by Sion as Sage candidates though.
+ b9:Now, this so called Sage Lain wants to kill us now...? We just...
+ b10:I haven't heard anything about you two since we are not supposed to interfere with the sage candidates.
+ b11:I will do my best to help you two however needed.
+ sfx:*flinch*
+ b12:Youngster!
+ b13:Yeah, I noticed it, Mokomoko-san.
+ b14:eh? what?
+ 
+p11:
+ b1:A very sketchy thing...
+ b2:Some sort of 'mental manipulation' has surrounded this area.
+ b3:Of course, I've protected my family's head from it already...
+ b4:There's killing intent...
+ b5:coming from all directions directed toward this square.
+ b6:eh...?
+ b7:This time its not zombies, but the living citizens...?!
+ b8:Really?! Even though Masayuki is already dead...?!
+
+p12:
+ b1:That's right, the key to the city's barrier! Masayuki was still holding it.
+ b2:If I have this, I can return everyone's sanity using the barrier...!
+ b3:wh... what?!
+ b4:No response...?! THat's not supposed to happen!!
+ b5:eh...?! It's broken?
+ b6:w... well...
+ b7:The barrier is based on Lain-sama's power...
+ b8:It doesn't even react if I use it...
+ b9:RIght now...
+ b10:Lain-sama is near the city.
+ b11:And is directly operating the barrier.
+ 
+p13:
+ b1:Master... Isn't this method quite dangerous.
+ b2:We don't know the extent of Takatou Yogiri's power.
+ b3:According to your story, Tachibana Yuuki was killed at this distance after being traced through his intent to kill.
+ b4:Euphemia
+ b5:To what degree to you estimate him as a threat?
+ b6:Beyond mythological creatures, the Sword Saint, and the sages...
+ b7:I believe we should not involve ourselves anymore than this before his interest turns towards us.
+ b8:In other words, run away?
+ b9:...That can't be done.
+ 
+p14:
+ b1:but...
+ b2:...Hmm
+ b3:After becoming my kin... she is earnestly concerned about me even though she knows the extent of my power.
+ b4:So she thinks this Takatou Yogiri possesses such power...
+ b5:Takatou Yogiri's ability...
+ b6:I want to verify what it is and is not capable of.
+ b7:In any case, I want to know...
+ b8:Are you able to kill me as well... Still though.
+ b9:Did master say something?
+ b10:It's nothing.
+ b11:Well... Since Kurayami is heading towards the city, there is something I want to try.
+ 
+p15:
+sfx:stare
+ b1:Uhh...
+ b2:We're completely surrounded...
+ b3:Can't you attack the source of the manipulation?
+ b4:With Tachibana, it was like a colony but...
+ b5:This time is a bit different.
+ b6:Uwaah?!
+ b7:T... Takatou-kun, what just?!
+ b8:Suicidal...?!
+ b9:He willingly jumped at us, even though we didn't do anything.
+ 
+ p16:
+  b1:two at once from both sides...
+  b2:...It seems that they are testing me.
+  b3:This has happened before.
+  b4:There was someone who tested my power in various ways.
+  sfx:stare
+  b5:There's no limit though!
+  b6:What're we gonna do?!
+  
+ p17:
+ sfx:glance
+  b1:...In the case of ending it, I'm ready to, you know.
+  b2:...It would be really difficult to watch ordinary citizens die right in front of me.
+  b3:I try to be a decent man despite being a sage's subordinate.
+  b4:Ryouta-san, get over here.
+  b5:It's hard to protect you if you're too far.
+  b6:Are you sure?
+  b7:I can't be careless if it's within my enemy's calculations to appeal to my emotions, but still.
+  b8:Be careful! The shadow has suddenly become darker.
+  b9:Didn't you say the shadows are like a danger forecast?
+  b10:As a forecast, it's at 50% and rising.
+  b11:If that was a weather forecast, that would mean rainy weather, right?!
+  b12:By the way, isn't the air getting a bit dry...
+  b13:eh...?
+  b14:What is that?
+  
+ p18: n/a
+ 
+ p19:
+  b1:No way...
+  b2:Isn't that /b/Kurayami...!
+  b3:You know what it is?!
+  b4:It's an aggressor that appeared recently.
+  b5:That's why Lain-sama is nearby!
+  b6:There are invaders other than that robo?
+  b7:It seems that the city's barriers were not effective on the other party...
+  sfx:gyaaaa
+  
+ p20:
+  b1:Everything it passes through... is turning to dust...?!
+  b2:Damn it!
+  b3:From insane citizens to an aggressor...! What am i going to do!
+  b4:We can't even evacuate in time!
+  b5:...It's headed for the square...
+  b6:Hey... Takatou-kun.
+  b7:Are you able to deal with that as well?
+  b8:I think that I'll be able to.
+  b9:You are, right? Well, I wouldn't really know about...
+  b10:YOU SAID YOU CAN?!
+  b11:Really? I beg of you! Please help us!
+  b12:I repay you anyway I can...!
+  
+ p21:
+  b1:I wonder what sort of entity that this is...
+  b2:Is it a swarm of small creatures?
+  b3:Well, I guess there's no problem if they're united as /b/one individual...
+  b4:...Still, I have a bad feeling about this.
+  b5:That said, it's not like i can leave it as it is...
+  b6:Die.
+  sfx:snap crack pop
+  
+ p22:
+  b1:GET DOWN!!
+  
+ p23: n/a
+ 
+ p24: 
+  b1:What...just?!
+  b2:Kurayami's attack?!
+  b3:No, Kurayami was killed.
+  b4:There's something else... It seems they attacked in a way that was mixed in with Kurayami's killing intent.
+  b5:...What the hell are we being bombed with?!
+  b6:Ryouta-san!
+  b7:Are they trying to destroy the entire area without aiming...?
+  b8:I think it's the same person who's been testing me for a while now...
+  b9:...Uhm
+  b10:Takatou-kun
+  
+  p25:
+   b1:Since it fine now, would you mind letting go of me?
+   b2:Ah
+   b3:I was just thinking 'something is quite soft'.
+   b4:Don’t be hugging her tight like you’re in a Hollywood movie over there, can't you do something about this!!
+   b5:We aren’t embracing each other! It’s one-sided!!
+   b6:Even if you tell me to do something somehow, it looks like the attack is over.
+   b7:And besides, it was flying to fast for me to see what it was...
+   b8:...hm?
+   
+  p26:
+   b1:It’s a scene that’s a little hard to believe in, but ...
+   b2:Will you listen without making fun of me, Takatou-kun...?
+   b3:You can see them, Dannoura-san?
+   b4:yeah
+   b5:Women in red dresses...
+   b6:there's alot of them falling from the sky.
+  
+ 
+First off, thanks for reading chapter 12. The raws for Chapter 13 should release 5/31.
+ 
+Second, I'm sorry for being a bit delayed on the release. The txt file I was translating in got corrupted when my power cut out. I really shouldn't use notepad.
+
+Third, something I kind of left off in the TL that was talked about in earlier chapters. Everytime an Aggressor is mentioned in Japanese, it uses the kanji for invader, but has furigana next to it spelling out aggressor. Let me know if you think I should state it as 'Invader (Aggressor)' everytime or just leave it as 'Aggressor'.
+
+Lastly, the end of manga chapter 12 corresponds to the middle of webnovel chapter 36, but since there extra context at the beginning of that webnovel chapter, I recommend to start reading from the end of chapter 35.

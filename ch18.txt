@@ -1,0 +1,256 @@
+p1:
+ b1:In the beginning, 'it' was someone who gave blessings.
+ b2:'It' appeared out of nowhere, wandering aimlessly around the world.
+ b3:'It' answered peoples' prayers according to the number of sacrifices offered.
+ b4:It never did anything for itself, nor did it care about the good or bad outcome of the prayers.
+ b5:As if it was a machine, it would grant any wish as long as the sacrifices were offered.
+ b6:Naturally, people fought over it.
+ b7:Even though they were fighting, It continued to fulfill peoples' wishes as they desired.
+ b8:It did not take long for humanity to be cut down to half its original size.
+ b9:If left alone, humanity would destroy itself...
+ 
+p2:
+ b1:People finally realized.
+ b2:They realized that 'It' was something beyond humanity's control.
+ b3:Something that should be sealed away and untouchable by humanity...
+ b4:However, no attack landed on it.
+ b5:They all attacked without knowing what 'It' was thinking.
+ b6:But, it didn't fight back.
+ b7:People couldn't even confine it to any location.
+ b8:If that's the case, then we'll pray for it to perish.
+ b9:then surely he will die out.
+ b10:This wisdom was immediately implemented.
+ b11:'It' showed its intentions for the first time.
+ b12:That's fine.
+ b13:But, the price for that prayer...
+ 
+p3:
+ b1:Is all the lives of this world.
+ b2:'It' dispersed out maisma all over.
+ b3:Creating its underlings to trample down on the rest of the world.
+ b4:Humanity was not able to stand up against these underlings and was heading towards extinction.
+ b5:But then, the sages appeared.
+ 
+p4:
+ b1:And that's why 'It' came to be called 'Devil'...
+ b2:heeeh... That battle was really a thousand years ago.
+ b3:...Listening to that story makes me feel like it would be a mess if an outsider came and killed it so easily...
+ b4:We- well but, didn't it seem like the people in this world were in danger?
+ b5:But the miasma is still drifting out of there.
+ b6:There may be a time lag before reaching the surroundings due to the influence of the barrier.
+ b7:Then, no one will probably notice if we stay silent about it, right?
+ b8:I think so.
+ b9:Either way, we can't change what's been done.
+ b10:Okay.
+ b11:Let's quickly get to the bottom of the tower so we can talk to the Sword Saint then head to the capital.
+ b12:We got this!
+ b13:It's a secret!!
+ 
+p5:
+ b1:Star crystals are...?
+ 
+p6:
+ b1:Hey!
+ b2:Wait, Rainier!
+ b3:F-Fredrica-san!
+ b4:You have those custom stones, right?!
+ b5:Give it to me!
+ b6:What are you going to do?
+ b7:Restore my magic power!
+ b8:I think I've explained it before but...
+ b9:The stone is tied to me and isn't effective for other people...
+ b10:haa?!
+ b11:Then what did you follow me here for!
+ b12:You're completely useless! Forget it!
+ 
+p7:
+ b1:...would've went alone.
+ b2:well, it seems she doesn't want to go along with us...
+ b3:Which one are we going to go down?
+ b4:We're the last ones still up here...
+ text:sorry
+ b5:We don't really care, how about you Rick-san?
+ b6:There wasn't really a rule on when you arrive or leave, so it's fine.
+ b7:Collecting points in the tower and protecting you guys at the same time seems to be the least dangerous idea.
+ b8:If you say so...
+ b9:And it's as I expected.
+ b10:Take a look at the tower's routes.
+ b11:Waa!
+ 
+p8:
+ b1:What the! It's full of traps!
+ b2:It should be easy to navigate thanks to those who went first.
+ b3:They seem to have already eliminated most the monsters, traps, and other stuff.
+ b4:Looks like most the traps only go off once.
+ text:A cut wire...
+ b5:No one would get caught in a trap that they watched someone else get caught in.
+ b6:It would be really unlucky to set off a trap they somehow missed...
+ b7:Press
+ 
+p9:
+ b1:rainier-san!!
+ b2:Sorry, I'm really unlucky...
+ b3:That's definitely a fatal wound!!
+ b4:fuuu...
+ b5:I'd be dead if not for the apology stone...!
+ sfx:shine
+ text:wow
+ b6:you even have the same clothes as before.
+ 
+p10:
+ b1:These star crystals... what kind items are they?
+ b2:This is the first time I've seen them.
+ b3:Yeah, you're correct! It seems like I'm the only one who has them...
+ b4:They can be used for three things: one use is a complete recovery.
+ b5:Another use is like a power boost.
+ b6:And the third use...
+ b7:I can use three to do a gacha roll or 30 for a 10x gacha roll.
+ b8:gacha...
+ text:what's that?
+ b9:Just watch.
+ b10:C'mon!
+ b11:ooh!
+ b12:I got... a brush?!
+ 
+p11:
+ b1:...And so, I'm able to get a random item like this!
+ text:wow! *clap clap*
+ b2:Is it special?!
+ b3:[N] (normal) Brush! It's just a very ordinary brush!
+ b4:A miss?!
+ b5:Also, I can't use a stone unless it's in my hand.
+ b6:Could I trouble you to place a stone from my bag into my hand when I'm about to die?
+ b7:Huh? You only have three left?
+ b8:At midnight, I get a new apology stone for each bad luck event from the previous day.
+ b9:At the current rate of you dying, will three last you until midnight?!
+ b10:That's worrying... Also, why don't you just always hold one in your hand?
+ b11:Ah! Good Idea! I never thought of that!
+ b12:Tying it to my hand would be perfect!
+ text:You have anything to tie it with?
+ 
+p12:
+ b1:huh?
+ b2:what are you doing takatou-kun?
+ b3:well
+ b4:There's a chest behind the trap that hit Rainier-san...
+ b5:what's this?
+ b6:It says "1 point".
+ b7:Huh? It just disappeared.
+ b8:Does that mean that you get 1 point now?
+ b9:It's like a game.
+ b10:If that's the case, the people who went ahead have the advantage.
+ b11:hmm.. this way's is a dead end.
+ b12:Looks like the chest is empty too.
+ b13:Ah... This floor is gray.
+ b14:Doesn't that mean this is the battle area?
+ b15:hm?
+ b16:What's next to the door?
+ b17:"Only one person can exit"
+ b18:...Is what it says.
+
+ p13:
+  b1:I can feel magic coming from the door.
+  b2:This must be one of the trials.
+  b3:If only one person can exit, then only one person should enter!
+  b4:Would it really be that easy...?!
+  b5:Well, I'll go in first!
+  b6:And either way, I have the apology stone!
+  b7:eh?! Wait a minute rainier-san...
+  b8:Please leave it to me!
+  sfx:slam
+  b9:waa?!
+  b10:I guess it really is a special room.
+  b11:GYAAAAAAAAAAAA
+  b12:uwaa?!
+  b13:...He really got himself into something so quickly?!
+  b14:Let's go in.
+  
+ p14:
+  b1:Rainier-san! Are you alright?!
+  b2:*ara* oh my
+  b3:We meet again Rick-san.
+  b4:ah...!
+  b5:Teresa-dono!
+  b6:This is your work?!
+  
+ p15:
+  b1:You did all this...?
+  b2:Indeed
+  b3:But I don't think I can be blamed.
+  b4:After all, this room has a mechanism where the doors won't open if there is more than one inside...
+  b5:In other words, we're meannt to kill eachother.
+  b6:But until just now, you must've been in alone in this room.
+  b7:Meaning that you were probably waiting here...?
+  b8:Doing that...
+  b9:Well
+  b10:Apparently, it's a gimmick that only occurs once.
+  b11:The exit door can be opened freely now...
+  b12:The exit being...
+  b13:This door right behind me.
+  
+ p16:
+  b1:Fufufuu What will you do now? Return to the entrance?
+  b2:Don't go back! Look closely!
+  b3:There are thin wires hanging all over the place!
+  b4:*ara* oh my, You have such good eyes.
+  b5:It's a real shame you didn't get caught in my trap.
+  b6:Yeah, she's a swordsman of the roaring sword class...
+  b7:She's the only one among them who uses a thin thread-like sword...!
+  b8:Since when is "swordsman" such a broad term?!
+  b9:Tch! I'll stall her here.
+  b10:Try to find a gap and head for the exit!
+  b11:Fufufuu
+  b12:Sword Saint-sama would be troubled if the cannon fodder survived.
+  
+ p17:
+  b1:After all!
+  b2:Wouldn't you say...
+  b3:A knight of the holy king...
+  b4:has to be one of the strongest of them all!!
+  
+ p18:
+  b1:So strong!!
+  b2:Even though Rick-san is very strong... Who is this Teresa person...
+  b3:She's just playing around!
+  b4:Tch... If strength was the only qualification, you'd never have been disqualified!
+  b5:You wouldn't understand such a thing!!
+  b6:It's takes everything Rick has just to block her when she's simply having fun...!
+  b7:A single distraction would be lethal...!
+  
+ p19:
+  b1:Die.
+  
+ p20:
+ b1:...eh?
+ b2:Uhm
+ b3:Isn't this Rainier's hand and stone over here?
+ b4:Uwaaaaah
+ b5:Rainier-san!!
+ b6:I'm... sorry for my poor teamwork...
+ b7:Please place the stone in my remaining hand...urgh
+ b8:He's almost dead already!!
+ 
+ note1:thanks for reading chapter 18
+ note2:the end of manga chapter 18 corresponds to the end of webnovel volume 2 chapter 8
+ note3:i'm uploading these images in higher resolution, so if it has an impact (positive or negative), please do send feedback
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

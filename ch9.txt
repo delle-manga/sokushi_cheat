@@ -1,0 +1,292 @@
+p1:
+ b1:It really is...!
+ b2:This is one of Tachibana-kun's followers!
+ b3:His guards called her Erika!
+ b4:Do you think Tachibana was behind this?
+ b5:This is bad... We might have to fight him now.
+ b6:Tachibana also lives in this hotel, right?
+ b7:We should probably get out of here then.
+ b8:I don't know what powers he possesses as Dominator...
+ b9:I'd assume he has a grasp of his underlings' undertakings and situation.
+sfx:hmm
+
+p2:
+ b1:Well then, I'll hurry and get my things together!
+ b2:You're fine, dannoura-san?
+ b3:ehh?
+ b4:well... you sure are calm after seeing a corpse.
+ b5:I'm probably not be one to talk though.
+ b6:I'm actually pretty shocked...
+ b7:But, I might be getting used to it.
+ b8:I'm not sure how I feel about that though...
+ b9:All humans die eventually.
+ b10:Don't expect the daughter of a family of born warriors to be unnerved so easily.
+ b11:No, I just try not to think about it?!
+
+p3:
+ title:Ch 9: What do you mean you killed ice!? Are you getting philosophical again!?
+
+p4:
+ b1:At the same time
+ b2:Hanabusa Outskirts Inside a Dungeon
+ b3:Erika's perception...
+sfx:notification
+ b4:stopped transmitting?
+ b5:M- master, look out!!
+ b6:Be careful! It's over level 1000!
+ b7:hmm
+sfx:kiiiyaa
+
+p5:
+sfx:ranged attack
+sfx:shield block
+
+p6:
+ b1:What a let-down.
+sfx:Giiii?!
+
+p7:
+ b1:GYAAAA
+ b2:My... My arm?!
+ b3:Our boss isn't even strong enough?!
+ b4:idiot!
+ b5:There's no one with a higher level than our boss...!
+ b6:huuh?
+ b7:so there were monsters that could talk?
+ b8:Lord. After passing a certain level,
+ b9:monsters' intelligence will also rise, becoming able to comprehend human language.
+ b10:Oh really.
+ b11:Might use him as a low-tier slave then.
+ b12:A slave?!
+ b13:How dare you, a puny human!!
+
+p8: 
+ b1:Let's see
+ b2:Flare Bomb.
+ b3:Was that the right one?
+ b4:GYAA...
+
+p9:
+ b1:Guh..
+ b2:urgh...
+sfx:thud
+ b3:Guuuh
+sfx:stomp
+ b4:"Contract"
+
+p10:
+ b1:ugh...
+ b2:M- master...
+ b3:sama...
+ b4:okay, heal 'em stephanie.
+ b5:Heal!
+ b6:The other two died in the Flare Bomb.
+ b7:They are your bounty, Lord. Would you like to collect them as subjugation trophies?
+ b8:Please do, stephanie.
+ b9:As expected of Master!
+ b10:A monster of the hundredth floor doesn't stand a chance!
+ b11:Well, this thing's level 1000, right?
+ b12:With a level ten times as high, that much is to be expected.
+ b13:My level has already reached 10,000, ha.
+
+p11:
+ b1:Even while doing this, other slaves are out earning experience for me.
+ b2:Is master so strong that these ruins are boring?
+ b3:Yeah, honest fighting has become tiresome.
+ b4:How many floors are there in these ruins?
+ b5:There are 150 levels.
+ b6:Alright, descend to the bottom and gather new followers as you go.
+ b7:If you succeed, head up to the surface.
+ b8:I understand.
+ b9:That should be enough real battle experience.
+ b10:I now know that using skills in the middle of combat can be a bit difficult.
+ b11:Was that Flare Bomb?
+ b12:Yeah
+ b13:To be exact, I used the skill called "Borrow Slave's Skill".
+
+p12:
+ b1:"You can borrow any skills of the slaves that serve under you." It's pretty convenient. 
+ b2:The skills even become stronger as one's level rises.
+ b3:I guess I'll have to be careful to not accidentaly kill something from now on...
+ b4:Being too strong has become problem.
+ b5:My lord, you already transcend the point where it is actual combat or not.
+ b6:Master will surely be the one who reigns as king!
+ b7:Now then, shall we return home?
+ b8:Oh yeah!
+ b9:Erika's perception stopped transmitting a while ago.
+ b10:That's strange, Erika and the other two should be waiting back at the hotel...
+ []b11:They shouldn't bother master in the middle of battle! What failures of bodyguards!
+
+p13:
+ b1:...hmm?
+ b2:I don't get it.
+ b3:What is it, my lord?
+ b4:I just tried watching Erika's memory...
+ b5:It seems she died after hiding in a hotel hallway for a while.
+ b6:Maybe she was attacked from behind...
+ b7:My skill can only share from the perspective of the slave...
+ b8:dead...?
+ b9:She didn't just faint, right?
+ b10:It's difficult to believe an assassin like Erika would be taken from behind...
+ b11:Why was Erkia was lurking in a corridor in the first place?
+
+p14:
+ b1:The hotel's hallway...
+ b2:Was Erika by chance...
+ b3:in front of the room of that woman with the strange name? Dannoura, I think.
+ b4:In order to watch or kidnap her for you...
+ b5:But, I didn't order her to do such?
+ b6:Perhaps Erika planned to bring that woman in hopes to to please master...
+ b7:Or she might have tried to eliminate her after deeming her unworthy of master.
+ b8:I think it is because one of those.
+ b9:Eliminate?  
+ b10:Wouldn't she aim to act in a way that would not her master problems?
+ b11:Of course...
+ b12:However, one might act voluntarily if they believe it will benefit their lord.
+ b13:What we believe to be right has a possibility of not aligning with your  intentions.
+
+p15:
+ b1:oh well
+ b2:Now that she's dead... there's no way to figure out what she was thinking.
+ b3:Shame, she was expensive.
+ b4:There are a few settlements nearby with forest humans like Erika.
+ b5:We could raid them if my lord wants to... 
+ b6:Settlements like yours?
+ b7:Euphemia
+ b8:Are you trying to tell me something?
+ b9:Absolutely not.
+ b10:I was merely mentioning a fact.
+sfx:bow
+
+p16:
+sfx:sirens
+ b1:I thought that sticking with a single woman would be unbecoming of a <Dominator>, but the situation's changed.
+ b2:I'll have Riza and Chelsea, who stayed at the hotel, secure Dannoura-san for me.
+ b3:The cause of Erika's death...
+ b4:Maybe Dannoura will know something.
+ b5:Thanks for waiting, Takatou-kun!
+sfx:door opens
+ b6:Let's go!
+
+p17:
+ b1:Let's avoid the elevator and use the emergency stairs instead.
+ b2:Yeah
+ b3:The stairs are right around this corner-
+ b4:My oh my~
+ b5:what might have you two in such a rush?
+ b6:Fufufu *star*
+ b7:Aren't you one of Tachibana's...
+ b8:Guard Leader Riza! Why are you here?!
+
+p18:
+ b1:Fufuu~
+ b2:Juuust following orders!
+ b3:Kyaa?!
+ b4:What is this?!
+
+p19:
+ b1:Fufuu~ You seem to be trapped in ice~
+ b2:I was told by Yuuki-kun to bring Dannoura-san with me~
+ b3:so if you just come with me quietly, we won't have any prob??
+sfx:kick
+ b4:huh?
+ b5:We can get out here, Dannoura-san.
+ b6:eh?!
+
+p20:
+ b1:Are these more fragile than they look?
+ b2:...Uwaa?!
+ b3:So cold!!
+ b4:Why are these so hard!!
+ b5:I Tried killing the part of ice that I kicked.
+ b6:Looks like it worked.
+sfx:hmm 
+ b7:What do you mean you killed ice!?
+ b8:Are you getting philosophical again!?
+ b9:...whaa!!
+
+p21:
+ b1:What in the world are you!
+ b2:I don't understand!
+ b3:Uwaa Now a huge icicle...?!
+ b4:/b/Icicle, die.
+ b5:Now then...
+ b6:That /b/staff.
+ b7:Die as well.
+
+p22:restore tsu... bubble
+ b1:Can you use magic without a staff?
+ b2:N-no, I can't...
+ b3:Huh?
+ b4:The last magic users we met didn't use a staff?
+ b5:M-my class is Wand Master.
+ b6:It is not a class that can use magic without a wand that has sealed inside magic beforehand...
+ b7:If that's the case, then I can render someone powerless with my ability.
+ b8:Although, it's only limited to people who depend on items...
+ b9:It may have been successful this time, but there's no guarantee.
+
+p23:
+ b1:I think you may get it but,
+ b2:I will kill you instantly if you try to do anything.
+ b3:If you understand then I'll be asking some questions
+ b4:U-Understood...
+ b5:Since you use wands, you probably have more than that one, right?
+ b6:Where's the spares?
+ b7:Y-yes.
+ b8:This is the only one.
+ b9:Why hide it there of all places!?
+ b10:And Takatou-kun! Stop staring so intently!
+
+p24:
+ b1:But if she has wands that size then she might very well be hiding them elsewhere.
+ b2:Should we have her strip...
+sfx:hmm hmm
+ b3:I'm sure I could kill her /b/clothes but...
+text:i've never tried though
+ b4:EH?
+ b5:Nonono, you're joking, right?
+text:The "I can't believe this" Face
+ b6:She never complained about killing anyone, but stripping them is a no...
+ b7:But how would we know if she is hiding any other wands or powers?
+ b8:Wouldn't it be better to kill her?
+ b9:If I went around killing people who were potentially dangerous...
+ b10:Then soon no one would be left alive around me, you know.
+
+p25:
+ b1:You said you were ordered to take along Dannoura-san, right?
+ b2:You've got companions, right? Where are they?
+ b3:...Fufuu~
+ b4:Of course~
+ b5:Did they recieve the same orders?
+ b6:The ceiling?!
+
+p26: n/a
+
+p27:
+ b1:...ah
+ b2:...eh
+ b3:Just now...
+ b4:Dannoura-san?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

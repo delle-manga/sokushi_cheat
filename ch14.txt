@@ -1,0 +1,319 @@
+p1:
+ title:Alpha Omega
+
+p2:
+ b1:A certain city in japan
+ text:Institute of Higher-Life Sciences (Independent Administrative Corporation)
+ b2:uhm... I know I'm not very smart but...
+ b3:Are you sure this is a valid document?
+ b4:In short, it is a legal contract like "I won't complain even if I die at work", right?
+ b5:Yup!
+ text:Employment Period Mututal Confirmation Agreement
+ b6:The documents are almost meaningless in law, so can you sign them?
+ b7:even if you die, it's possible to dispose of everything without a trace.
+ b8:You just said something ridiculous without hesitation?!
+
+p3:
+ b1:We have alot of intense factional conflicts right now.
+ b2:Even though such a thing is trivial, I'll get blamed if I don't do it.
+ b3:So, I'd like to be able to say I got the person's approval in advance.
+ b4:uuu...
+ b5:Suspicious! To be honest, I want to go home!
+ b6:But, this is the final interview of all my random job applications...
+ b7:If I go home now, I'll have to go job hunting again...
+ b8:It's amazing salary and benefits, other than the required dormitory living.
+ b9:But still, it takes three hours by bus from the station to the top of the mountain...
+ b10:hmm... I'll head home and think it over...
+ b11:Wait please!
+ b12:You can't go home!
+ b13:What is this situation!
+ b14:It's like you want me to work as some sort of lab rat...
+ b15:Human experimentation at a laboratory is very simple!
+ b16:You will just have to work according to the conditions on the job offer slip.
+ b17:Well, there may be room for interpretation on what "generic" office work is...
+
+p4:
+ b1:This document...what'll happen if I don't sign it?
+ b2:I'll throw you in without a detailed explanation.
+ b3:Throw me in where!!
+ b4:haa... I don't know what I expected in coming here...
+ b5:Alright then...
+ b6:I'm glad you understand.
+ b7:Now then, I'll give you an ID card.
+text:Takatou Asaka
+
+p5:
+ b1:uhm...what kind of research institute is this?
+ b2:Is it some sort of evil secret organization...
+ b3:Of course not! After all, we're a research institute that protects Japan and the rest of the world.
+ b4:There's a bit of time until we get there. So, I'll explain as we go.
+ b5:The door to the offices can't be opened without the ID card, so please don't lose it.
+ b6:Now then... Takatou-san, do you know the term "Mutual Assured Destruction"?
+ b7:no...
+ b8:it's one of the "nuclear deterrents".
+ b9:Even if a nuke holding country surprises another, it's possible that the affected country will retaliate with nukes of its own.
+ b10:It's obvious that the use of nukes will result in the destruction of both sides.
+ b11:And so, we don't use nukes on eachother... It's a theory that "having nuclear weapons will protect one's own country from the nukes of another country".
+ b12:...So, while countries around the world are making nuclear weapons, Japan doesn't have a way to counter it.
+
+p6:
+ b1:...Does that mean you're doing nuclear weapon research here?!
+ b2:You're quick on the pickup, but no.
+ b3:The higher-ups are sticking to the Three Non-Nuclear Principles, so nuclear research in Japan isn't really allowed. 
+ b4:As such, we are here researching ways to compete with nuclear warfare...
+ b5:It's the study of curses.
+ b6:In other words, "If you use nuclear attacks, you will curse your country".
+ b7:What?
+
+p7:
+ b1:At first, I also thought it was...idiotic.
+ b2:...However, even if you don't understand the principles or reasoning, you can't help being silenced by the repeatability of phenomenons.
+ b3:/b/That's a category covered in science.
+ b4:...uhhm, when you said I might die. Did you mean that...
+ b5:Yes. By the "curse".
+ b6:Ah. When I say curse, there may be an image of dying from writhing in pain for a while but...
+ b7:It's fine because you will die instantly without time to feel pain.
+ b8:What do you mean that it's fine!!
+ b9:Okay, this is where we change elevators.
+ b10:It'll be a bit of a walk.
+ b11:eh...
+
+p8:
+ b1:What is this scary scene?!
+ b2:What's all this compact writing everywhere?!
+ b3:It's sutra*.	(buddhist scriptures)
+ b4:Some people use it to give them some peace of mind...
+ b5:eh... uhm...
+ b6:What's up ahead of this...
+ b7:Takatou-san's workplace.
+ b8:It's almost meaningless, but the upper floors are very afraid of "that" and wanted to keep it deep underground.
+ b9:So we had to create passages like this and elevators...
+ b10:What is the "that"?
+ b11:What in the world is my job...
+ b12:Takatou-san's job is to take care of a certain subject.
+
+p9:
+ b1:You mean "Subject"... is a person.
+ b2:Is that person the one who places curses?
+ b3:For now, we don't know whether it is a person or not.
+ b4:The report says that it has a human figure, but I've never actually seen it.
+ b5:eh... it's the research subject, right?
+ b6:Is it not being recorded?
+ b7:Well...
+ b8:We're still at a stage where we know next to nothing about it...
+ b9:The record is a piece of writing because of the concern of getting killed just by looking at it.
+ b10:Uh... That sounds like something out of a horror film...
+ b11:The subject's codename is "AΩ" (Alpha Omega).
+ b12:Takatou-san will write reports on AΩ and will also be in charge of taking care of it.
+ b13:no...that's...who are they? the person I'll be taking care of...
+ b14:Who is AΩ?
+ b15:If we knew that, there wouldn't be a problem.
+
+p10:
+ b1:At this point, what we know is...
+ b2:AΩ can kill anything just by thinking of it.
+ b3:At present, we haven't found a way to prevent it.
+ b4:In other words, as of now, it can't be used as a weapon since we can not control it.
+ b5:Additionally, we can't kill AΩ.
+ b6:Is it invincible?
+ b7:no, it probably has the regular strength of humans...
+ b8:There should be a way to kill it, but there is a reason we can't.
+ b9:AΩ detects the attack in advance and counterattacks.
+ b10:Since it has that nature, the idea was to use it for Mutual Assured Destruction.
+ b11:but...
+
+p11:
+ b1:AΩ can kill the opponent just by thinking.
+ b2:In other words, if it's not recognized by AΩ, then it can't be the target of the curse, right?
+ b3:After all, there's no way to think about someone you don't know or see...
+ b4:It's an individual curse... that is, if AΩ wants to kill only indivuidual targets.
+ b5:At least, it's been the case so far.
+ b6:If AΩ were to target a people in Japan...
+ b7:No, /b/it's possible/b/ that he could kill humans all over earth indiscriminately just by thinking.
+ b8:Haa?! Isn't that too absurd?
+ b9:It's just a possibility, but there's no proof against it.
+ b10:So, that's why we try not to mess around with it.
+ b11:well... uhm...
+ b12:What should I do with such a person...?
+ b13:I'd like AΩ to have a Japanese mentality.
+ b14:I'd want it to fight back when Japan is attacked.
+ b15:Takatou-san has a teacher's license, right?
+
+p12:
+ b1:Is that why I was hired...?!
+ b2:Yes. Just that.
+ b3:AHHHHH! Was I greedy to apply for everything i qualified for!!
+ b4:Now then
+ b5:This is as far as I can go with my clearance.
+ b6:You can get there from here just by following the path.
+ b7:I...I have to go alone?!
+ b8:Here's the instructions.
+ b9:Don't worry. There's nothing difficult.
+ b10:Now then, I'm off.
+ b11:ehh
+ b12:wait...!
+ b13:Ah, come on!
+ b14:I didn't know humans fell so far!!
+
+p13:
+ b1:beep beep
+ b2:ohh...
+ b3:it opened!
+ b4:This door is like a bank safe's...
+ b5:If it has to be confined, it's likely to be bad...
+
+p14:
+ b1:...ha?!
+ b2:A rural scene like this deep underground?!
+ b3:What in the world...
+ b4:the door is gone...
+ b5:It's some sort of landscape image.
+ text:It's not as large as I thought.
+
+p15:
+ b1:Deep underground in a facility in a mountain past thousands of sutra...
+ b2:After all that, I'm scared of what kind of person is down here...
+ b3:it looks like i'm supposed to go to the building past the torii...
+ b4:Uwaah... It's a perfect Japanese house~!!
+ b5:Hello!
+ b6:Is anyone there...?!
+ p7:Looks like the house isn't just a picture.
+ b8:It's dark...
+ b9:Excuse meee!
+ b10:Is anyone there?!
+ 
+p16:
+ b1:There's something moving.
+ b2:Maybe that room...
+ b3:"AΩ" (Alpha Omega)...
+ b4:What kind of monster is it...?!
+
+p17:n/a
+
+p18:
+sfx:blank stare
+
+p19:
+ b1:ASAKAAAAAAAAAA
+ b2:I was afraid for nothing!!
+ b3:What could a child like this even do you to!
+ b4:ehh?! Large adults are eager to lock such a thing in the basement!
+ b5:Why are you so afraid of a kid!!
+ b6:Haa?! Are they all idiots!!
+
+p20:
+ b1:And you too! You and your pasty, pale body!
+ b2:What are you doing quietly trapped in a place like this!!
+ b3:eh? uhm
+ b4:I've always been in this house though...
+ b6:Up you go
+ b7:waa
+ b8:onee-san...?!
+
+p21:
+ b1:Uryaaaa!!
+ b2:Come on! We're outside! so play!!
+ b3:Play with crayfish, kabuto shrimp, or something transparent and flimsy!
+ b4:Play with a firecracker in the ass of a frog!!
+ b5:Feel the emotion when you see a worm coming out of a mantis!!
+
+p22:
+ b1:I'm so angry that I got scared for nothing...
+ b2:And now I'm tired...
+ b3:Die
+ b4:ehh
+
+p23:
+ b1:ehh?!
+ b2:What is that black thing...?!
+ b3:I dunno? It seems like a bad spirit or something.
+ b4:I think it came here by hiding in the shadow of Onee-san.
+
+p24:
+ b1:shadow...? demon...?
+ b2:I don't know either but...they sometimes come to kill me.
+ b3:is that so...
+ b4:i was angry and forgot but...
+ b5:Is this kid really the "AΩ" that can kill by thinking...?
+ b6:Is Onee-san Masaki-san's replacement?
+ b7:Masaki-san?
+ b8:The person who has been with me at the house until recently!
+ b9:A new person sometimes replaces the old person...
+ b10:Ah...That's probly right. I came here without understanding though...
+ b11:I guess there was someone before me...
+ b12:Ah...I'm sorry! I caused you to get scared...!
+ b13:I was yelling.
+ b14:Anyways, I'm hungry!
+ b15:yeah, me too...
+ b16:ah, Am i supposed to make it?!
+ b17:Masaki-san used to make it...
+
+p25:
+ b1:really...i guess that's included in taking care of you.
+ b2:Haha, Onee-san's a funny person!
+ b3:is that so... even though it was unintentional...
+ b4:My name is Takatou Asaka.
+ b5:What's your name?
+ b6:The people here call me AΩ.
+ b7:No, no. That's their codename for you.
+ b8:What's your first name?
+ b9:First name?
+ b10:What's that...?
+ b11:before coming here, i was called "Okakushi-sama"...
+
+p26:
+ b1:Asaka-san, what is this?
+ b2:Is it food?
+ b3:It came to this, huh.
+ b4:I'm sorry, but we'll have to deal with this for tonight...
+ b5:Masaki-san used to have a lot of stuff in the refrigerator.
+ b6:Yeah, I already checked there.
+ b7:I never cooked for myself because it was too expensive and I didn't know what I was doing...
+text:sorry...
+ b8:It tastes good.
+ b9:A taste I've never eaten.
+ b10:really?
+ b11:Still though, is this kid really the AΩ they're so afraid of...
+ b12:hey... uhhm...
+ b13:Well, first off is your name...
+ b14:You really don't have one? What did your mother call you?
+ b16:Mother?
+sfx:blank stare
+
+p27:
+ b1:well...I guess its fine.
+ b2:Not having a name is inconvenient, and I don't want to keep saying AΩ.
+ b3:really?
+ b4:Well, Asaka is fine.
+ b5:Having the same name would be difficult.
+ b6:And too lazy.
+ b7:Then, is it fine if I decide it for you?
+ b8:Sure
+ b9:Okay then..."Yogiri"
+ b10:How's that?
+ b11:It's the name of the dog I had a long time ago but...
+ b12:I remembered him when I saw this child...
+ b13:Then, I'm Takatou Yogiri?
+ b14:Why did you choose my last name for yourself?!
+ b15:Isn't that what you put before your first name?
+ b16:Why's it become like a parent and child!!
+ b17:...well, it's not like you would know that.
+
+p28:
+ b1:Whether he's a monster, a weapon, or a surveillance tool...
+ b2:No one until now has ever done something like "living" with this child.
+ b3:I feel like this is a job that I'm fine with doing.
+ b4:Well theeen. From now on, your name is...
+ b5:Takatou Yogiri!
+ b6:This is a handsshake!
+ b7:"Yoroshiku"! Now you say it!
+ b8:Yoroshiku?
+T/N:Yoroshiku (yō-rō-sh-kū):nice to meet you, please treat me well
+
+note:
+First off, thanks for reading chapter 14. The raws of chapter 15 should release 7/26.
+Second, I apologize ahead of time if some of this is translated wrongly/poorly as there was no translated webnovel to base this off.
+Third, this chapter is based on content released exclusively in the published light novel (bonus chapter). As such, this manga chapter has no corresponding webnovel chapter, to my knowledge.
+Fourth, looking into what 'Okakushi-sama' means, you come across two main results. This series and a book about a mysterious god of money. Breaking it down: O-kakushi-sama (お隠しさま)　means something like 'hidden/secret lord' or just an even more respectful form of lord-sama. But I can't speak to specifics since I don't know Japanese.
+Also, the worm coming out of the mantis: https://www.youtube.com/watch?v=A8x841FSLgY
+Lastly, something interesting. Asaka's name in kanji (朝霞) means 'morning glow'. Yogiri's name in kanji (夜霧) means 'night fog'.
